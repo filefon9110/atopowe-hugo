@@ -1,0 +1,24 @@
+---
+title: Opryszczka z bonusem
+author: Ashitaka
+layout: post
+date: 2010-09-08
+url: /2010/09/08/opryszczka-z-bonusem/
+categories:
+  - Leczenie
+  - Objawy
+tags:
+  - psychika i ciało
+
+---
+Zniknęłam z eteru na jakiś czas, niestety nie z powodu utraty zainteresowanie tematem atopii, czy choćby wygranej w lotto. Nie było mnie długo, bo zmogła mnie choroba.
+
+Zaraz po powrocie z krótkich wakacji dopadła mnie pierwsza w życiu opryszczka. Z tym, że nie miałam pojęcia, że to to, bo nie miałam zimna ani nic takiego, nigdy, jak do tej pory&#8230; Jako, że wirus zaatakował mnie po raz pierwszy, było ciężko. A zaczęło się tak&#8230;
+
+<!--more-->Zaczęło swędzeć, myślałam, że to może uczulenie. W końcu spędziłam wiele godzin w pociągu, w brudzie i upale. Po powrocie do domu natychmiast wzięłam gorącą kąpiel, której tak brakowało mi podczas wakacyjnych traperskich wojaży. Po kąpieli kremy, balsamy, min. słabszy Protopic, odświeżona zjadłam neutralną alergicznie kolację i spać&#8230; Obudziłam się z sączącymi się krostami, po kilku godzinach już zdenerwowana założyłam sobie opatrunek z jałowej gazy spryskanej Octeniseptem, bo już nie widziałam co mam z sobą zrobić. W ciągu 24 godzin na normalnej cerze wykwitły olbrzymie ropiejące krosty, nie tylko w okolicy warg, ale i pod nosem,  na podbródku i zachodziły aż pod brodę. Wielkie, okropne, bolesne&#8230; Była niedziela wieczór&#8230; W poniedziałek zaraz po przebudzeniu nie zdejmując opatrunku, który wyglądał kiepsko z powodu przesięku pojechałam do szpitala na oddział dermatologii. Pominę wymownym milczeniem biurokrację, która na kilka ładnych godzin opóźniła moją wizytę lekarską. Grunt, że trafiłam do dermatologa. Pani doktor na mój widok założyła rękawiczki, podała mi Kodan w sprayu i poprosiła żebym sama zdjęła opatrunek, zwilżając go, bo nie chce mnie urazić. Zdjęłam&#8230; Ależ ten Kodan piecze!  Natychmiast dostałam garść gazików, bo paskudztwo na mojej twarzy urosło i broczył. Okazało się, że tym razem Protopic mi bardziej zaszkodził niż pomógł, ale Octenisept był doskonałym pomysłem. (Skąd u mnie w domu taki  środek? Ano swego czasu zrobiłam sobie nietypowy kolczyk i żeby mi się ładnie zagoił i nie zainfekował dbałam o niego za pomocą tego specyfiku, polecam, ma szerokie zastosowanie, nie wysusza jak woda utleniona, wyciąga paskudztwa na zewnątrz i dezynfekuje nie tylko skórę. Reszta w ulotce.) Lekarka zapisała mi Heviran, który brałam co 4 godziny przez 10 dni, Zinnat, 2 razy dziennie, Flumycod raz dziennie, Cezerę na dzień, Clemastin na noc i Paracetamol jakby mnie bolało&#8230; Poza tym 2 razy dziennie Octenisept. Szczerze, to psikałam nim częściej, a przez pierwsze 2 dni zakładałam na noc opatrunek z cienkiego gazika, bo nie chciałam żeby mi poduszka drażniła twarz. Przez kilka pierwszych dni mnie po prostu nie było. Budziłam się wyłącznie na dźwięk budzika obwieszczającego kolejną dawkę Heviranu i na posiłki. Nawet kot mnie nie budził jak miał pustą miskę, tylko robił oczy jak  ze „Shreka” jak się budziłam… Nie byłam w stanie oglądać TV ani buszowac po necie, a już sklecić zdania w mailu, czy pisać bloga, to mnie zupełnie przerastało.  Przepadł mi zlot… Żałuję bardzo. Nie dałam rady. Byłam zbyt przybita własnym kostropatym wyglądem. No i mogłam pozarażać…
+
+Jakby mi atopii było mało, dostałam bonusowo opryszczkę z zakażeniem. W akcie naukowego przebłysku, tudzież czarnego humoru, strzeliłam sobie nawet zdjęcie tego czegoś co miałam na twarzy, mówię wam, żadne zombie nie miały lepszej charakteryzacji&#8230;
+
+Po tygodniu kuracji opryszczka zeszła, strupki zaschły i odpadły, trochę zaróżowiona skóra była ładna. Przez chwilę. Na wizycie kontrolnej okazało się, że atopia zrobiła się najwyraźniej zazdrosna i wywaliła. Kolejne leki, ciut przestawione i kolejne 2 tygodnie kuracji&#8230; Miesiąc zwolnienia, izolacji, walki z własną psychiką i skórą, walki o jako taki wygląd twarzy. Naprawdę ciężko mi było na duchu.
+
+Nieocenionym wsparciem w tej sytuacji była dla mnie, jak zawsze, moja mama, która gdy tylko przyszła, wywlekała z łóżka, karmiła zupką i z wielkim przekonaniem wmawiała, że jest coraz lepiej. Generalnie bardzo mnie podbudowywała. Najbardziej było mi wstyd przed moim facetem, że wyglądam jak wyglądam, ale to on mnie zawiózł do szpitala (a mógł przecież uciec z krzykiem, wcale a wcale bym się nie zdziwiła) i także wspierał mnie tak jak potrafił. Nawet w połowie tego koszmaru pojechaliśmy na obiad do restauracji… Bardzo mi to pomogło. Niemniej miałam ochotę zamknąć się w skorupie i nie interesowałam się niczym poza moim odbiciem w lusterku&#8230; Teraz kończę kurację z Cezery (dzień) i Clemastinu (noc), początkowo też brałam słabszy Zinnat, miejscowo na skórę miałam zapisany paskudny Elocom. Oby było lepiej, oby na dłużej, czego każdemu łaciatemu życzę i pozdrawiam serdecznie.
