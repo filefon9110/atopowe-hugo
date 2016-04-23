@@ -7,3 +7,5 @@ description: >
   (skomentowane)
 theme: "hugo-zen"
 copyright: 2003-2016 Atopowe.pl
+params:
+  logo: /images/atopowe-logo.png
