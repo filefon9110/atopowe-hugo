@@ -1,6 +1,7 @@
 ---
 title: Alergia kontaktowa
 permalink: /Alergia_kontaktowa/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Alergia kontaktowa** to taka [alergia](/atopedia/Alergia "wikilink"), w której [reakcja alergiczna](/atopedia/Reakcja_alergiczna "wikilink") powstaje na skutek kontaktu fizycznego z danym materiałem.

@@ -1,6 +1,7 @@
 ---
 title: Kobalt
 permalink: /Kobalt/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Zwykle uczulenie na kobalt współistnieje z uczuleniem na chrom lub [nikiel](/atopedia/nikiel "wikilink"), co wynika ze wspólnych źródeł tych alergenów. Stosuje się też podobne postępowanie w unikaniu alergenów i leczeniu.

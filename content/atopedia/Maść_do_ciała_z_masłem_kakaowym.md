@@ -1,6 +1,7 @@
 ---
 title: Maść do ciała z masłem kakaowym
 permalink: /Maść_do_ciała_z_masłem_kakaowym/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 *Vit. E liq 10 ml*

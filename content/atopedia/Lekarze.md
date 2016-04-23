@@ -1,6 +1,7 @@
 ---
 title: Lekarze
 permalink: /Lekarze/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 [AZS](/atopedia/AZS "wikilink") to przewlekła, skomplikowana w genezie i przebiegu choroba. Dobrego lekarza, którego każdy z nas ma obowiązek dla siebie znaleźć, powinny charakteryzować następujące cechy:

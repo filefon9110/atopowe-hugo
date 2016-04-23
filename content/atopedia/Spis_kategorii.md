@@ -1,6 +1,7 @@
 ---
 title: Spis kategorii
 permalink: /Spis_kategorii/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Spis treści jest próbą uporządkowania zawartości Atopedii w innej formie niż pozwala to wiki. Układ spisu jest zbliżony do spisu treści w zwykłej książce i ma na celu uporządkowanie zawartości serwisu w logiczny układ. Niektóre hasła powtarzają się w różnych działach.

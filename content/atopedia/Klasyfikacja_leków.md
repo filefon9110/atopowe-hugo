@@ -1,6 +1,7 @@
 ---
 title: Klasyfikacja leków
 permalink: /Klasyfikacja_leków/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Sposób aplikowania leku:

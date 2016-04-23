@@ -1,6 +1,7 @@
 ---
 title: Przeczosy
 permalink: /Przeczosy/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Przeczos** - uszkodzenie [naskórka](/atopedia/Naskórek "wikilink") pod wpływem [drapania](/atopedia/Drapanie "wikilink"), najczęściej w kształcie linii. Przeczosy [goją się](/atopedia/Gojenie "wikilink") całkowicie i nie zostają po nich blizny.

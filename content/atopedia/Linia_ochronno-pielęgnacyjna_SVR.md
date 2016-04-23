@@ -1,6 +1,7 @@
 ---
 title: Linia ochronno-pielęgnacyjna SVR
 permalink: /Linia_ochronno-pielęgnacyjna_SVR/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 ### Emulsja SVR

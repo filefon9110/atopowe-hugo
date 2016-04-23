@@ -1,6 +1,7 @@
 ---
 title: Ciasteczka kruche na piwie
 permalink: /Ciasteczka_kruche_na_piwie/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Ciasteczka kruche na piwie zamiast jajka

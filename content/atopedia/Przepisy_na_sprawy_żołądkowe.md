@@ -1,6 +1,7 @@
 ---
 title: Przepisy na sprawy żołądkowe
 permalink: /Przepisy_na_sprawy_żołądkowe/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 [right](/Grafika:trawienie.png "wikilink")

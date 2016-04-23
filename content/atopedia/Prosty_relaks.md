@@ -1,6 +1,7 @@
 ---
 title: Prosty relaks
 permalink: /Prosty_relaks/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Podstawową techniką relaksacyjną jest uświadomienie sobie tego napięcia i rozluźnienie mięśni. Napięcie możesz uświadomić sobie w następujący sposób:

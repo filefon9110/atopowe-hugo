@@ -1,6 +1,7 @@
 ---
 title: Balneum Hermal
 permalink: /Balneum_Hermal/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Opis działania

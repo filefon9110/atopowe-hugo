@@ -1,6 +1,7 @@
 ---
 title: Terapia
 permalink: /Terapia/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 [thumb|Zjawiska towarzyszące AZS i podstawowe metody leczenia|left](/Grafika:Atopowe-diagram.png "wikilink")

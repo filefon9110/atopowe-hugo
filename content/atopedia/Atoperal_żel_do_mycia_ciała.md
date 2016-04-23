@@ -1,6 +1,7 @@
 ---
 title: Atoperal żel do mycia ciała
 permalink: /Atoperal_żel_do_mycia_ciała/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 *tuba 200 ml*

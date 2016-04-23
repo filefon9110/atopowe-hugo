@@ -1,6 +1,7 @@
 ---
 title: Psolaren
 permalink: /Psolaren/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Substancja zwiększająca wrażliwość skóry na działanie promieniowania słonecznego. Stosowana jest w terapii [PUVA](/atopedia/PUVA "wikilink") (psolaren + UVA) jako fotouczulacz.

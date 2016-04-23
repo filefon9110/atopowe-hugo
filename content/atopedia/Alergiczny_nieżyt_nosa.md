@@ -1,6 +1,7 @@
 ---
 title: Alergiczny nieżyt nosa
 permalink: /Alergiczny_nieżyt_nosa/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Alergiczny nieżyt [nosa](/atopedia/nos "wikilink")** objawia sie następująco (może wystąpić tylko jeden z objawów):

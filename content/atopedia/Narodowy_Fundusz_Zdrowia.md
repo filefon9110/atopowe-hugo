@@ -1,6 +1,7 @@
 ---
 title: Narodowy Fundusz Zdrowia
 permalink: /Narodowy_Fundusz_Zdrowia/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 *Zasadniczo, wszyscy wiedzą, czym jest Narodowy Fundusz Zdrowia.*

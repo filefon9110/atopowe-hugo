@@ -1,6 +1,7 @@
 ---
 title: Gdzie kupić Protopic
 permalink: /Gdzie_kupić_Protopic/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Dział z aptekami i cenami leków został wyłączony.

@@ -1,6 +1,7 @@
 ---
 title: Dział z lekarzami
 permalink: /Dział_z_lekarzami/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 | Dolnośląskie                         |

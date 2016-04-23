@@ -1,6 +1,7 @@
 ---
 title: Maść na odciski, modzele, zgrubiałe paznokcie
 permalink: /Maść_na_odciski,_modzele,_zgrubiałe_paznokcie/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 *Phenoli 0,6 !*

@@ -1,6 +1,7 @@
 ---
 title: Elementarz AZS
 permalink: /Elementarz_AZS/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 [right](/Grafika:SuperAtop.png "wikilink")

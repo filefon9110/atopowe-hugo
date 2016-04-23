@@ -1,6 +1,7 @@
 ---
 title: Marsz alergiczny
 permalink: /Marsz_alergiczny/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Badania epidemiologiczne oraz długofalowe obserwacje kliniczne wskazują na istnienie określonej sekwencji występowania schorzeń atopowych u danej osoby. Sekwencja ta kojarzy się z pojawianiem się i dynamiką zmienności swoistych [IgE](/atopedia/IgE "wikilink") przeciw alergenom pokarmowym i wziewnym.[1]

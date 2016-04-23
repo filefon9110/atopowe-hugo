@@ -1,6 +1,7 @@
 ---
 title: Atoperal Baby szampon
 permalink: /Atoperal_Baby_szampon/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 DLA DZIECI I NIEMOWLĄT

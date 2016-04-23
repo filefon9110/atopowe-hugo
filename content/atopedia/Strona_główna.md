@@ -1,6 +1,7 @@
 ---
 title: Strona główna
 permalink: /Strona_główna/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 __NOTOC__ __NOEDITSECTION__

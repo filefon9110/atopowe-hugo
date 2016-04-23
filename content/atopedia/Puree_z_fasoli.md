@@ -1,6 +1,7 @@
 ---
 title: Puree z fasoli
 permalink: /Puree_z_fasoli/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 [Grafika:pasta_fasolowa.JPG](/Grafika:pasta_fasolowa.JPG "wikilink")

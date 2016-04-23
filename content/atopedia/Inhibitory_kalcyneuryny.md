@@ -1,6 +1,7 @@
 ---
 title: Inhibitory kalcyneuryny
 permalink: /Inhibitory_kalcyneuryny/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 -   [Takrolimus](/atopedia/Takrolimus "wikilink") ([Protopic](/atopedia/Protopic "wikilink"))

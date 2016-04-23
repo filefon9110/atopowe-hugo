@@ -1,6 +1,7 @@
 ---
 title: Uierzalf
 permalink: /Uierzalf/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Uierzalf** jest [maścią](/atopedia/maść "wikilink") przeznaczoną do pielęgnacji krowich wymion. Co ciekawe, można ją dostać w niektórych sklepach kosmetycznych.

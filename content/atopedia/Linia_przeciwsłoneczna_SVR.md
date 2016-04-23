@@ -1,6 +1,7 @@
 ---
 title: Linia przeciwsłoneczna SVR
 permalink: /Linia_przeciwsłoneczna_SVR/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 ### SVR 50 UVB Krem

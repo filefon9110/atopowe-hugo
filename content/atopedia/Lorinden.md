@@ -1,6 +1,7 @@
 ---
 title: Lorinden
 permalink: /Lorinden/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 -   [Lorinden emulsja](/atopedia/Lorinden_emulsja "wikilink")

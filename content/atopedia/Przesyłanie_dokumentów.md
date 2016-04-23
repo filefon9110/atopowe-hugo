@@ -1,6 +1,7 @@
 ---
 title: Przesyłanie dokumentów
 permalink: /Przesyłanie_dokumentów/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Adres email

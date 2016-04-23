@@ -1,6 +1,7 @@
 ---
 title: Octenisept
 permalink: /Octenisept/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Środek do dezynfekcji OcteniSept do stosowania na rany, błonę śluzową i skórę

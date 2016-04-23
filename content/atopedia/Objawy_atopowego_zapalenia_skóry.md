@@ -1,6 +1,7 @@
 ---
 title: Objawy atopowego zapalenia skóry
 permalink: /Objawy_atopowego_zapalenia_skóry/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 [right](/Grafika:pecherzyki.png "wikilink")

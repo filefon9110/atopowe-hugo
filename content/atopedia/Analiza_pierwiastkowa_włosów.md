@@ -1,6 +1,7 @@
 ---
 title: Analiza pierwiastkowa włosów
 permalink: /Analiza_pierwiastkowa_włosów/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Analiza pierwiastkowa włosów** jest określana jako „metoda oceniająca stan biochemiczny organizmu”.

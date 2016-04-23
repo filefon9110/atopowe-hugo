@@ -1,6 +1,7 @@
 ---
 title: Zbiórka pieniędzy na hosting (2006)
 permalink: /Zbiórka_pieniędzy_na_hosting_(2006)/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 -   [Wątek na forum](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?t=3093)

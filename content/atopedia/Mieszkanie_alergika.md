@@ -1,6 +1,7 @@
 ---
 title: Mieszkanie alergika
 permalink: /Mieszkanie_alergika/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Mieszkanie alergika** powinno być wyposażone w taki sposób, aby było łatwo usuwać z niego [kurz](/atopedia/Kurz "wikilink"). Powinno wyglądać mniej więcej tak:

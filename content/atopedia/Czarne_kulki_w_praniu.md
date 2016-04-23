@@ -1,6 +1,7 @@
 ---
 title: Czarne kulki w praniu
 permalink: /Czarne_kulki_w_praniu/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Czasami [pranie](/atopedia/Pranie "wikilink") jest całe w czarnych kulkach z ciemnej mazi - coś jak bardzo miękka plastelina. Trudno się jest ich pozbyć, bo jest ich bardzo dużo i są wszędzie. Takie ubrania trzeba prać dwa razy: prać raz, trzepać z kulek, prać drugi raz.

@@ -1,6 +1,7 @@
 ---
 title: Atoperal Baby emulsja do kąpieli
 permalink: /Atoperal_Baby_emulsja_do_kąpieli/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 PIELĘGNACJA SKÓRY DZIECI I NIEMOWLĄT /SKÓRA ATOPOWA, SUCHA, WRAŻLIWA/

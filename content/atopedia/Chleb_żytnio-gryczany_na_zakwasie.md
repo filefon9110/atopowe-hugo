@@ -1,6 +1,7 @@
 ---
 title: Chleb żytnio-gryczany na zakwasie
 permalink: /Chleb_żytnio-gryczany_na_zakwasie/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Proporcje na 2 duże keksówki

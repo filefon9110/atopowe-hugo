@@ -1,6 +1,7 @@
 ---
 title: Szkodliwe substancje występujące w kosmetykach
 permalink: /Szkodliwe_substancje_występujące_w_kosmetykach/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Strona ta w przeszłości alarmowała o rzekomej szkodliwości parabenów. Informacje o szkodliwości parabenów nie zostały potwierdzone. Więcej na temat w artykule o [parabenach](/atopedia/paraben "wikilink").

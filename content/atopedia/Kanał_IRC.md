@@ -1,6 +1,7 @@
 ---
 title: Kanał IRC
 permalink: /Kanał_IRC/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Otwórz [kanał \#atopowe na QuakeNet](http://webchat.quakenet.org/?channels=atopowe), wpisz swoje imię albo nick i połącz się.

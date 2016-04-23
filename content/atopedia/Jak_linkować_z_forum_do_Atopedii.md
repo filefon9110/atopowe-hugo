@@ -1,6 +1,7 @@
 ---
 title: Jak linkować z forum do Atopedii
 permalink: /Jak_linkować_z_forum_do_Atopedii/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Linkuj ze swoich postów do forum w taki sposób jak tu jest opisany. Po pierwsze jest to bardzo wygodny dla czytelników sposób odsyłania ich forum do odpowiednich fragmentów Atopedii. Po drugie, wpływa to dobrze na **pozycjonowanie naszych stron na Google**.

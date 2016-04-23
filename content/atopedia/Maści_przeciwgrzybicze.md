@@ -1,6 +1,7 @@
 ---
 title: Maści przeciwgrzybicze
 permalink: /Maści_przeciwgrzybicze/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Maść przeciwgrzybicza z siarczanem miedziowym *(Cuprum sulfuricum)*. Wykazuje również działanie przeciwbakteryjne i ściągające.**

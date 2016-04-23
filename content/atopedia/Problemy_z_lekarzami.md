@@ -1,6 +1,7 @@
 ---
 title: Problemy z lekarzami
 permalink: /Problemy_z_lekarzami/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Wiele złego można powiedzieć o niedouczonych lekarzach, lekceważących pacjenta, nie zajmujących się nim. Często od nas samych zależy stosunek lekarza do nas, oraz to czy z nim współpracujemy, czy tylko żądamy cudów.

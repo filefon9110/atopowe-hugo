@@ -1,6 +1,7 @@
 ---
 title: Garnier mleczko do ciała
 permalink: /Garnier_mleczko_do_ciała/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Czy mleczko do ciała Garnier Intensywna Pielęgnacja Bardzo Suchej Skóry jest stworzone dla mnie?**

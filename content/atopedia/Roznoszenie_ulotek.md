@@ -1,6 +1,7 @@
 ---
 title: Roznoszenie ulotek
 permalink: /Roznoszenie_ulotek/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Jeżeli chcesz zanieść gdzieś [ulotki](/atopedia/ulotka "wikilink"), sprawdź czy ktoś nie zrobił tego kilka dni temu.

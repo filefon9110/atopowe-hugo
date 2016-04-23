@@ -1,6 +1,7 @@
 ---
 title: Inne maści - Pasta na odciski
 permalink: /Inne_maści_-_Pasta_na_odciski/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Rp.

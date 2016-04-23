@@ -1,6 +1,7 @@
 ---
 title: Szarlotka z kaszy mannej
 permalink: /Szarlotka_z_kaszy_mannej/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 -   1 szklanka kaszy mannej

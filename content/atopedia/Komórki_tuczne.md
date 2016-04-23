@@ -1,6 +1,7 @@
 ---
 title: Komórki tuczne
 permalink: /Komórki_tuczne/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Komórki tuczne -** umiejscowione są w błonach śluzowych i podśluzowych narządów układu pokarmowego, oddechowego, a także wokół naczyń i nerwów.

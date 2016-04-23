@@ -1,6 +1,7 @@
 ---
 title: Alergen
 permalink: /Alergen/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Alergeny** są to wszystkie substancje, które wywołują stan nadmiernego pobudzenia [układu immunologicznego](/atopedia/Układ_immunologiczny "wikilink"), prowadzącego zazwyczaj do stanu zapalnego danej tkanki lub narządu.

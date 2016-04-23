@@ -1,6 +1,7 @@
 ---
 title: Sandimmun Neoral
 permalink: /Sandimmun_Neoral/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Sandimmun Neoral**, 10 mg, kapsułki elastyczne

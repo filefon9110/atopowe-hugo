@@ -1,6 +1,7 @@
 ---
 title: Infekcja skóry
 permalink: /Infekcja_skóry/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Infekcja skóry** jest jednym z częstych zjawisk w przypadku ciężkich stanów atopowego zapalenia skóry. Infekcja objawia się często w postaci niegojących się i sączących ran. Obszary objęte infekcją mogą być różnej wielkości.

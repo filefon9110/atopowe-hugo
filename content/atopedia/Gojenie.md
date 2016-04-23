@@ -1,6 +1,7 @@
 ---
 title: Gojenie
 permalink: /Gojenie/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 ### Czy skóra i przewlekłe zmiany w AZS mogą przestać się goić?

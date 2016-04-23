@@ -1,6 +1,7 @@
 ---
 title: Filtr HEPA
 permalink: /Filtr_HEPA/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Filtr HEPA został opracowany w czasie drugiej wojny światowej przez Komisję Energii Atomowej (Atomic Energy Commission). Opracowano go w celu usuwania radioaktywnych cząsteczek brudu z powietrza. Miał on w szczególnym stopniu chronić system oddechowy człowieka.

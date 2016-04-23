@@ -1,6 +1,7 @@
 ---
 title: Roztocze kurzu domowego
 permalink: /Roztocze_kurzu_domowego/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 [thumb|right|Roztocze kurzu domowego](/Grafika:House_Dust_Mite.jpg "wikilink")

@@ -1,6 +1,7 @@
 ---
 title: Atopedia
 permalink: /Atopedia/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Atopedia to internetowa encyklopedia [atopowego zapalenia skóry](/atopedia/atopowe_zapalenie_skóry "wikilink"), stworzona i będąca pod opieką użytkowników [forum dyskusyjnego](/atopedia/forum_dyskusyjne "wikilink") poświęconego temu schorzeniu.

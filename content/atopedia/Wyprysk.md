@@ -1,6 +1,7 @@
 ---
 title: Wyprysk
 permalink: /Wyprysk/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Wypryskiem** nazywa się różnego rodzaju zmiany skórne. Jest to alergiczna choroba skóry.

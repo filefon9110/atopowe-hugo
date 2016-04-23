@@ -1,6 +1,7 @@
 ---
 title: Układ nerwowy
 permalink: /Układ_nerwowy/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Układ Nerwowy** - składa się z dwóch części :

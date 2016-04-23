@@ -1,6 +1,7 @@
 ---
 title: Rozluźnianie oczu
 permalink: /Rozluźnianie_oczu/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Przydatne przy długiej pracy z komputerem lub czytaniu.

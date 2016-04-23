@@ -1,6 +1,7 @@
 ---
 title: VitA-POS
 permalink: /VitA-POS/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Maść z witaminą A, nie zawiera środków konserwujących.**

@@ -1,6 +1,7 @@
 ---
 title: "Wykład: Podstawy patogenezy i terapii atopowego zapalenia skóry"
 permalink: "/Wykład:_Podstawy_patogenezy_i_terapii_atopowego_zapalenia_skóry/"
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Radom, 16 października 2012 r.

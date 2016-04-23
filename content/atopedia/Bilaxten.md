@@ -1,6 +1,7 @@
 ---
 title: Bilaxten
 permalink: /Bilaxten/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Bilaxten, 20 mg, tabletki**

@@ -1,6 +1,7 @@
 ---
 title: Elidel
 permalink: /Elidel/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Elidel** jest kremem immunosupresyjnym, czyli działającym poprzez obniżenie aktywności systemu immunologicznego. Nie jest to lek [sterydowy](/atopedia/kortykosterydy "wikilink") i można stosować go przez długi okres.

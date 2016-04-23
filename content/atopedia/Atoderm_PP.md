@@ -1,6 +1,7 @@
 ---
 title: Atoderm PP
 permalink: /Atoderm_PP/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Balsam emolientowy zapobiegający nawrotom przesuszenia skóry.

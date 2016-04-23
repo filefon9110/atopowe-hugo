@@ -1,6 +1,7 @@
 ---
 title: Glikol
 permalink: /Glikol/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 W skład wielu kosmetyków wchodzą **glikole**. Najprostszym glikolem jest glikol etylenowy HOCH<sub>2</sub>CH<sub>2</sub>OH. Rozpuszczalnik wielu substancji.

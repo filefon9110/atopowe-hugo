@@ -1,6 +1,7 @@
 ---
 title: Immunoglobulina
 permalink: /Immunoglobulina/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Immunoglobuliny w leczeniu alergii i chorób atopowych

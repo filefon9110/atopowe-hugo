@@ -1,6 +1,7 @@
 ---
 title: Wysięk
 permalink: /Wysięk/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Wysięk** jest jednym z objawów ciężkiego stanu [atopowego zapalenia skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink"). Obszar skóry objęty wysiękiem jest cały czas mokry i wycieka z niego przezroczysta, biaława lub żółtawa wydzielina. Obszar objęty wysiękiem potrafi również [swędzieć](/atopedia/świąd "wikilink").

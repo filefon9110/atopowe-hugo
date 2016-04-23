@@ -1,6 +1,7 @@
 ---
 title: Muffinki czekoladowe bez jajek
 permalink: /Muffinki_czekoladowe_bez_jajek/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 12-15 sztuk (zależnie od formy ;) )

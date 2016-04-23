@@ -1,6 +1,7 @@
 ---
 title: Kryteria AZS wg Hanifina i Rajka
 permalink: /Kryteria_AZS_wg_Hanifina_i_Rajka/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Kryteria AZS wg Hanifina i Rajka

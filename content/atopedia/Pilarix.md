@@ -1,6 +1,7 @@
 ---
 title: Pilarix
 permalink: /Pilarix/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 *krem nawilżająco - pielęgnujący do skóry, 50 ml*

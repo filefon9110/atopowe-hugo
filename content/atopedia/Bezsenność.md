@@ -1,6 +1,7 @@
 ---
 title: Bezsenność
 permalink: /Bezsenność/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 [left](/Grafika:Sen.png "wikilink")

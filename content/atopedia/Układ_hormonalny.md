@@ -1,6 +1,7 @@
 ---
 title: Układ hormonalny
 permalink: /Układ_hormonalny/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 [thumb|right|Gruczoły dokrewne](/Grafika:kobieta_small2.jpg "wikilink")

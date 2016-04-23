@@ -1,6 +1,7 @@
 ---
 title: Jak wstawić obrazek
 permalink: /Jak_wstawić_obrazek/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Obrazek zawsze wstawia się na konkretną stronę. To znaczy, że najpierw należy dotrzeć do strony na której chcemy wstawiać obrazek, a po dotarciu należy wykonywać następne kroki.

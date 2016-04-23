@@ -1,6 +1,7 @@
 ---
 title: Elo-baza
 permalink: /Elo-baza/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Elo-baza** krem intensywnie natłuszczający

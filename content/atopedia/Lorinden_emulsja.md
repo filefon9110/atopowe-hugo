@@ -1,6 +1,7 @@
 ---
 title: Lorinden emulsja
 permalink: /Lorinden_emulsja/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 *(Flumetasone pivalate)*

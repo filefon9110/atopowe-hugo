@@ -1,6 +1,7 @@
 ---
 title: Amertil
 permalink: /Amertil/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Przed zastosowaniem leku należy zapoznać się z jego właściwościami.

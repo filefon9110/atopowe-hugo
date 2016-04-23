@@ -1,6 +1,7 @@
 ---
 title: Astma oskrzelowa
 permalink: /Astma_oskrzelowa/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Astma oskrzelowa** - jest jednym ze schorzeń alergicznych, [atopowych](/atopedia/Atopia "wikilink"). Jest to stan zapalny dróg oddechowych, wyzwalany przez komórki zapalne (mastocyty, eozynofile, limfocyty T) związane z [reakcją alergiczną](/atopedia/Reakcja_alergiczna "wikilink").

@@ -1,6 +1,7 @@
 ---
 title: Pielęgnacja dłoni
 permalink: /Pielęgnacja_dłoni/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 ### Definicja

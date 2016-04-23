@@ -1,6 +1,7 @@
 ---
 title: Pytania do pierwszej edycji ankiety
 permalink: /Pytania_do_pierwszej_edycji_ankiety/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 To jest strona poświęcona wspólnemu przygotowaniu pytań do ankiety internetowej. Ankieta ma na celu zebranie od internautów informacji i późniejszą ich analizę statystyczną.

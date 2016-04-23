@@ -1,6 +1,7 @@
 ---
 title: Gdzie kupić Elidel, stara wersja
 permalink: /Gdzie_kupić_Elidel,_stara_wersja/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 ''Ta strona jest już nieaktualna.

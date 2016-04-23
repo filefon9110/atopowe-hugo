@@ -1,6 +1,7 @@
 ---
 title: Trójmiejski zlot
 permalink: /Trójmiejski_zlot/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 26 listopada 2005

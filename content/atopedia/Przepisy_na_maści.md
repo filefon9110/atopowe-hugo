@@ -1,6 +1,7 @@
 ---
 title: Przepisy na maści
 permalink: /Przepisy_na_maści/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 -   [Maści tłuste](/atopedia/Maści_tłuste "wikilink")

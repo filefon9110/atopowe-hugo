@@ -1,6 +1,7 @@
 ---
 title: Takrolimus
 permalink: /Takrolimus/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Takrolimus** jest substancją wytwarzaną przez grzyb *Streptomyces tsukabaenzi*, działającą immunomodulująco (głównie immunosupresyjnie) i przeciwzapalnie. Należy do grupy inhibitorów kalcyneuryny, podobnie jak cyklosporyna i [pimekrolimus](/atopedia/pimekrolimus "wikilink"). Znany jest od 1984 roku. Od dłuższego czasu stosowany jest we wspomaganiu leczenia po transplantacjach narządów. Działanie takrolimusu polega między innymi na:

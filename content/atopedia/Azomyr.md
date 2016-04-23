@@ -1,6 +1,7 @@
 ---
 title: Azomyr
 permalink: /Azomyr/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **ULOTKA DLA PACJENTA: INFORMACJA DLA UŻYTKOWNIKA**

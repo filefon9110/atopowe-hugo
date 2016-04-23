@@ -1,6 +1,7 @@
 ---
 title: Clatra
 permalink: /Clatra/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Clatra, 20 mg, tabletki**

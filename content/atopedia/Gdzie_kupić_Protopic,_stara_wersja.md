@@ -1,6 +1,7 @@
 ---
 title: Gdzie kupić Protopic, stara wersja
 permalink: /Gdzie_kupić_Protopic,_stara_wersja/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 *Strona ta jest już nieaktualna. Nie dopisujemy nowych cen w tym miejscu. Prosimy przejść do strony [gdzie kupić Protopic](/atopedia/gdzie_kupić_Protopic "wikilink").*

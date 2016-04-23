@@ -1,6 +1,7 @@
 ---
 title: Ulotka portalu
 permalink: /Ulotka_portalu/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Celem ulotki jest reklamowanie naszego serwisu wśród osób, które nie są w stanie dotrzeć do nas z wyszukiwarek internetowych lub rzadko korzystają z Internetu. Każdy chętny do pomocy może ściągnąć plik z ulotką, wydrukować i zanieść np. do swojej przychodni.

@@ -1,6 +1,7 @@
 ---
 title: Łojotokowe zapalenie skóry
 permalink: /Łojotokowe_zapalenie_skóry/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Łojotokowe zapalenie skóry** - jest czymś innym niż [atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink").

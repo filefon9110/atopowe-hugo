@@ -1,6 +1,7 @@
 ---
 title: Bułeczki bez drożdzy i proszku do pieczenia
 permalink: /Bułeczki_bez_drożdzy_i_proszku_do_pieczenia/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Składniki:**

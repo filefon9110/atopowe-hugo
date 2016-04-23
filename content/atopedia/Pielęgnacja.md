@@ -1,6 +1,7 @@
 ---
 title: Pielęgnacja
 permalink: /Pielęgnacja/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Pielęgnacja** skóry atopowej jest konieczna do utrzymywania jej w dobrym stanie. Do pielęgnacji skóry należą:

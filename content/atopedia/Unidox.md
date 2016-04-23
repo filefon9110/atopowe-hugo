@@ -1,6 +1,7 @@
 ---
 title: Unidox
 permalink: /Unidox/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Unidox Solutab®

@@ -1,6 +1,7 @@
 ---
 title: Lirra
 permalink: /Lirra/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Lirra, 5 mg, tabletki powlekane**

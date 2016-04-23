@@ -1,6 +1,7 @@
 ---
 title: Węzły chłonne
 permalink: /Węzły_chłonne/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Węzły chłonne** są istotnym elementem [układu immunologicznego](/atopedia/układ_immunologiczny "wikilink"). W węzłach chłonnych następuje *utylizacja* szkodliwych bakterii, ciał obcych oraz komórek rakowych.

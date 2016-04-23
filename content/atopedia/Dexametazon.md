@@ -1,6 +1,7 @@
 ---
 title: Dexametazon
 permalink: /Dexametazon/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Dexametazon** - syntetyczny [kortykosteryd](/atopedia/kortykosterydy "wikilink"). Nie wszyscy wiedzą, że jest składnikiem znanej chińskiej maści [Piyan Ping](/atopedia/Piyan_Ping "wikilink") (alias [Maść 999](/Maść_999 "wikilink")).

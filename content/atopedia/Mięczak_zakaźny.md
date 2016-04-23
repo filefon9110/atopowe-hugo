@@ -1,6 +1,7 @@
 ---
 title: Mięczak zakaźny
 permalink: /Mięczak_zakaźny/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Mięczak zakaźny** *(molluscum contagiosum)* jest chorobą skóry powodowaną przez wirusa [Poxvirus](/atopedia/Poxvirus "wikilink"). W kilka tygodni od zakażenia, które najczęściej następuje na basenie, na skórze powstają guzki wielkości kilku milimetrów.

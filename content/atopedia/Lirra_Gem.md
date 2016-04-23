@@ -1,6 +1,7 @@
 ---
 title: Lirra Gem
 permalink: /Lirra_Gem/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 '''Lirra Gem, 5 mg, tabletki powlekane '''

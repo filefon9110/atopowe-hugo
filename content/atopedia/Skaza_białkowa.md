@@ -1,6 +1,7 @@
 ---
 title: Skaza białkowa
 permalink: /Skaza_białkowa/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Skaza białkowa** - nazwą tą określa się alergie niemowlęce, przypisując jej objawy skórne [alergii pokarmowej](/atopedia/alergia_pokarmowa "wikilink"), ponieważ niemowlę odżywia się początkowo mlekiem matki. W rzeczywistości alergia niemowlęcia wcale nie musi być związana z białkiem. Wpływ na alergię dziecka może mieć dieta matki karmiącej lub inne alergeny. Przy stwierdzonej skazie białkowej lekarze zalecają matkom stosowanie [diety eliminacyjnej](/atopedia/Dieta_eliminacyjna "wikilink"), a wprowadzanie nowych pokarmów do diety dziecka powinno odbywać się stopniowo i powoli.

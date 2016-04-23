@@ -1,6 +1,7 @@
 ---
 title: Krytyka medycyny alternatywnej
 permalink: /Krytyka_medycyny_alternatywnej/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 [Medycyna alternatywna](/atopedia/Medycyna_alternatywna "wikilink") bywa w dyskusjach oraz opiniach stawiana na równi z medycyną. W rzeczywistości równości takiej nie ma. Ten artykuł tłumaczy różnice oraz pomaga zastanowić się nad tym, jakie znaczenia kryją się za słowami takimi jak leczenie i skuteczność.

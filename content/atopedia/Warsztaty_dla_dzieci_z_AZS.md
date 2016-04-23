@@ -1,6 +1,7 @@
 ---
 title: Warsztaty dla dzieci z AZS
 permalink: /Warsztaty_dla_dzieci_z_AZS/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 4 – 5 czerwca 2011

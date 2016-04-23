@@ -1,6 +1,7 @@
 ---
 title: Limfocyty T
 permalink: /Limfocyty_T/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Limfocyty T** występują głównie w czasie infekcji wirusowych. Są odpowiedzialne za niszczenie komórek zakażonych przez wirusy, nowotwory, opóźniają reakcje alergiczne, a także pełnią funkcje odrzucania przeszczepów.

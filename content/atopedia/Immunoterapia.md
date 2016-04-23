@@ -1,6 +1,7 @@
 ---
 title: Immunoterapia
 permalink: /Immunoterapia/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Immunoterapia**, **odczulanie** polega na przyjmowaniu niewielkich (zwykle rosnących) dawek danego [alergenu](/atopedia/Alergen "wikilink"), na który chcemy sie odczulić. Kuracja ma na celu nauczenie organizmu nowej reakcji i oduczenia burzliwej [reakcji alergicznej](/atopedia/Reakcja_alergiczna "wikilink"). Najczęściej odczula się na alergeny wziewne (czyli te, które trudno jest wyeliminować).

@@ -1,6 +1,7 @@
 ---
 title: Babeczki bez jajek
 permalink: /Babeczki_bez_jajek/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Składniki:

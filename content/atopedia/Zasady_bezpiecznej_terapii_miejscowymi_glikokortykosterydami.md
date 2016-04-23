@@ -1,6 +1,7 @@
 ---
 title: Zasady bezpiecznej terapii miejscowymi glikokortykosterydami
 permalink: /Zasady_bezpiecznej_terapii_miejscowymi_glikokortykosterydami/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 1.  Nie stosuj miejscowych preparatów glikokortykosteroidowych w leczeniu chorób skóry bez prawidłowo postawionej diagnozy. [GKS](/atopedia/Kortykosterydy "wikilink") są wyrafinowaną formą leczenia objawowego chorób przebiegających z zaburzeniami immunologicznymi i stanem zapalnym, jednak nie eliminują przyczyn ich powstawania. Niejednokrotnie zdarza się, iż po zaprzestaniu terapii objawy choroby wracają znacznie bardziej nasilone.

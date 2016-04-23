@@ -1,6 +1,7 @@
 ---
 title: Ciasteczka z niespodzianką
 permalink: /Ciasteczka_z_niespodzianką/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Z przepisu wychodzi ok. 20 sztuk

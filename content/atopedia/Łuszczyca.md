@@ -1,6 +1,7 @@
 ---
 title: Łuszczyca
 permalink: /Łuszczyca/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Łuszczyca** (*psoriasis*) - jest inną jednostką chorobową niż [atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink"). Bywa często mylona z AZS. Cechy wspólne łuszczycy i AZS to nieznane przyczyny oraz nawrotowy charakter. W przeciwieństwie do AZS, łuszczyca nie jest związana z [alergią](/atopedia/alergia "wikilink"), choć mówi się o jej związkach z układem odpornościowym.

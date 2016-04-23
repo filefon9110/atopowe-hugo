@@ -1,6 +1,7 @@
 ---
 title: Poznański Zlot
 permalink: /Poznański_Zlot/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 2 kwietnia 2005

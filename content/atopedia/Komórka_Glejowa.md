@@ -1,6 +1,7 @@
 ---
 title: Komórka Glejowa
 permalink: /Komórka_Glejowa/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Tkanka glejowa**, to specjalna tkanka, która powstała z trzeciego listka zarodkowego - mezodermy, i zbudowana jest z nienerwowych komórek gwiaździstych, otaczających wypustkę długą - **akson**, wewnątrz centralnego (ośrodkowego) układu nerwowego. Jej funkcją jest przede wszystkim ochrona tkanki nerwowej i zaopatrywanie jej w substancje odżywcze (np. cukier - glukozę).

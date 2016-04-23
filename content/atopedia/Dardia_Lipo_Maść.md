@@ -1,6 +1,7 @@
 ---
 title: Dardia Lipo Maść
 permalink: /Dardia_Lipo_Maść/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Maść jest przeznaczona do bardzo suchej skóry. Może być stosowana u dzieci powyżej 2 roku życia.

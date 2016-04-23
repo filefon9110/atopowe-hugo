@@ -1,6 +1,7 @@
 ---
 title: Efekt błędnego koła
 permalink: /Efekt_błędnego_koła/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Osoby chore na AZS często wpadają w sytuację, w której następuje dodatnie sprzężenie zwrotne pomiędzy [objawami](/atopedia/objawy_atopowego_zapalenia_skóry "wikilink") i [przyczynami](/atopedia/przyczyny_atopowego_zapalenia_skóry "wikilink").

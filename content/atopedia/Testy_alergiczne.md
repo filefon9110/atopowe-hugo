@@ -1,6 +1,7 @@
 ---
 title: Testy alergiczne
 permalink: /Testy_alergiczne/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **Testy alergiczne** pomagają określić jakie alergeny nas uczulają; w zależności od rodzaju testów, różna jest ich wartość praktyczna.

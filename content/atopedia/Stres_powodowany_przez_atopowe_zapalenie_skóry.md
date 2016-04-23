@@ -1,6 +1,7 @@
 ---
 title: Stres powodowany przez atopowe zapalenie skóry
 permalink: /Stres_powodowany_przez_atopowe_zapalenie_skóry/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 Osoby cierpiące na [atopowe zapalenie skóry](/atopedia/atopowe_zapalenie_skóry "wikilink") są narażone nie tylko na [stres](/atopedia/stres "wikilink") zewnętrzny, ale również na stres wynikający z samej choroby, związanych z nią doznań i cierpienia. Jest bardzo ważne, aby chory na AZS oraz osoby z najbliższego otoczenia były tego świadome, a nie zawsze tak się dzieje.

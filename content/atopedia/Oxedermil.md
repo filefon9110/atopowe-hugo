@@ -1,6 +1,7 @@
 ---
 title: Oxedermil
 permalink: /Oxedermil/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 OXEDERMIL KREM DO SKÓRY 50 ML

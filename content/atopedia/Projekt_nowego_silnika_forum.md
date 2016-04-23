@@ -1,6 +1,7 @@
 ---
 title: Projekt nowego silnika forum
 permalink: /Projekt_nowego_silnika_forum/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 *To jest [moja](/atopedia/Wikipedysta:Wahwah "wikilink") strona robocza*

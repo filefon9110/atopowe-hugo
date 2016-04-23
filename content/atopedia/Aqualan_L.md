@@ -1,6 +1,7 @@
 ---
 title: Aqualan L
 permalink: /Aqualan_L/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 **AQUALAN L - emolient półtłusty.**

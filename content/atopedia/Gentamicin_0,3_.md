@@ -1,6 +1,7 @@
 ---
 title: Gentamicin 0,3%
 permalink: /Gentamicin_0,3%/
+date: "2015-01-01T00:00:00+01:00"
 ---
 
 GENTAMICIN; GENTAMICIN-RATIOPHARM; GENTAMYCIN
