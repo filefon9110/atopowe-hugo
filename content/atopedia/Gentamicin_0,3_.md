@@ -100,4 +100,4 @@ Maść, krople do oczu oraz krem zachowują ważność przez 1 miesiąc od daty 
 
 Przed zastosowaniem leku sprawdzić datę ważności podaną na etykiecie. Nie stosować leku po terminie ważności.
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:antybiotyki](/kategoria:antybiotyki "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink")

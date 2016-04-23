@@ -20,4 +20,4 @@ Przepis już sprawdzony,ciasto na 100 % wychodzi a łatwiej przygotować niż tr
 
 *Źródło:* Alice Sherwood "Książka kucharska dla alergika"
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

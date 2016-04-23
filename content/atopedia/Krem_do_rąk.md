@@ -18,4 +18,4 @@ Uwaga: niestety są apteki które wciskają kit, że składnik Cera flava jest n
          Aquae destillatae      15,0
       M.f. Ung.
 
-[kategoria:kremy](/kategoria:kremy "wikilink")
+[kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

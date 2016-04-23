@@ -165,4 +165,4 @@ ul. Grunwaldzka 189
 
 tel. (61) 8601-200
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

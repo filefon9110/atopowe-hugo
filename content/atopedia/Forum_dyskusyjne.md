@@ -18,4 +18,4 @@ Zapraszamy na forum dyskusyjne dotyczące atopowego zapalenia skóry.
 -   [Alkohol i AZS](https://www.atopowe.pl/forum/viewtopic.php?f=3&t=1580)
 -   [Też was tak drażni jak wam mówią żeby się nie drapać?](https://www.atopowe.pl/forum/viewtopic.php?f=14&t=166)
 
-[kategoria:Serwis](/kategoria:Serwis "wikilink")
+[kategoria:Serwis](/atopedia/kategoria:Serwis "wikilink")

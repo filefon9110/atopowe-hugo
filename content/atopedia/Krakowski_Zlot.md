@@ -22,4 +22,4 @@ W sobotę 13.10.2007 odbyło się małe, krakowskie spotkanie.
 
 <div style="clear: both">
 </div>
-[kategoria:Spotkania](/kategoria:Spotkania "wikilink")
+[kategoria:Spotkania](/atopedia/kategoria:Spotkania "wikilink")

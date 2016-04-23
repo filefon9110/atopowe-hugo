@@ -10,8 +10,8 @@ Fexofenadini hydrochloridum
 **Zobacz również:**
 
 -   [Wątek na Forum](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=10&t=1244)
--   [Telfexo](/Telfexo "wikilink"), polski odpowiednik Telfastu
--   [Inne leki antyhistaminowe](/:kategoria:leki_antyhistaminowe "wikilink")
+-   [Telfexo](/atopedia/Telfexo "wikilink"), polski odpowiednik Telfastu
+-   [Inne leki antyhistaminowe](/atopedia/:kategoria:leki_antyhistaminowe "wikilink")
 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
@@ -159,4 +159,4 @@ Sanofi-Aventis Sp. z o.o.
 ul. Bonifraterska 17
 00-203 Warszawa
 
-[kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe III generacji](/kategoria:leki_antyhistaminowe_III_generacji "wikilink") [kategoria:leki doustne](/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe III generacji](/atopedia/kategoria:leki_antyhistaminowe_III_generacji "wikilink") [kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

@@ -7,4 +7,4 @@ Po zebraniu pewnej liczby wypełnionych ankiet możemy pomyśleć o przeanalizow
 
 Analiza danych powinna polegać na oznaczeniu zależności pomiędzy czynnikami.
 
-[kategoria:Ankieta](/kategoria:Ankieta "wikilink")
+[kategoria:Ankieta](/atopedia/kategoria:Ankieta "wikilink")

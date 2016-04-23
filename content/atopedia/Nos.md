@@ -14,6 +14,6 @@ Jego błona śluzowa jest narażona na działanie wielu szkodliwych czynników, 
 
 **Zobacz też**
 
--   [Alergiczny nieżyt nosa](/Alergiczny_nieżyt_nosa "wikilink")
+-   [Alergiczny nieżyt nosa](/atopedia/Alergiczny_nieżyt_nosa "wikilink")
 
-[kategoria: Ciało człowieka](/kategoria:_Ciało_człowieka "wikilink")
+[kategoria: Ciało człowieka](/atopedia/kategoria:_Ciało_człowieka "wikilink")

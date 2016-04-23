@@ -33,7 +33,7 @@ Zalecane środki ostrożności
 
 Leku Xyzal nie należy stosować:
 
--   w przypadku nadwrażliwości ([alergii](/alergia "wikilink")) na dichlorowodorek lewocetyryzyny, na inne składniki leku lub na jakąkolwiek substancję o podobnej budowie chemicznej,
+-   w przypadku nadwrażliwości ([alergii](/atopedia/alergia "wikilink")) na dichlorowodorek lewocetyryzyny, na inne składniki leku lub na jakąkolwiek substancję o podobnej budowie chemicznej,
 -   u pacjentów z ciężką niewydolnością nerek,
 -   u pacjentów z zaburzeniami wrodzonymi takimi jak: nietolerancja galaktozy, niedobór Lapp laktazy lub złe wchłanianie glukozo-galaktozy.
 
@@ -119,4 +119,4 @@ Nie stosować leku po upływie daty ważności podanej na opakowaniu.
 
 **Data zatwierdzenia ulotki: 12 stycznia 2002**
 
-[kategoria:leki doustne](/kategoria:leki_doustne "wikilink") [kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe III generacji](/kategoria:leki_antyhistaminowe_III_generacji "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe III generacji](/atopedia/kategoria:leki_antyhistaminowe_III_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

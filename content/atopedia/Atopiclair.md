@@ -9,7 +9,7 @@ Atopiclair® krem
 Wskazania:
 ----------
 
-Atopiclair jest wskazany w niwelowaniu [świądu](/świąd "wikilink"), zaczerwienienia i bólu towarzyszącym różnym schorzeniom skóry, w tym atopowemu i alergicznemu kontaktowemu zapaleniu skóry. Atopiclair ponadto zapewnia suchej, łuszczącej się skórze właściwe warunki fizjologiczne, co jest niezbędne w procesie gojenia się.
+Atopiclair jest wskazany w niwelowaniu [świądu](/atopedia/świąd "wikilink"), zaczerwienienia i bólu towarzyszącym różnym schorzeniom skóry, w tym atopowemu i alergicznemu kontaktowemu zapaleniu skóry. Atopiclair ponadto zapewnia suchej, łuszczącej się skórze właściwe warunki fizjologiczne, co jest niezbędne w procesie gojenia się.
 
 Atopiclair nie zawiera mleka ani składników pochodzenia zwierzęcego.
 
@@ -45,4 +45,4 @@ Nazwa Atopiclair® jest zastrzeżonym znakiem handlowym Sinclair Pharmaceuticals
 
 **Wyłączny dystrybutor na terenie Polski:** P.F. Jelfa S.A, ul. Wincentego Pola 21, 58-500 Jelenia Góra
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

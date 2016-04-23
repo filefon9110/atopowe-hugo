@@ -25,6 +25,6 @@ U różnych osób napięcie kumuluje się w różnych miejscach. Spróbuj odkry�
 
 **Zobacz też**
 
--   [Techniki relaksacyjne](/Techniki_relaksacyjne "wikilink")
+-   [Techniki relaksacyjne](/atopedia/Techniki_relaksacyjne "wikilink")
 
-[kategoria:Psychika](/kategoria:Psychika "wikilink")
+[kategoria:Psychika](/atopedia/kategoria:Psychika "wikilink")

@@ -7,6 +7,6 @@ permalink: /Spojówka/
 
 **Zobacz też**
 
--   [Alergiczne zapalenie spojówek](/Alergiczne_zapalenie_spojówek "wikilink")
+-   [Alergiczne zapalenie spojówek](/atopedia/Alergiczne_zapalenie_spojówek "wikilink")
 
-[kategoria: Ciało człowieka](/kategoria:_Ciało_człowieka "wikilink")
+[kategoria: Ciało człowieka](/atopedia/kategoria:_Ciało_człowieka "wikilink")

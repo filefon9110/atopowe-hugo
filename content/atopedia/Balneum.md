@@ -30,7 +30,7 @@ Wskazania
 
 Do kąpieli natłuszcząjacej w balneoterapii dermatologicznej.
 
-Wspomagające leczenie chorób skóry przebiegających z suchością i lekkim świądem, jak np.: [atopowe zapalenie skóry](/atopowe_zapalenie_skóry "wikilink"), [łuszczyca](/łuszczyca "wikilink"), [rybia łuska](/rybia_łuska "wikilink"), świąd starczy, wypryski, takie jak: wyprysk "pieluszkowy", wyprysk kontaktowy wywołany środkami do mycia, wyprysk przewlekły.
+Wspomagające leczenie chorób skóry przebiegających z suchością i lekkim świądem, jak np.: [atopowe zapalenie skóry](/atopedia/atopowe_zapalenie_skóry "wikilink"), [łuszczyca](/atopedia/łuszczyca "wikilink"), [rybia łuska](/atopedia/rybia_łuska "wikilink"), świąd starczy, wypryski, takie jak: wyprysk "pieluszkowy", wyprysk kontaktowy wywołany środkami do mycia, wyprysk przewlekły.
 
 Przeciwwskazania
 ----------------
@@ -93,7 +93,7 @@ Po kąpieli skórę lekko osuszyć ręcznikiem. Silne wycieranie i tarcie ręczn
 Działania niepożądane
 ---------------------
 
-W czasie stosowania Balneum Hermal® może wystąpić, w pojedynczych przypadkach, zaczerwienienie, [świąd](/świąd "wikilink") i [pieczenie](/pieczenie "wikilink") skóry.
+W czasie stosowania Balneum Hermal® może wystąpić, w pojedynczych przypadkach, zaczerwienienie, [świąd](/atopedia/świąd "wikilink") i [pieczenie](/atopedia/pieczenie "wikilink") skóry.
 
 Przed zastosowaniem leku należy sprawdzić datę ważności podaną na opakowaniu, nie stosować leku po terminie ważności.
 
@@ -111,4 +111,4 @@ HERMAL Kurt Herrmann GmbH & Co OHG
 
 Scholtzstr. 3, 0-21465 Reinbek, Niemcy
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:kosmetyki](/kategoria:kosmetyki "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

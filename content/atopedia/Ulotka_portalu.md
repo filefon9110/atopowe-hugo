@@ -16,11 +16,11 @@ Tu jest wersja ulotki do druku:
 Roznoszenie ulotek
 ------------------
 
-Nasz projekt ulotkowy polega na tym, że każdy kto chce przyczynić się do popularności naszego serwisu, może pobrać i wydrukować sobie ulotki, a następnie pociąć je i gdzieś zanieść. Na przykład do pobliskiej przychodni albo [szpitala](/szpital "wikilink"). Albo nawet do [solarium](/solarium "wikilink").
+Nasz projekt ulotkowy polega na tym, że każdy kto chce przyczynić się do popularności naszego serwisu, może pobrać i wydrukować sobie ulotki, a następnie pociąć je i gdzieś zanieść. Na przykład do pobliskiej przychodni albo [szpitala](/atopedia/szpital "wikilink"). Albo nawet do [solarium](/atopedia/solarium "wikilink").
 
-Jeżeli zaniosłaś(eś) ulotki w jakieś miejsce, zapisz to, aby inni nie szli drugi raz w to samo miejsce. Zaniesione ulotki zapisujemy tutaj: [Roznoszenie ulotek](/Roznoszenie_ulotek "wikilink").
+Jeżeli zaniosłaś(eś) ulotki w jakieś miejsce, zapisz to, aby inni nie szli drugi raz w to samo miejsce. Zaniesione ulotki zapisujemy tutaj: [Roznoszenie ulotek](/atopedia/Roznoszenie_ulotek "wikilink").
 
-Jeżeli zamierzasz zanieść gdzieś ulotki, sprawdź na stronie [Roznoszenie ulotek](/Roznoszenie_ulotek "wikilink") czy przypadkiem już ktoś tam wczoraj nie był.
+Jeżeli zamierzasz zanieść gdzieś ulotki, sprawdź na stronie [Roznoszenie ulotek](/atopedia/Roznoszenie_ulotek "wikilink") czy przypadkiem już ktoś tam wczoraj nie był.
 
 Projekt graficzny
 -----------------
@@ -32,6 +32,6 @@ Projekt jest autorstwa Agi Piet.
 Treść ulotki
 ------------
 
-Zobacz też: [treść ulotki](/treść_ulotki "wikilink").
+Zobacz też: [treść ulotki](/atopedia/treść_ulotki "wikilink").
 
-[kategoria:Serwis](/kategoria:Serwis "wikilink")
+[kategoria:Serwis](/atopedia/kategoria:Serwis "wikilink")

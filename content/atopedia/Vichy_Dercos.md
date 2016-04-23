@@ -27,4 +27,4 @@ Preparat o lekkiej konsystencji i pomarańczowej barwie.
 
 Zapach mięty.
 
-[kategoria:szampony](/kategoria:szampony "wikilink")
+[kategoria:szampony](/atopedia/kategoria:szampony "wikilink")

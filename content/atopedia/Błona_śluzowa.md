@@ -7,7 +7,7 @@ permalink: /Błona_śluzowa/
 
 **Zobacz też**
 
--   [Skóra](/Skóra "wikilink")
--   [Błona śluzowa](/wikipedia:Błona_śluzowa "wikilink") w Wikipedii
+-   [Skóra](/atopedia/Skóra "wikilink")
+-   [Błona śluzowa](/atopedia/wikipedia:Błona_śluzowa "wikilink") w Wikipedii
 
-[kategoria:ciało człowieka](/kategoria:ciało_człowieka "wikilink")
+[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

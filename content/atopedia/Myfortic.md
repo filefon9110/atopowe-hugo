@@ -248,4 +248,4 @@ ul. Marynarska 15
 02-674 Warszawa
 tel.: + 48 22 375 48 88
 
-[kategoria:Ulotki leków](/kategoria:Ulotki_leków "wikilink") [kategoria:Leki immunosupresyjne](/kategoria:Leki_immunosupresyjne "wikilink")
+[kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink") [kategoria:Leki immunosupresyjne](/atopedia/kategoria:Leki_immunosupresyjne "wikilink")

@@ -134,4 +134,4 @@ Laboratories Sophartex S.A.
 
 **Swiad. Rej. MZ Nr: 9640**
 
-[kategoria:antybiotyki](/kategoria:antybiotyki "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

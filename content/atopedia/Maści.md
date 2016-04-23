@@ -3,4 +3,4 @@ title: Maści
 permalink: /Maści/
 ---
 
-1.  REDIRECT [Kategoria:Maści](/Kategoria:Maści "wikilink")
+1.  REDIRECT [Kategoria:Maści](/atopedia/Kategoria:Maści "wikilink")

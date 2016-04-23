@@ -27,6 +27,6 @@ Wymagana jest [Java](http://java.sun.com).
 
 **Zobacz też:**
 
--   '''[Kanał IRC](/Kanał_IRC "wikilink")
+-   '''[Kanał IRC](/atopedia/Kanał_IRC "wikilink")
 
-[kategoria:Życie towarzyskie atopików](/kategoria:Życie_towarzyskie_atopików "wikilink")
+[kategoria:Życie towarzyskie atopików](/atopedia/kategoria:Życie_towarzyskie_atopików "wikilink")

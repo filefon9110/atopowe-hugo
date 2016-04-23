@@ -48,7 +48,7 @@ Film od +18.
 
 ##### Nick Vujicic
 
-Nick Vujici - kaznodzieja, mówca motywacyjny i dyrektor Life Without Limbs. Więcej na Wikipedii - [Nick Vujicic](/wikipedia:en:Nick_Vujicic "wikilink")
+Nick Vujici - kaznodzieja, mówca motywacyjny i dyrektor Life Without Limbs. Więcej na Wikipedii - [Nick Vujicic](/atopedia/wikipedia:en:Nick_Vujicic "wikilink")
 
 Inspirujące fragmenty z filmu o Nicku Vujicicu i jego przemówień: <http://www.youtube.com/watch?v=KIprMBXRz0Q>
 
@@ -78,4 +78,4 @@ Piosenkarz - [bielactwo nabyte](http://pl.wikipedia.org/wiki/Bielactwo_nabyte)
 
 Kolor skóry piosenkarza budził wiele kontrowersji. W programie "Oprah Winfrey Show" w 1993 Jackson stwierdził, że kolor jego skóry zmienił się za przyczyną [vitiligo](http://pl.wikipedia.org/wiki/Bielactwo_nabyte). Ze wzglądu na kontrowersyjną postać piosenkarza trudno brać jego słowa za prawdę. Mimo wszystko można znaleźć materiały fotograficzne potwierdzające ten fakt.
 
-[kategoria:Podstawowe wiadomości](/kategoria:Podstawowe_wiadomości "wikilink")
+[kategoria:Podstawowe wiadomości](/atopedia/kategoria:Podstawowe_wiadomości "wikilink")

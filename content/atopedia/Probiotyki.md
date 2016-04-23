@@ -11,4 +11,4 @@ Z racji, że powyższy typ bakterii wchodzi w skład naturalnej flory bakteryjne
 
 [Hasło 'probiotyki' na Blogu atopowym](http://blog.atopowe.pl/tag/probiotyki/)
 
-[kategoria:atopowe zapalenie skóry u dzieci](/kategoria:atopowe_zapalenie_skóry_u_dzieci "wikilink")
+[kategoria:atopowe zapalenie skóry u dzieci](/atopedia/kategoria:atopowe_zapalenie_skóry_u_dzieci "wikilink")

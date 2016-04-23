@@ -19,7 +19,7 @@ Zawarta w maści alantoina działa przeciwzapalnie i ściągająco. Przyspiesza 
 
 ### Wskazania do stosowania
 
-Maść stosuje się w leczeniu trudno gojących się ran, oparzeń (także słonecznych) oraz w przewlekłych stanach zapalnych skóry przebiegających z nadmiernym złuszczaniem i rogowaceniem ([atopowe zapalenie skóry](/Atopowe_zapalenie_skóry "wikilink"), wyprysk, [łuszczyca](/Łuszczyca "wikilink") i inne choroby skóry).
+Maść stosuje się w leczeniu trudno gojących się ran, oparzeń (także słonecznych) oraz w przewlekłych stanach zapalnych skóry przebiegających z nadmiernym złuszczaniem i rogowaceniem ([atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink"), wyprysk, [łuszczyca](/atopedia/Łuszczyca "wikilink") i inne choroby skóry).
 
 Wskazaniem do stosowania maści są płytkie owrzodzenia, ubytki skóry i błon śluzowych.
 
@@ -81,4 +81,4 @@ D-pantenol reguluje gospodarkę wodną skóry nadając jej jędrność i elastyc
 
 "Preparat jest skuteczny w terapii skojarzonej z kortykosterydami w wielu dermatozach zapalnych."
 
-[kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:maści](/kategoria:maści "wikilink") [kategoria:emolienty](/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

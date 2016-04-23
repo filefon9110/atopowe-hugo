@@ -7,7 +7,7 @@ permalink: /Gdzie_kupić_Elidel,_stara_wersja/
 
 ------------------------------------------------------------------------
 
-Jeśli znacie ceny [elidelu](/elidel "wikilink") w waszych aptekach, to proszę wpiszcie je tutaj, edytując stronę. Wszystkie informacje o aptekach i cenach zostały nadesłane lub wpisane bezpośrednio przez internautów. Ceny mogą być nieaktualne.
+Jeśli znacie ceny [elidelu](/atopedia/elidel "wikilink") w waszych aptekach, to proszę wpiszcie je tutaj, edytując stronę. Wszystkie informacje o aptekach i cenach zostały nadesłane lub wpisane bezpośrednio przez internautów. Ceny mogą być nieaktualne.
 
 Ceny dotyczą tubki 15g Elidelu - kremu.
 
@@ -227,7 +227,7 @@ Zachodniopomorskie
 
 w Stargardzie Szczecińskim ul. Kwiatowa 1, 59,00 z kuponem rabatowym
 
-[kategoria:leki immunosupresyjne](/kategoria:leki_immunosupresyjne "wikilink")
+[kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink")
 
 ### Koszalin
 

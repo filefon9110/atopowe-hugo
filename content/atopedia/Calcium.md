@@ -155,4 +155,4 @@ ul. DREWNOWSKA 43/55 91-002 ŁÓDŹ
 
 30.05.2000r.
 
-[kategoria:leki doustne](/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

@@ -7,7 +7,7 @@ permalink: /Biorezonans/
 
 **Z wikipedii:**
 
-Nie istnieją dowody na skuteczność terapii biorezonansowej. Urządzenie wykorzystywane w terapii nie jest zdolne do pomiaru fal elektromagnetycznych. Postulowana przez zwolenników biorezonansu jego skuteczność w leczeniu [atopowego zapalenia skóry](/AZS "wikilink") i innych schorzeń alergicznych nie znajduje potwierdzenia w badaniach naukowych.[2]
+Nie istnieją dowody na skuteczność terapii biorezonansowej. Urządzenie wykorzystywane w terapii nie jest zdolne do pomiaru fal elektromagnetycznych. Postulowana przez zwolenników biorezonansu jego skuteczność w leczeniu [atopowego zapalenia skóry](/atopedia/AZS "wikilink") i innych schorzeń alergicznych nie znajduje potwierdzenia w badaniach naukowych.[2]
 
 **Prof. J. Kruszewski** – Konsultant Krajowy w dziedzinie Alergologii:
 
@@ -22,11 +22,11 @@ Nikt nie potwierdził diagnostycznego znaczenia i leczniczej skuteczności dzia�
 
 <div style="width:60%">
 </div>
-[kategoria:niekonwencjonalne metody leczenia](/kategoria:niekonwencjonalne_metody_leczenia "wikilink")
+[kategoria:niekonwencjonalne metody leczenia](/atopedia/kategoria:niekonwencjonalne_metody_leczenia "wikilink")
 
 [1] <http://www.psychomanipulacja.pl/tem/biorezonans.htm>
 
-[2] [wikipedia:Biorezonans](/wikipedia:Biorezonans "wikilink")
+[2] [wikipedia:Biorezonans](/atopedia/wikipedia:Biorezonans "wikilink")
 
 [3] Kruszewski J. Ogólne zasady diagnostyki chorób alergicznych, *Alergia Astma Immunologia 2006 11(1): 1-10*
 

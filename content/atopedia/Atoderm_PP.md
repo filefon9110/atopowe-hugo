@@ -28,4 +28,4 @@ Dawkowanie
 
 Nakładać 1 lub 2 razy dziennie na dokładnie oczyszczoną i delikatnie oczyszczoną skórę.
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:kosmetyki](/kategoria:kosmetyki "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

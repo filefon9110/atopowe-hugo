@@ -3,7 +3,7 @@ title: Awatary
 permalink: /Awatary/
 ---
 
-Awatary to małe obrazki, wyświetlane na [forum](/forum_dyskusyjne "wikilink") obok postów użytkownika. Niektóre osoby na forum używają nowych awatarów, ale zaczynają tęsknić do poprzednich. Tutaj możecie zobaczyć wcześniej używane awatary niektórych forumowiczów. Możecie też wstawiać tu swoje awatary, korzystając z [instrukcji](/jak_wstawić_obrazek "wikilink").
+Awatary to małe obrazki, wyświetlane na [forum](/atopedia/forum_dyskusyjne "wikilink") obok postów użytkownika. Niektóre osoby na forum używają nowych awatarów, ale zaczynają tęsknić do poprzednich. Tutaj możecie zobaczyć wcześniej używane awatary niektórych forumowiczów. Możecie też wstawiać tu swoje awatary, korzystając z [instrukcji](/atopedia/jak_wstawić_obrazek "wikilink").
 
 | Użytkownik       |                                                                            |                                                                                |                                                                               |                                                                          |
 |------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------|
@@ -20,4 +20,4 @@ Awatary to małe obrazki, wyświetlane na [forum](/forum_dyskusyjne "wikilink") 
 | angela           | [Grafika:348706.jpg.gif](/Grafika:348706.jpg.gif "wikilink")               |                                                                                |
 | Magata           | [Grafika:Obraz_041net1.jpg](/Grafika:Obraz_041net1.jpg "wikilink")        | [Grafika:Obraz_058net.jpg](/Grafika:Obraz_058net.jpg "wikilink")              | [Grafika:Obraz_257a.jpg](/Grafika:Obraz_257a.jpg "wikilink")                 | [Grafika:Obraz_297a.jpg](/Grafika:Obraz_297a.jpg "wikilink")            |
 
-[kategoria:życie towarzyskie atopików](/kategoria:życie_towarzyskie_atopików "wikilink")
+[kategoria:życie towarzyskie atopików](/atopedia/kategoria:życie_towarzyskie_atopików "wikilink")

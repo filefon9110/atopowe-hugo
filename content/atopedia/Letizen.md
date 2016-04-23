@@ -242,4 +242,4 @@ Opakowanie zawierające 20 tabletek powlekanych (lek wydawany na receptę)
 WYTWÓRCA POSIADAJĄCY ŚWIADECTWO REJESTRACJI
 KRKA, d.d., Novo mesto, Šmarješka cesta 6, Słowenia
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/kategoria:leki_antyhistaminowe_II_generacji "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink")

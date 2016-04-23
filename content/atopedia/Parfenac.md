@@ -61,4 +61,4 @@ W czasie ciąży i karmienia piersią używaj leku w jedynie po porozumieniu si�
 -   preparat nie może być używany w okolicach oczu
 -   preparat powinien zostać odstawiony, gdy wystąpi reakcja alergiczna, jak również w przypadku pogorszenia stanu chorobowego skóry.
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:maści](/kategoria:maści "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink")

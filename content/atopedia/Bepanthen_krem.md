@@ -58,4 +58,4 @@ Należy przechowywać tubkę szczelnie zamkniętą, w chłodnym miejscu, w miejs
 
 Nie należy używać leku po upływie daty ważności podanej na opakowaniu
 
-[kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

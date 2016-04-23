@@ -20,7 +20,7 @@ CO TO JEST LEK LORINDEN N KREM I W JAKIM CELU SIĘ GO STOSUJE
 
 Lorinden N w postaci kremu jest lekiem do stosowania na skórę, zawiera substancje czynne flumetazonu piwalan i neomycyny siarczan.
 
-Flumetazonu piwalan jest syntetycznym [kortykosteroidem](/sterydy "wikilink") o umiarkowanie silnym działaniu przeciwzapalnym. Stosowany miejscowo na skórę wykazuje działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
+Flumetazonu piwalan jest syntetycznym [kortykosteroidem](/atopedia/sterydy "wikilink") o umiarkowanie silnym działaniu przeciwzapalnym. Stosowany miejscowo na skórę wykazuje działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
 
 Neomycyny siarczan jest antybiotykiem aminoglikozydowym, który ze względu na swoją toksyczność przeznaczony jest głównie do stosowania miejscowego. Lek działa na tlenowe bakterie Gram-ujemne i niektóre bakterie Gram-dodatnie. Neomycyny siarczan z podłoża kremowego może przenikać do głębszych warstw skóry. Podczas długotrwałego stosowania na duże powierzchnie skóry, zwłaszcza uszkodzonej procesem chorobowym, neomycyny siarczan może wchłaniać się do krwi.
 
@@ -52,7 +52,7 @@ Nie stosować bez przerwy dłużej niż przez 2 tygodnie.
 
 Jeśli wystąpią objawy podrażnienia lub reakcje nadwrażliwości należy natychmiast zaprzestać stosowania leku i skontaktować się z lekarzem.
 
-Kortykosteroidy wchłaniają się przez skórę. Dlatego podczas stosowania leku istnieje ryzyko wystąpienia ogólnoustrojowych objawów niepożądanych kortykosteroidów, w tym zahamowanie czynności kory nadnerczy, zmniejszenie stężenia kortyzolu we krwi, [zespół Cushinga](/zespół_Cushinga "wikilink"). Z tego względu należy unikać podawania leku na dużą powierzchnię skóry, rany, uszkodzoną skórę, stosowania w dużych dawkach, a także długotrwałego leczenia lekiem.
+Kortykosteroidy wchłaniają się przez skórę. Dlatego podczas stosowania leku istnieje ryzyko wystąpienia ogólnoustrojowych objawów niepożądanych kortykosteroidów, w tym zahamowanie czynności kory nadnerczy, zmniejszenie stężenia kortyzolu we krwi, [zespół Cushinga](/atopedia/zespół_Cushinga "wikilink"). Z tego względu należy unikać podawania leku na dużą powierzchnię skóry, rany, uszkodzoną skórę, stosowania w dużych dawkach, a także długotrwałego leczenia lekiem.
 
 W przypadku nasilenia zakażenia skóry lub jeżeli objawy zakażenia nie ustąpią, należy skontaktować się z lekarzem. Lekarz zadecyduje, czy przerwać stosowanie leku i zastosować odpowiednie leczenie przeciwdrobnoustrojowe.
 
@@ -224,4 +224,4 @@ fax: (075) 752-44-55
 
 e-mail: jelfa@jelfa.com.pl
 
-[kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:antybiotyki](/kategoria:antybiotyki "wikilink")
+[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink")

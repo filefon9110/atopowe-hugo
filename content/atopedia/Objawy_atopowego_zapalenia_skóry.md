@@ -9,29 +9,29 @@ Objawy choroby mogą być bardzo różne u różnych osób, jednak do najczęsts
 
 Przede wszystkim:
 
--   **[świąd](/świąd "wikilink")**
--   [suchość skóry](/suchość_skóry "wikilink") (utrata [lipidowej bariery ochronnej](/Płaszcz_lipidowy "wikilink"))
--   [wysięk](/wysięk "wikilink") ([infekcja skóry](/infekcja_skóry "wikilink"))
--   [puchnięcie](/puchnięcie "wikilink")
--   [reakcja alergiczna](/reakcja_alergiczna "wikilink") objawiająca się pod różnymi postaciami
--   [zaczerwienienie skóry](/zaczerwienienie_skóry "wikilink")
+-   **[świąd](/atopedia/świąd "wikilink")**
+-   [suchość skóry](/atopedia/suchość_skóry "wikilink") (utrata [lipidowej bariery ochronnej](/atopedia/Płaszcz_lipidowy "wikilink"))
+-   [wysięk](/atopedia/wysięk "wikilink") ([infekcja skóry](/atopedia/infekcja_skóry "wikilink"))
+-   [puchnięcie](/atopedia/puchnięcie "wikilink")
+-   [reakcja alergiczna](/atopedia/reakcja_alergiczna "wikilink") objawiająca się pod różnymi postaciami
+-   [zaczerwienienie skóry](/atopedia/zaczerwienienie_skóry "wikilink")
 -   plamy
--   [wysypka](/wysypka "wikilink")
+-   [wysypka](/atopedia/wysypka "wikilink")
 -   pęcherze z wodnistą wydzieliną (osocze)
 
 Dodatkowo
 
--   nieswoisty wyprysk rąk i stóp (wyprysk z [podrażnienia](/podrażnienie "wikilink"))
+-   nieswoisty wyprysk rąk i stóp (wyprysk z [podrażnienia](/atopedia/podrażnienie "wikilink"))
 -   świąd po spoceniu
--   zaostrzenie zmian po emocjach (patrz: [choroba psychosomatyczna](/choroba_psychosomatyczna "wikilink"))
+-   zaostrzenie zmian po emocjach (patrz: [choroba psychosomatyczna](/atopedia/choroba_psychosomatyczna "wikilink"))
 -   nietolerancja niektórych pokarmów
--   wrażliwość [skóry](/skóra "wikilink") na bodźce mechaniczne i [materiały drażniące](/Podrażnienie "wikilink") (wełna)
--   powiększone [węzły chłonne](/węzły_chłonne "wikilink")
+-   wrażliwość [skóry](/atopedia/skóra "wikilink") na bodźce mechaniczne i [materiały drażniące](/atopedia/Podrażnienie "wikilink") (wełna)
+-   powiększone [węzły chłonne](/atopedia/węzły_chłonne "wikilink")
 
 a ponadto u starszych pacjentów:
 
--   [lichenizacja](/lichenizacja "wikilink")
--   [biały dermografizm](/biały_dermografizm "wikilink")
+-   [lichenizacja](/atopedia/lichenizacja "wikilink")
+-   [biały dermografizm](/atopedia/biały_dermografizm "wikilink")
 
 oraz dodatkowe cechy AZS, które występują od początku lub pojawić się mogą w różnym czasie w zależności od nasilenia choroby
 
@@ -42,11 +42,11 @@ oraz dodatkowe cechy AZS, które występują od początku lub pojawić się mog�
 
 W badaniach laboratoryjnych można stwierdzić
 
--   podwyższony poziom [IgE](/IgE "wikilink") - u ok. 85% pacjentów
+-   podwyższony poziom [IgE](/atopedia/IgE "wikilink") - u ok. 85% pacjentów
 
 Zobacz również
 --------------
 
--   [Kryteria AZS wg Hanifina i Rajka](/Kryteria "wikilink")
+-   [Kryteria AZS wg Hanifina i Rajka](/atopedia/Kryteria "wikilink")
 
-[kategoria:objawy atopowego zapalenia skóry](/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")
+[kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

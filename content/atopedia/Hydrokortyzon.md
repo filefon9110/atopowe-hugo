@@ -11,7 +11,7 @@ Postacie występowania leku: zawiesina do wstrzykiwań, krem, tabletki
 
 ### Jak działa lek?
 
-Lek należy do grupy hormonów zwanych [glikokortykosteroidami](/sterydy "wikilink").
+Lek należy do grupy hormonów zwanych [glikokortykosteroidami](/atopedia/sterydy "wikilink").
 
 Jest naturalnym hormonem ludzkim, wydzielanym przez korę nadnerczy. Działa przeciwzapalnie (zmniejsza zaczerwienienie i swędzenie skóry). Hydrokortyzon wywiera działanie przeciwzapalne,przeciwreumatyczne,przeciwalergiczne,immunosupresyjne.Hamuje działanie hialuronidazy, zmniejsza przepuszczalność naczyń włosowatych i zmniejsza obrzęk, zwiększa stężenie glukozy we krwi, przyspiesza rozpad i hamuje syntezę białek oraz osłabia odporność organizmu na zakażenia.Powoduje również zatrzymanie sodu i wody w organizmie i zwiększa wydalanie potasu z moczem.Nasila resorpcję wapnia z kości,powoduje rozwój osteoporozy, zmniejsza wchłanianie jonów wapniowych z przewodu pokarmowego jednocześnie zwiększając wydalanie wapnia z moczem, hamuje wzrost u dzieci. Blokuje wydzielanie hormonu adrenokortykotropowego przez przysadkę co w następstwie może spowodować niewydolność kory nadnerczy. Zmniejsza liczbę limfocytów, monocytów i granulocytów kwasochłonnych.
 
@@ -66,7 +66,7 @@ Powiadom lekarza, jeśli jesteś lub przypuszczasz, że możesz być w ciąży, 
 
 Powiadom lekarza o innych lekach, które aktualnie zażywasz.
 
-W czasie stosowania leku unikaj przyjmowania: [napojów alkoholowych](/alkohol "wikilink"), leków z grupy salicylanów, tzn. Aspiryny, Polopiryny itp.
+W czasie stosowania leku unikaj przyjmowania: [napojów alkoholowych](/atopedia/alkohol "wikilink"), leków z grupy salicylanów, tzn. Aspiryny, Polopiryny itp.
 
 Zapytaj lekarza, jak stosować lek, gdy przyjmujesz jednocześnie: Fenytoinę, Luminal.
 
@@ -76,4 +76,4 @@ Przynieś wyniki badań laboratoryjnych, których wykonanie zlecił Ci lekarz w 
 
 Postać farmaceutyczna preparatu: Hydrocortisonum (Jelfa S.A. Przedsiębiorstwo Farmaceutyczne) zawiesina do wstrzykiwań 25mg/ml, 10 fiol. 5 ml Hydrocortisonum (Jelfa S.A. Przedsiębiorstwo Farmaceutyczne) tabletki 20mg, 20 tabl. krem
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink")

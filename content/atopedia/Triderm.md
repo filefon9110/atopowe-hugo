@@ -37,7 +37,7 @@ Co to jest Triderm krem i w jakim celu się go stosuje
 
 Właściwości leku Triderm krem wynikają z działania substancji czynnych: betametazonu dipropionianu, gentamycyny i klotrymazolu.
 
-Betametazonu dipropionian należy do leków z grupy [kortykosteroidów](/sterydy "wikilink") o silnym działaniu, stosowany miejscowo wywiera szybkie i długotrwałe działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
+Betametazonu dipropionian należy do leków z grupy [kortykosteroidów](/atopedia/sterydy "wikilink") o silnym działaniu, stosowany miejscowo wywiera szybkie i długotrwałe działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
 
 Gentamycyna jest antybiotykiem aminoglikozydowym o działaniu przeciwbakteryjnym.
 
@@ -85,7 +85,7 @@ Substancje czynne leku - batametazon i gentamycyna, wchłaniają się przez skó
 
 Podczas nadmiernego i długotrwałego stosowania leku istnieje ryzyko wystąpienia ogólnoustrojowych objawów niepożądanych charakterystycznych dla kortykosteroidów (w tym zahamowanie czynności kory nadnerczy) oraz gentamycyny (jak uszkodzenie słuchu, nerek, szczególnie u osób z zaburzeniami czynności nerek). Z tego względu należy unikać stosowania leku na dużą powierzchnię ciała, stosowania w dużych dawkach oraz stosowania opatrunków.
 
-Szczególnie ostrożnie powinni przyjmować lek pacjenci z [łuszczycą](/łuszczyca "wikilink"), gdyż stosowanie leku w łuszczycy może być niebezpieczne, m.in ze względu na nawrót choroby spowodowany rozwojem tolerancji, ryzyko wystąpienia uogólnionej łuszczycy krostkowej i ogólne działania toksyczne spowodowane uszkodzeniami skóry.
+Szczególnie ostrożnie powinni przyjmować lek pacjenci z [łuszczycą](/atopedia/łuszczyca "wikilink"), gdyż stosowanie leku w łuszczycy może być niebezpieczne, m.in ze względu na nawrót choroby spowodowany rozwojem tolerancji, ryzyko wystąpienia uogólnionej łuszczycy krostkowej i ogólne działania toksyczne spowodowane uszkodzeniami skóry.
 
 ### Stosowanie u dzieci:
 
@@ -95,7 +95,7 @@ U dzieci w wieku powyżej 2 lat nie stosować nie dłużej niż przez 5 dni
 
 U dzieci częściej niż u dorosłych występuje hamowanie czynności osi podwzgórze-przysadka-nadnercza po miejscowym zastosowaniu kortykosteroidów, z powodu większego wchłaniania dipropionianu betametazonu do organizmu niż u dorosłych.
 
-U dzieci, u których stosowano miejscowo kortykosteroidy, opisywano: zahamowanie czynności osi podwzgórze-przysadka-nadnercza, niedoczynność nadnerczy, [zespół Cushinga](/zespół_Cushinga "wikilink") (nadczynność kory nadnerczy), spowolnienie wzrostu, zmniejszenie przyrostu masy ciała, oraz wzrost ciśnienia śródczaszkowego (np. wypukłe ciemmiączko, bóle głowy).
+U dzieci, u których stosowano miejscowo kortykosteroidy, opisywano: zahamowanie czynności osi podwzgórze-przysadka-nadnercza, niedoczynność nadnerczy, [zespół Cushinga](/atopedia/zespół_Cushinga "wikilink") (nadczynność kory nadnerczy), spowolnienie wzrostu, zmniejszenie przyrostu masy ciała, oraz wzrost ciśnienia śródczaszkowego (np. wypukłe ciemmiączko, bóle głowy).
 
 Ciąża:
 ------
@@ -200,4 +200,4 @@ Al. Jerozolimskie 195A
 02-222 Warszawa
 Tel. 22 47 84 150
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/kategoria:antybiotyki "wikilink") [kategoria:leki przeciwgrzybicze](/kategoria:leki_przeciwgrzybicze "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:leki przeciwgrzybicze](/atopedia/kategoria:leki_przeciwgrzybicze "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

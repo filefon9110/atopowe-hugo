@@ -45,4 +45,4 @@ Kliniczna ocena skuteczności pod kontrolą dermatologa.
 -   **Łatwo przenika, łatwo się nakłada:** zdanie 90% badanych
 -   **Nawilżenie i komfort:** oceniona na 8,3 punktów w 10-stopniowej skali
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

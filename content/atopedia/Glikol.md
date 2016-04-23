@@ -11,4 +11,4 @@ Stosowany na skórę powoduje rozszerzenie i zatkanie porów; utrudnia oddychani
 
 **Glikole wywołują kontaktowe zapalenie skóry**. Produkty z glikolami nie powinny być stosowane u kobiet w ciąży oraz w czasie laktacji.
 
-[kategoria:substancje chemiczne](/kategoria:substancje_chemiczne "wikilink")
+[kategoria:substancje chemiczne](/atopedia/kategoria:substancje_chemiczne "wikilink")

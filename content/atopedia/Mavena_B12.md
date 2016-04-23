@@ -42,7 +42,7 @@ www.mavena.pl
 W jakim celu stosuje się maść
 -----------------------------
 
-Maść Mavena B12® przeznaczona jest do zewnętrznego stosowania przy [łuszczycy](/łuszczyca "wikilink") (psoriasis) oraz [atopowym zapaleniu skóry](/AZS "wikilink") (neurodermitis).
+Maść Mavena B12® przeznaczona jest do zewnętrznego stosowania przy [łuszczycy](/atopedia/łuszczyca "wikilink") (psoriasis) oraz [atopowym zapaleniu skóry](/atopedia/AZS "wikilink") (neurodermitis).
 
 Przeciwwskazania
 ================
@@ -135,4 +135,4 @@ Preparat należy zużyć w ciągu 4 tygodni od otwarcia opakowania. Nr partii or
 
 **Przechowywać w miejscu niedostępnym dla dzieci**
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:maści](/kategoria:maści "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink")

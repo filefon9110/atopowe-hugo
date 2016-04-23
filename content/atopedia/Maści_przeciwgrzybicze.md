@@ -23,4 +23,4 @@ permalink: /Maści_przeciwgrzybicze/
 *Eucerini aa ad 100,0*
 *M.f.ung.*
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:Przepisy na maści robione](/kategoria:Przepisy_na_maści_robione "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

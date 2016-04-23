@@ -20,33 +20,33 @@ Sposób działania:
 Leki antyhistaminowe doustne
 ----------------------------
 
-**I generacja:** Klemastyna ([Clemastin](/Clemastin "wikilink"), Tavegyl), Dimetinden ([Fenistil](/Fenistil "wikilink")), [Prometazyna](/Prometazyna "wikilink") ([Diphergan](/Diphergan "wikilink"), Phenergan, Phrotazin, Phrometazin), [Hydroksyzyna](/Hydroksyzyna "wikilink") (Hydroxizinum, [Atarax](/Atarax "wikilink")), Cyprohepatydyna (Peritol, Protadina), Ketotifen ([Zaditen](/Zaditen "wikilink"), [Ketotifen](/Ketotifen "wikilink"), [Pozitan](/Pozitan "wikilink"))
+**I generacja:** Klemastyna ([Clemastin](/atopedia/Clemastin "wikilink"), Tavegyl), Dimetinden ([Fenistil](/atopedia/Fenistil "wikilink")), [Prometazyna](/atopedia/Prometazyna "wikilink") ([Diphergan](/atopedia/Diphergan "wikilink"), Phenergan, Phrotazin, Phrometazin), [Hydroksyzyna](/atopedia/Hydroksyzyna "wikilink") (Hydroxizinum, [Atarax](/atopedia/Atarax "wikilink")), Cyprohepatydyna (Peritol, Protadina), Ketotifen ([Zaditen](/atopedia/Zaditen "wikilink"), [Ketotifen](/atopedia/Ketotifen "wikilink"), [Pozitan](/atopedia/Pozitan "wikilink"))
 
-**II generacja:** Ebastyna *(Kestine)*, [Loratadyna](/Loratadyna "wikilink") ([Aleric](/Aleric "wikilink"), Clarinase, [Claritine](/Claritine "wikilink"), Loratadyna, Loratin, Loratine, Nalergin, Rotadin, Flonidan), [Cetyryzyna](/Cetyryzyna "wikilink") ([Zyrtec](/Zyrtec "wikilink"), [Virlix](/Virlix "wikilink"), [Amertil](/Amertil "wikilink"), [Allertec](/Allertec "wikilink"), Cet Alergin, Letizen), [Mizolastyna](/Mizolastyna "wikilink") *(Mizollen)*
+**II generacja:** Ebastyna *(Kestine)*, [Loratadyna](/atopedia/Loratadyna "wikilink") ([Aleric](/atopedia/Aleric "wikilink"), Clarinase, [Claritine](/atopedia/Claritine "wikilink"), Loratadyna, Loratin, Loratine, Nalergin, Rotadin, Flonidan), [Cetyryzyna](/atopedia/Cetyryzyna "wikilink") ([Zyrtec](/atopedia/Zyrtec "wikilink"), [Virlix](/atopedia/Virlix "wikilink"), [Amertil](/atopedia/Amertil "wikilink"), [Allertec](/atopedia/Allertec "wikilink"), Cet Alergin, Letizen), [Mizolastyna](/atopedia/Mizolastyna "wikilink") *(Mizollen)*
 
-**III generacja:** Feksofenadyna ([Telfast](/Telfast "wikilink"), [Telfexo](/Telfexo "wikilink")), Desloratadyna ([Aerius](/Aerius "wikilink")), Levocetrizina ([Lirra Gem](/Lirra_Gem "wikilink"), [Xyzal](/Xyzal "wikilink")), Bilastyna ([Bilaxten](/Bilaxten "wikilink"), [Clatra](/Clatra "wikilink"))
+**III generacja:** Feksofenadyna ([Telfast](/atopedia/Telfast "wikilink"), [Telfexo](/atopedia/Telfexo "wikilink")), Desloratadyna ([Aerius](/atopedia/Aerius "wikilink")), Levocetrizina ([Lirra Gem](/atopedia/Lirra_Gem "wikilink"), [Xyzal](/atopedia/Xyzal "wikilink")), Bilastyna ([Bilaxten](/atopedia/Bilaxten "wikilink"), [Clatra](/atopedia/Clatra "wikilink"))
 
 Leki antyhistaminowe w zastrzykach
 ----------------------------------
 
-[Clemastin](/Clemastin "wikilink"), [Diphergan](/Diphergan "wikilink")
+[Clemastin](/atopedia/Clemastin "wikilink"), [Diphergan](/atopedia/Diphergan "wikilink")
 
 Leki immunosupresyjne stosowane miejscowo
 -----------------------------------------
 
-[Protopic](/Protopic "wikilink"), [Elidel](/Elidel "wikilink"), [Douglan](/Douglan "wikilink")
+[Protopic](/atopedia/Protopic "wikilink"), [Elidel](/atopedia/Elidel "wikilink"), [Douglan](/atopedia/Douglan "wikilink")
 
 Leki immunosupresyjne stosowane doustnie
 ----------------------------------------
 
-[Cyklosporyna](/Cyklosporyna "wikilink") ([Sandimmun Neoral](/Sandimmun_Neoral "wikilink"))
+[Cyklosporyna](/atopedia/Cyklosporyna "wikilink") ([Sandimmun Neoral](/atopedia/Sandimmun_Neoral "wikilink"))
 
 Kortykosterydy w maściach
 -------------------------
 
-[Hydrokortyzon](/Hydrokortyzon "wikilink"), [Dexametazon](/Dexametazon "wikilink") ([Piyan Ping](/Piyan_Ping "wikilink") alias [Maść 999](/Maść_999 "wikilink")), [Mecortolon](/Mecortolon "wikilink")
+[Hydrokortyzon](/atopedia/Hydrokortyzon "wikilink"), [Dexametazon](/atopedia/Dexametazon "wikilink") ([Piyan Ping](/atopedia/Piyan_Ping "wikilink") alias [Maść 999](/Maść_999 "wikilink")), [Mecortolon](/atopedia/Mecortolon "wikilink")
 
 Kortykosterydy stosowane doustnie
 ---------------------------------
 
-[Encorton](/Encorton "wikilink")
+[Encorton](/atopedia/Encorton "wikilink")

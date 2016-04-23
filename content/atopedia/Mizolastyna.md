@@ -59,4 +59,4 @@ Mizolastyna może nieznacznie wydłużać odcinek QT, jednak zwykle nie powoduje
 
 Za MediWeb <http://mediweb.pl/>
 
-[kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

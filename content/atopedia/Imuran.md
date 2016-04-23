@@ -241,6 +241,6 @@ ul. Rzymowskiego 53
 02-697 Warszawa
 Tel: +48 22 576 9000
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")
 
-[kategoria:leki immunosupresyjne](/kategoria:leki_immunosupresyjne "wikilink")
+[kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink")

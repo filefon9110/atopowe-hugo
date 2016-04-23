@@ -23,4 +23,4 @@ permalink: /Piernik_bezglutenowy/
 4.  Przelać ciasto do formy; piec 50-60 min. Piernik powinien być sprężysty, gdy się nań naciśnie. Lekko przestudzić, po czym wyłożyć na kratkę do przestygnięcia
 5.  Piernik można polukrować lukrem i przystroić kandyzowanym imbirem lub innymi owocami.
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

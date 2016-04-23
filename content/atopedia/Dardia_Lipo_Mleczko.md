@@ -5,7 +5,7 @@ permalink: /Dardia_Lipo_Mleczko/
 
 Mleczko jest emulsją do pielęgnacji całego ciała. Może być stosowane u dzieci powyżej 2 roku życia.
 
-Dzięki zawartości [mocznika](/mocznik "wikilink"), mleczanu i gliceryny powoduje nawilżenie skóry, a etylenoheksonian cetearylu oraz średniołańcuchowe kwasy tłuszczowe wspomagają równowagę lipidową. Wprawdzie zawartość lipidów jest wysoka, jednak mleczko doskonale nadaje się do nakładania na duże obszary skóry. Dardia® Lipo Mleczko łagodzi podrażnienia oraz wygładza bardzo suchą, wrażliwą skórę. Doskonała do wszelkich kąpieli: w domu i na basenie, a także po kąpieli słonecznej. Można stosować w razie potrzeby, zwykle dwa razy dziennie. Pojemność opakowania 200 ml.
+Dzięki zawartości [mocznika](/atopedia/mocznik "wikilink"), mleczanu i gliceryny powoduje nawilżenie skóry, a etylenoheksonian cetearylu oraz średniołańcuchowe kwasy tłuszczowe wspomagają równowagę lipidową. Wprawdzie zawartość lipidów jest wysoka, jednak mleczko doskonale nadaje się do nakładania na duże obszary skóry. Dardia® Lipo Mleczko łagodzi podrażnienia oraz wygładza bardzo suchą, wrażliwą skórę. Doskonała do wszelkich kąpieli: w domu i na basenie, a także po kąpieli słonecznej. Można stosować w razie potrzeby, zwykle dwa razy dziennie. Pojemność opakowania 200 ml.
 
 Skład preparatu:
 
@@ -24,7 +24,7 @@ Skład preparatu:
 
 **Zobacz również:**
 
--   [Dardia Lipo Maść](/Dardia_Lipo_Maść "wikilink")
--   [Dardia Lipo Krem](/Dardia_Lipo_Krem "wikilink")
+-   [Dardia Lipo Maść](/atopedia/Dardia_Lipo_Maść "wikilink")
+-   [Dardia Lipo Krem](/atopedia/Dardia_Lipo_Krem "wikilink")
 
-[Kategoria:emolienty](/Kategoria:emolienty "wikilink") [kategoria:preparaty zawierające mocznik](/kategoria:preparaty_zawierające_mocznik "wikilink")
+[Kategoria:emolienty](/atopedia/Kategoria:emolienty "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

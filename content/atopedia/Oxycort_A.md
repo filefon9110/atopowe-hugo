@@ -126,4 +126,4 @@ tel.(075) 643 31 02
 faks: (075) 752 44 55
 e-mail: jelfa@jelfa.com.pl
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:antybiotyki](/kategoria:antybiotyki "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink")

@@ -27,4 +27,4 @@ Ochrona i pielęgnacja skóry suchej i wrażliwej (trudne warunki atmosferyczne)
 
 Skóra normalna z tendencją do przesuszania. Chroni naturalną równowagę wodno-lipidową. Pojemność 50 ml.
 
-[kategoria:kosmetyki](/kategoria:kosmetyki "wikilink")
+[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

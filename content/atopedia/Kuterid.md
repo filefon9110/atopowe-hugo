@@ -10,7 +10,7 @@ permalink: /Kuterid/
 Sposób działania
 ----------------
 
-Kuterid jest silnie działającym preparatem kortyzonowym, który przeciwdziała stanom zapalnym, uśmierza świąd, likwiduje [wysięki](/wysięk "wikilink") i obrzmienia. Działanie leku występuje szybko i utrzymuje się długo.
+Kuterid jest silnie działającym preparatem kortyzonowym, który przeciwdziała stanom zapalnym, uśmierza świąd, likwiduje [wysięki](/atopedia/wysięk "wikilink") i obrzmienia. Działanie leku występuje szybko i utrzymuje się długo.
 
 Zastosowanie
 ------------
@@ -52,4 +52,4 @@ Istnieje prawdopodobieństwo, że preparat oddziałuje na płód. Nie wolno stos
 
 Preparat przenika do mleka matki. Zamiar stosowania leku podczas karmienia piersią należy omówić z lekarzem.
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:maści](/kategoria:maści "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

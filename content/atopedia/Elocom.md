@@ -5,7 +5,7 @@ permalink: /Elocom/
 
 *(Mometasoni furoas)*
 
-Syntetyczny [kortykosteroid](/steryd "wikilink") o silnym działaniu miejscowym. Działa przeciwzapalnie i przeciwświądowo.
+Syntetyczny [kortykosteroid](/atopedia/steryd "wikilink") o silnym działaniu miejscowym. Działa przeciwzapalnie i przeciwświądowo.
 
 ### Skład
 
@@ -15,13 +15,13 @@ Do leczenia stanów zapalnych i alergicznych skóry. Do stosowania na skórę,
 
 ### Właściwości
 
-Preparat Elocom wywiera działanie przeciwzapalne i przeciwalergiczne oraz łagodzi takie dolegliwości jak: [swędzenie](/świąd "wikilink"), [pieczenie](/pieczenie "wikilink") lub ból.
+Preparat Elocom wywiera działanie przeciwzapalne i przeciwalergiczne oraz łagodzi takie dolegliwości jak: [swędzenie](/atopedia/świąd "wikilink"), [pieczenie](/atopedia/pieczenie "wikilink") lub ból.
 
 ### Wskazania
 
 -   Stany zapalne i alergiczne skóry
 -   Przewlekłe wypryski
--   [Łuszczyca](/Łuszczyca "wikilink").
+-   [Łuszczyca](/atopedia/Łuszczyca "wikilink").
 
 Preparat Elocom można stosować tylko na polecenie lekarza
 
@@ -54,4 +54,4 @@ Bardzo rzadko - reakcje uczuleniowe, świąd skóry, objawy zaniku skóry, łojo
 
 Schering-Plough Labo N.V., Heist-op-den-Berg, Belgia
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:maści](/kategoria:maści "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink")

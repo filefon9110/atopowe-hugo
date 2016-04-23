@@ -3,7 +3,7 @@ title: Gdzie kupić Protopic, stara wersja
 permalink: /Gdzie_kupić_Protopic,_stara_wersja/
 ---
 
-*Strona ta jest już nieaktualna. Nie dopisujemy nowych cen w tym miejscu. Prosimy przejść do strony [gdzie kupić Protopic](/gdzie_kupić_Protopic "wikilink").*
+*Strona ta jest już nieaktualna. Nie dopisujemy nowych cen w tym miejscu. Prosimy przejść do strony [gdzie kupić Protopic](/atopedia/gdzie_kupić_Protopic "wikilink").*
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ Mazowieckie
 -   Apteka "Medicor" tel 24 262 40 06 ul.Kolegialna 38 cena 185 pln (0,1 i 0,03) 30.06.2005; uaktualnienie 2005-09-16: Płock Apteka "Medicor", ul.Kolegialna 30 ; **185 pln** możliwość zakupu **1/2** opakowania za **92,5** pln (po zapisaniu przez lekarza); cena za 0,03% i 0,1%
 -   **10 g (0,1 i 0,03%) 65,00 pln**
 
-[kategoria:leki immunosupresyjne](/kategoria:leki_immunosupresyjne "wikilink")
+[kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink")
 
 ### Pruszków
 

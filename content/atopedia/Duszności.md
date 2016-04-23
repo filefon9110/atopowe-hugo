@@ -3,4 +3,4 @@ title: Duszności
 permalink: /Duszności/
 ---
 
-1.  REDIRECT [duszność](/duszność "wikilink")
+1.  REDIRECT [duszność](/atopedia/duszność "wikilink")

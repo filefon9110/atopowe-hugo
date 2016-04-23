@@ -3,7 +3,7 @@ title: Krytyka medycyny alternatywnej
 permalink: /Krytyka_medycyny_alternatywnej/
 ---
 
-[Medycyna alternatywna](/Medycyna_alternatywna "wikilink") bywa w dyskusjach oraz opiniach stawiana na równi z medycyną. W rzeczywistości równości takiej nie ma. Ten artykuł tłumaczy różnice oraz pomaga zastanowić się nad tym, jakie znaczenia kryją się za słowami takimi jak leczenie i skuteczność.
+[Medycyna alternatywna](/atopedia/Medycyna_alternatywna "wikilink") bywa w dyskusjach oraz opiniach stawiana na równi z medycyną. W rzeczywistości równości takiej nie ma. Ten artykuł tłumaczy różnice oraz pomaga zastanowić się nad tym, jakie znaczenia kryją się za słowami takimi jak leczenie i skuteczność.
 
 Często zadawane pytania
 -----------------------
@@ -71,13 +71,13 @@ Na przykładzie badania leków, w tym celu używa się placebo. Dwie „ślepoty
 1.  Osoba, która **przyjmuje testowany lek**, nie wie czy przyjmuje prawdziwy lek, czy placebo.
 2.  Osoba, która **ocenia wynik leczenia**, nie wie czy badany przez nią pacjent przyjmował prawdziwy lek, czy tylko placebo.
 
-*Patrz osobny artykuł: [Podwójnie ślepa próba](/Podwójnie_ślepa_próba "wikilink")*
+*Patrz osobny artykuł: [Podwójnie ślepa próba](/atopedia/Podwójnie_ślepa_próba "wikilink")*
 
 ### Co to jest placebo?
 
 Coś, co wygląda na lek, ale nie zawiera kluczowego składnika aktywnego. Przykładem mogą być pastylki z samego cukru, albo maść z samej wazeliny.
 
-*Patrz osobny artykuł: [Placebo](/Placebo "wikilink")*
+*Patrz osobny artykuł: [Placebo](/atopedia/Placebo "wikilink")*
 
 ### W jaki sposób sugestia wpływa na wyniki badań?
 
@@ -95,7 +95,7 @@ Oprócz tego, wynik leczenia ostatecznie ocenia człowiek podatny na sugestię, 
 
 Znachorstwo może być szeroko zdefiniowane jako wszystko, co polega na przesadnym promowaniu czegoś na polu opieki medycznej. Znachor to w potocznym rozumieniu osoba która twierdzi że potrafi leczyć ludzi, ale nie posiadająca odpowiednich kwalifikacji.
 
-*Zobacz też [artykuł o znachorstwie](/znachorstwo "wikilink").*
+*Zobacz też [artykuł o znachorstwie](/atopedia/znachorstwo "wikilink").*
 
 ### Czy każdy znachor to oszust?
 
@@ -120,9 +120,9 @@ Główny problem jest taki, że znachorzy nie przyglądają się swoim praktykom
 
 ### Czy medycyna alternatywna szkodzi zdrowiu?
 
-Trudno powiedzieć. Zabiegi takie jak [biorezonans](/biorezonans "wikilink") prawdopodobnie zupełnie nic nie robią i są nieszkodliwe. Jest to jednak tylko prawdopodobieństwo.
+Trudno powiedzieć. Zabiegi takie jak [biorezonans](/atopedia/biorezonans "wikilink") prawdopodobnie zupełnie nic nie robią i są nieszkodliwe. Jest to jednak tylko prawdopodobieństwo.
 
-Jeżeli lek nie jest przebadany, nie znamy ani jego działania terapeutycznego, ani ewentualnego szkodliwego. Metody, które nie zostały rzetelnie przebadane, **mogą** być szkodliwe dla zdrowia. Znane są przypadki takie, jak na przykład metale ciężkie w preparatach stosowanych w ajurwedzie[5]. Niebezpieczeństwa mogą też płynąć ze stosowania preparatów o nieznanym składzie, na przykład chińska maść [Piyan Ping](/Piyan_Ping "wikilink"), która bywa oferowana przez nie-lekarzy jako nie zawierająca sterydów, a w rzeczywistości zawierająca [dexametazon](/dexametazon "wikilink").
+Jeżeli lek nie jest przebadany, nie znamy ani jego działania terapeutycznego, ani ewentualnego szkodliwego. Metody, które nie zostały rzetelnie przebadane, **mogą** być szkodliwe dla zdrowia. Znane są przypadki takie, jak na przykład metale ciężkie w preparatach stosowanych w ajurwedzie[5]. Niebezpieczeństwa mogą też płynąć ze stosowania preparatów o nieznanym składzie, na przykład chińska maść [Piyan Ping](/atopedia/Piyan_Ping "wikilink"), która bywa oferowana przez nie-lekarzy jako nie zawierająca sterydów, a w rzeczywistości zawierająca [dexametazon](/atopedia/dexametazon "wikilink").
 
 ### Dlaczego ludzie wciąż stosują medycynę alternatywną?
 
@@ -133,7 +133,7 @@ Stoi za tym szereg mechanizmów społecznych i psychologicznych.
 Poświęcanie czasu i uwagi: Znachorzy poświęcają pacjentom więcej czasu niż lekarze, i są dla pacjentów milsi.
 Komfort psychiczny : Na trudne pytania medycyna konwencjonalna uczciwie odpowiada „nie wiem”, albo „to nie jest takie proste”. Medycyna alternatywna natomiast oferuje proste odpowiedzi. Ludzie wolą pewność od niepewności i z przyczyn psychologicznych będą wybierać tę odpowiedź, z którą czują się bardziej komfortowo, a nie tę, która jest bliżej prawdy.
 Opowieści, bajki, mity : Medycyna alternatywna jako wytłumaczenie działania swoich metod, oferuje nieskomplikowane, ale dobrze brzmiące opowieści, które osobie nieobeznanej z medycyną wydają się sensowne. „Wibracje” oraz „energie” o wiele lepiej przemawiają do niektórych osób niż *receptor IL-4*.
-Zastraszanie : Promowanie metod alternatywnych w dużej mierze opiera się na zniechęcaniu do medycyny konwencjonalnej. Do najpopularniejszych strategii należy straszenie skutkami ubocznymi [sterydów](/sterydy "wikilink"). Owszem, sterydy używane nadmiernie i/lub przez długi okres czasu mają skutki uboczne. Jednak stwierdzenia takie jak „jednokrotne posmarowanie skóry maścią sterydową powoduje uszkodzenie jej aż do samego korzenia na wiele miesięcy” są nawet nie tyle przesadą, ile zwykłą nieprawdą.
+Zastraszanie : Promowanie metod alternatywnych w dużej mierze opiera się na zniechęcaniu do medycyny konwencjonalnej. Do najpopularniejszych strategii należy straszenie skutkami ubocznymi [sterydów](/atopedia/sterydy "wikilink"). Owszem, sterydy używane nadmiernie i/lub przez długi okres czasu mają skutki uboczne. Jednak stwierdzenia takie jak „jednokrotne posmarowanie skóry maścią sterydową powoduje uszkodzenie jej aż do samego korzenia na wiele miesięcy” są nawet nie tyle przesadą, ile zwykłą nieprawdą.
 
 Często spotykane mity
 ---------------------
@@ -151,7 +151,7 @@ Objawy AZS są dobrze określone i łatwe do zaobserwowania. Wystarczy popatrze�
 Najczęściej spotykane mity na temat testowania metod alternatywnych:
 
 Nie ma sensu badanie na dużej liczbie osób ponieważ w medycynie alternatywnej stosuje się indywidualne podejście do pacjenta : Wymówka najczęściej używana przez homeopatów. Indywidualne podejście nie jest przeszkodą w przetestowaniu, ponieważ zamiast konkretnego specyfiku homeopatycznego można testować po prostu skuteczność homeopatii w leczeniu AZS.[6]
-Efekty leczenia alternatywnego wymykają się szkiełku i oku : W przypadku AZS objawy są bardzo łatwe do zauważenia: czerwona, [łuszcząca](/łuszczenie "wikilink") się skóra oraz [świąd](/świąd "wikilink"). Rozmawiamy tu konkretnie o metodach leczenia AZS. Ogólna „poprawa zdrowia” nie ma sensu, jeżeli koniec końców nie ustąpią objawy choroby.
+Efekty leczenia alternatywnego wymykają się szkiełku i oku : W przypadku AZS objawy są bardzo łatwe do zauważenia: czerwona, [łuszcząca](/atopedia/łuszczenie "wikilink") się skóra oraz [świąd](/atopedia/świąd "wikilink"). Rozmawiamy tu konkretnie o metodach leczenia AZS. Ogólna „poprawa zdrowia” nie ma sensu, jeżeli koniec końców nie ustąpią objawy choroby.
 Efekt terapii alternatywnej może przyjść po dwóch tygodniach albo po dwóch miesiącach : Eksperymenty kliniczne mogą trwać tak długo jak potrzeba. Niektóre badania trwają latami, a nawet dziesiątkami lat, jeżeli trzeba. Obserwacyjne badania rakotwórczości dymu tytoniowego trwały bardzo długo, i nie stanowiło to przeszkody w przeprowadzeniu ich. Wiemy już bez wątpienia, że dym nie jest obojętny dla zdrowia.
 Badania nad medycyną alternatywną nie są fundowane : Na świecie istnieją ośrodki medycyny alternatywnej, które mają fundusze i mogą przeprowadzać badania. Natomiast jeżeli chodzi o fundusze rządowe - nie przeznacza się ich na dogłębne badanie czegoś, co nie jest poparte rzetelnymi i obiecującymi badaniami wstępnymi.
 
@@ -165,7 +165,7 @@ Co prawda nie istnieje pastylka, po połknięciu której AZS odeszłoby niczym z
 
 ### „Medycyna konwencjonalna leczy wyłącznie objawowo”
 
-Owszem, w dużej mierze, ale nie wyłącznie. W AZS mamy często do czynienia z [błędnym kołem](/błędne_koło "wikilink"), gdzie jeden problem powoduje powstanie innego problemu. Jeżeli mamy infekcję skóry spowodowaną uszkodzeniem skóry, które zostało spowodowane drapaniem, które to drapanie zostało spowodowane świądem, to podanie leku przeciwświądowego jest leczeniem objawowym, czy przyczynowym?
+Owszem, w dużej mierze, ale nie wyłącznie. W AZS mamy często do czynienia z [błędnym kołem](/atopedia/błędne_koło "wikilink"), gdzie jeden problem powoduje powstanie innego problemu. Jeżeli mamy infekcję skóry spowodowaną uszkodzeniem skóry, które zostało spowodowane drapaniem, które to drapanie zostało spowodowane świądem, to podanie leku przeciwświądowego jest leczeniem objawowym, czy przyczynowym?
 
 ### „Medycyna konwencjonalna rozkłada ręce, nie mam wyboru, muszę stosować <alternatywna praktyka Y>”
 
@@ -183,7 +183,7 @@ Nie ma żadnego powodu dla którego sugestia nie miała by wystąpić, nawet je�
 
 ### „Leki alternatywne może i nie są potwierdzone, ale przynajmniej nie szkodzą”
 
-Mogą szkodzić! Właśnie dlatego, że nie są dobrze przebadane, nie wiemy tak naprawdę, jakie mają działanie na organizm człowieka. Badania kliniczne służą nie tylko potwierdzaniu skuteczności, ale także skutków ubocznych i potencjalnych problemów. Znane są przypadki leków alternatywnych które, wbrew zapewnieniom znachorów mają skutki uboczne; na przykład „cudowna” maść [Piyan Ping](/Piyan_Ping "wikilink") zawiera [steryd](/steryd "wikilink") dexametazon. Inne są po prostu szkodliwe, na przykład niektóre leki ajurwedyczne zawierają ołów i inne metale ciężkie[7].
+Mogą szkodzić! Właśnie dlatego, że nie są dobrze przebadane, nie wiemy tak naprawdę, jakie mają działanie na organizm człowieka. Badania kliniczne służą nie tylko potwierdzaniu skuteczności, ale także skutków ubocznych i potencjalnych problemów. Znane są przypadki leków alternatywnych które, wbrew zapewnieniom znachorów mają skutki uboczne; na przykład „cudowna” maść [Piyan Ping](/atopedia/Piyan_Ping "wikilink") zawiera [steryd](/atopedia/steryd "wikilink") dexametazon. Inne są po prostu szkodliwe, na przykład niektóre leki ajurwedyczne zawierają ołów i inne metale ciężkie[7].
 
 ### „Tak wiele osób mówi, że <alternatywna praktyka Y> im pomogła, że to nie może być przypadek.”
 
@@ -207,7 +207,7 @@ Przypisy
 --------
 
 <references/>
-[Kategoria:Wpadki](/Kategoria:Wpadki "wikilink") [Kategoria:Terapia](/Kategoria:Terapia "wikilink") [Kategoria:Niekonwencjonalne metody leczenia](/Kategoria:Niekonwencjonalne_metody_leczenia "wikilink")
+[Kategoria:Wpadki](/atopedia/Kategoria:Wpadki "wikilink") [Kategoria:Terapia](/atopedia/Kategoria:Terapia "wikilink") [Kategoria:Niekonwencjonalne metody leczenia](/atopedia/Kategoria:Niekonwencjonalne_metody_leczenia "wikilink")
 
 [1]
 

@@ -6,23 +6,23 @@ permalink: /Skutki_uboczne_kortykosterydów/
 Sterydy stosowane zewnętrznie
 -----------------------------
 
-Częściej używane i mniej szkodliwe są sterydy stosowane zewnętrznie – [maści](/Maść "wikilink"), kremy, fluidy. Mogą one wywoływać takie skutki uboczne jak:
+Częściej używane i mniej szkodliwe są sterydy stosowane zewnętrznie – [maści](/atopedia/Maść "wikilink"), kremy, fluidy. Mogą one wywoływać takie skutki uboczne jak:
 
 -   miejscowe ścieńczenie naskórka i skóry właściwej
 -   rozstępy skórne
--   [posterydowe zapalenie skóry i zmiany trądzikopodobne](/Posterydowe_zapalenie_skóry "wikilink")
+-   [posterydowe zapalenie skóry i zmiany trądzikopodobne](/atopedia/Posterydowe_zapalenie_skóry "wikilink")
 -   zapalenie okołoustne
 -   zapalenie mieszków włosowych
 -   przebarwienia i odbarwienia
 -   nadmierne owłosienie
 -   utrwalony rumień - trwałe rozszerzenie powierzchownych naczyń krwionośnych
--   zwiększoną skłonność do zakażeń bakteryjnych, wirusowych, grzybiczych i pasożytniczych skóry, które występują u 16–43% chorych leczonych miejscowymi [GKS](/Glikokortykosterydy "wikilink").
+-   zwiększoną skłonność do zakażeń bakteryjnych, wirusowych, grzybiczych i pasożytniczych skóry, które występują u 16–43% chorych leczonych miejscowymi [GKS](/atopedia/Glikokortykosterydy "wikilink").
 -   nasilony nawrót choroby przy próbie odstawienia GKS
 
 Sterydy stosowane wewnętrznie
 -----------------------------
 
-Znacznie groźniejsze dla zdrowia przy przewlekłym używaniu są sterydy stosowane wewnętrznie, podawane w zastrzykach domięśniowych lub tabletkach (silna przewlekła [astma oskrzelowa](/Astma_oskrzelowa "wikilink"), nagłe, silne [reakcje alergiczne](/Reakcja_alergiczna "wikilink") i stany zapalne) – mogą powodować m.in.:
+Znacznie groźniejsze dla zdrowia przy przewlekłym używaniu są sterydy stosowane wewnętrznie, podawane w zastrzykach domięśniowych lub tabletkach (silna przewlekła [astma oskrzelowa](/atopedia/Astma_oskrzelowa "wikilink"), nagłe, silne [reakcje alergiczne](/atopedia/Reakcja_alergiczna "wikilink") i stany zapalne) – mogą powodować m.in.:
 
 -   wzrost owłosienia ciała
 -   chorobę wrzodową
@@ -39,17 +39,17 @@ Długotrwałe stosowanie sterydów zewnętrznie wiąże się jednak z szeregiem 
 
 -   teleangiektazje, czyli rozszerzenie kapilarnych naczyń krwionośnych skóry
 -   rozstępy skórne
--   zmiany w pigmentacji skóry ([biały dermografizm](/biały_dermografizm "wikilink"))
+-   zmiany w pigmentacji skóry ([biały dermografizm](/atopedia/biały_dermografizm "wikilink"))
 -   ścieńczenie skóry właściwej
--   [alergia kontaktowa](/alergia_kontaktowa "wikilink") na sterydy
--   większa podatność skóry na [infekcje](/infekcja_skóry "wikilink")
+-   [alergia kontaktowa](/atopedia/alergia_kontaktowa "wikilink") na sterydy
+-   większa podatność skóry na [infekcje](/atopedia/infekcja_skóry "wikilink")
 
 Jak tego uniknąć?
 -----------------
 
 [frame|Miejscowe różnice grubości skóry człowieka[1]|link=](/Plik:Grubosc_Skory.png "wikilink")**Okolice bardzo delikatne, jak twarz (zwłaszcza powieki), szyja, są szczególnie podatne na uzależnienia.** Dlatego na ogół przestrzega się przed stosowaniem sterydów w tych okolicach. Niektórzy lekarze dopuszczają niezwykle ostrożną kurację słabymi sterydami.
 
-**Terapia sterydami zawsze powinna przebiegać ściśle wg zaleceń lekarza dermatologa.** Jednak nie zawsze jest to gwarantem jej bezpieczeństwa. Posterydowe zapalenie skóry jest coraz częstszym problemem. Niektórzy lekarze nie informują pacjenta o tak ważnej rzeczy, jak maksymalna długość czasu stosowania sterydów. Inni w ogóle nie informują, że przepisany specyfik jest sterydem. Dlatego zawsze należy czytać ulotki [maści](/:kategoria:maści "wikilink") i [kremów](/:kategoria:kremy "wikilink").
+**Terapia sterydami zawsze powinna przebiegać ściśle wg zaleceń lekarza dermatologa.** Jednak nie zawsze jest to gwarantem jej bezpieczeństwa. Posterydowe zapalenie skóry jest coraz częstszym problemem. Niektórzy lekarze nie informują pacjenta o tak ważnej rzeczy, jak maksymalna długość czasu stosowania sterydów. Inni w ogóle nie informują, że przepisany specyfik jest sterydem. Dlatego zawsze należy czytać ulotki [maści](/atopedia/:kategoria:maści "wikilink") i [kremów](/atopedia/:kategoria:kremy "wikilink").
 ==Nie wpędź się jednak w fobię kortykosteroidową==
 
 Ponad połowa chorych na AZS (57%) odczuwa niepokój w związku ze stosowaniem miejscowych preparatów GKS. Problem fobii kortykosteroidowej jest w ostatnim czasie zjawiskiem coraz częściej dostrzeganym i opisywanym w literaturze. Badania wykazują, że fobia kortykosteroidowa może należeć do głównych przyczyn braku współpracy ze strony chorego. Niewątpliwie konsekwencje braku zaufania (przerwanie leczenia, pogorszenie stanu skóry, świąd, zaburzenia snu) mogą być równie poważne, jak potencjalne działania niepożądane GKS.[2]
@@ -57,14 +57,14 @@ Ponad połowa chorych na AZS (57%) odczuwa niepokój w związku ze stosowaniem m
 Zobacz również
 --------------
 
--   [Zespół Cushinga](/Zespół_Cushinga "wikilink")
--   [Posterydowe zapalenie skóry](/Posterydowe_zapalenie_skóry "wikilink")
--   [Europejska klasyfikacja kortykosterydów](/Europejska_klasyfikacja_kortykosterydów "wikilink")
+-   [Zespół Cushinga](/atopedia/Zespół_Cushinga "wikilink")
+-   [Posterydowe zapalenie skóry](/atopedia/Posterydowe_zapalenie_skóry "wikilink")
+-   [Europejska klasyfikacja kortykosterydów](/atopedia/Europejska_klasyfikacja_kortykosterydów "wikilink")
 -   [Konsekwencje korzystania z maści sterydowych](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=10&t=161) - wątek na Forum
 -   [Silny kortykosteryd 3 razy w tygodniu, a słabszy stosowany przez cały tydzień](http://www.mp.pl/artykuly/?aid=13078)
 
 <references />
-[kategoria:terapia](/kategoria:terapia "wikilink") [Kategoria:Sterydy](/Kategoria:Sterydy "wikilink")
+[kategoria:terapia](/atopedia/kategoria:terapia "wikilink") [Kategoria:Sterydy](/atopedia/Kategoria:Sterydy "wikilink")
 
 [1] Kaszuba A, Pastuszka M, Kaszuba A - Miejscowe glikokortykosteroidy w leczeniu chorób skóry — zalecane standardy postępowania - *Forum Medycyny Rodzinnej 2009, tom 3, nr 5, 347–358*
 

@@ -18,4 +18,4 @@ Piekarnik 180 stopni, piec na papierze na blasze ok 15 min.
 
 Można ozdobić jak kto może ;)
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

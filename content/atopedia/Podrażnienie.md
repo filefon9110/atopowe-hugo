@@ -3,7 +3,7 @@ title: Podrażnienie
 permalink: /Podrażnienie/
 ---
 
-[Skóra atopowa](/Skóra_atopowa "wikilink"), na skutek utraty [płaszcza lipidowego](/Płaszcz_lipidowy "wikilink"), staje się wrażliwa na czynniki, które skóra zdrowa toleruje bez żadnego problemu. W ten sposób, oprócz problemu powstałego na skutek [wyprysku](/Wyprysk "wikilink"), dochodzi problem mechanicznej delikatności skóry i jej podatności na **podrażnienia**. Oznacza to, że [skóra](/skóra "wikilink") atopowa, pomimo braku uczulenia na dany materiał, może ucierpieć na skutek mechanicznego kontaktu z nim.
+[Skóra atopowa](/atopedia/Skóra_atopowa "wikilink"), na skutek utraty [płaszcza lipidowego](/atopedia/Płaszcz_lipidowy "wikilink"), staje się wrażliwa na czynniki, które skóra zdrowa toleruje bez żadnego problemu. W ten sposób, oprócz problemu powstałego na skutek [wyprysku](/atopedia/Wyprysk "wikilink"), dochodzi problem mechanicznej delikatności skóry i jej podatności na **podrażnienia**. Oznacza to, że [skóra](/atopedia/skóra "wikilink") atopowa, pomimo braku uczulenia na dany materiał, może ucierpieć na skutek mechanicznego kontaktu z nim.
 
 **Czynniki drażniące**
 
@@ -12,10 +12,10 @@ permalink: /Podrażnienie/
 -   szorstkie materiały (wełna)
 -   skrajnie niskie lub wysokie temperatury, duża wilgotność, suche i zimne powietrze
 -   pot
--   [drapanie](/Efekt_błędnego_koła "wikilink")
+-   [drapanie](/atopedia/Efekt_błędnego_koła "wikilink")
 
 **Zobacz też**
 
--   [Pranie](/Pranie "wikilink")
+-   [Pranie](/atopedia/Pranie "wikilink")
 
-[kategoria:objawy atopowego zapalenia skóry](/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")
+[kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

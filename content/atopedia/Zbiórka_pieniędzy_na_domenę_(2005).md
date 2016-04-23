@@ -50,6 +50,6 @@ Cel: 650 złotych
 Zobacz też
 ----------
 
--   [Zbiórka pieniędzy na domenę](/Zbiórka_pieniędzy_na_domenę "wikilink")
+-   [Zbiórka pieniędzy na domenę](/atopedia/Zbiórka_pieniędzy_na_domenę "wikilink")
 
-[kategoria:zbiórki](/kategoria:zbiórki "wikilink")
+[kategoria:zbiórki](/atopedia/kategoria:zbiórki "wikilink")

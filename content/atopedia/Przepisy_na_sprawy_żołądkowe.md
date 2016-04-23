@@ -63,4 +63,4 @@ Wzmaga pracę żołądka i ułatwia trawienie. Ma także lekkie działanie wiatr
 
 Cynamon wzmaga działanie insuliny, co sprzyja spalaniu glukozy. Pomagając w leczeniu cukrzycy, może również zapobiegać chorobie wieńcowej serca i nadciśnieniu krwi.
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

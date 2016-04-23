@@ -63,7 +63,7 @@ Zakażenia skóry:
 -   grzybicze i spowodowane drożdżakami
 -   pierwotniakowe
 
-Owrzodzenia skóry, rany, owrzodzenia podudzi, rany oparzeniowe. [Posterydowe zapalenie skóry](/Posterydowe_zapalenie_skóry "wikilink") wokół ust, posterydowe rozstępy skórne. [Rybia łuska](/Rybia_łuska "wikilink"), trądzik pospolity, trądzik różowały, łamliwość naczyń krwionośnych, zaniki skórne.
+Owrzodzenia skóry, rany, owrzodzenia podudzi, rany oparzeniowe. [Posterydowe zapalenie skóry](/atopedia/Posterydowe_zapalenie_skóry "wikilink") wokół ust, posterydowe rozstępy skórne. [Rybia łuska](/atopedia/Rybia_łuska "wikilink"), trądzik pospolity, trądzik różowały, łamliwość naczyń krwionośnych, zaniki skórne.
 
 Nadwrażliwość na którykolwiek ze składników podłoża lub substancję czynną.
 
@@ -152,4 +152,4 @@ Locoid®, krem R/2591 Locoid Lipocream®, krem R/1915 Locoid®, roztwór do stos
 
 12 . 2000
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

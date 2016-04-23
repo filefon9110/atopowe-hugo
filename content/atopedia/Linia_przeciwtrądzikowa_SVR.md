@@ -70,4 +70,4 @@ Niewidoczne, przezroczyste plasterki do pielęgnacji miejscowej skóry trądziko
 
 Aktywny tonik pielęgnujący i oczyszczający dla skóry tłustej, trądzikowej, ogranicza wydzielanie sebum, zapobiega powstawaniu wykwitów trądzikowych (twarz, dekolt, plecy), pH 4,25. Pojemność 100 ml.
 
-[kategoria:kosmetyki](/kategoria:kosmetyki "wikilink")
+[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

@@ -3,7 +3,7 @@ title: PUVA
 permalink: /PUVA/
 ---
 
-Terapia polegająca na jednoczesnym naświetlaniu promieniowaniem ultrafioletowym UVA oraz przyjmowaniu leków z grupy psolarenów (np. [oxsolaren](/oxsolaren "wikilink"), [geralen](/geralen "wikilink")), zwiększających wytwarzanie pigmentu (melaniny) w skórze po wystawieniu jej na działanie promieni ultrafioletowych. Terapia PUVA powoduje blokowanie receptorów [komórek Langerhansa](/komórki_Langerhansa "wikilink") oraz eliminuje bakterie i niektóre wirusy obecne na skórze, co zmniejsza ryzyko [infekcji](/infekcja_skóry "wikilink").
+Terapia polegająca na jednoczesnym naświetlaniu promieniowaniem ultrafioletowym UVA oraz przyjmowaniu leków z grupy psolarenów (np. [oxsolaren](/atopedia/oxsolaren "wikilink"), [geralen](/atopedia/geralen "wikilink")), zwiększających wytwarzanie pigmentu (melaniny) w skórze po wystawieniu jej na działanie promieni ultrafioletowych. Terapia PUVA powoduje blokowanie receptorów [komórek Langerhansa](/atopedia/komórki_Langerhansa "wikilink") oraz eliminuje bakterie i niektóre wirusy obecne na skórze, co zmniejsza ryzyko [infekcji](/atopedia/infekcja_skóry "wikilink").
 
 ### Badania przed leczeniem PUVA
 
@@ -17,7 +17,7 @@ Na godzinę do dwóch przed naświetlaniem, podczas jedzenia, należy przyjąć 
 
 **Nie mogą.**
 
-Leczenie opalaniem [PUVA](/PUVA "wikilink") polega na stosowaniu ściśle określonych przez lekarza dawek wyselekcjonowanego promieniowania UVA i UVB, tak by nie doszło do nadmiernego podrażnienia skóry; w przypadku [solarium](/solarium "wikilink") nie ma możliwości regulacji tych dawek, co więcej działanie w dużej mierze jest uzależnione od „wypalenia” tj. starości lamp w gabinetach kosmetycznych.
+Leczenie opalaniem [PUVA](/atopedia/PUVA "wikilink") polega na stosowaniu ściśle określonych przez lekarza dawek wyselekcjonowanego promieniowania UVA i UVB, tak by nie doszło do nadmiernego podrażnienia skóry; w przypadku [solarium](/atopedia/solarium "wikilink") nie ma możliwości regulacji tych dawek, co więcej działanie w dużej mierze jest uzależnione od „wypalenia” tj. starości lamp w gabinetach kosmetycznych.
 
 Obecnie stosowane są także lampy zastępujące PUVA. Mowa tu o lampie UVB 311. Ma ona takie samo zastosowanie jak lampa PUVA jednak nie przyjmuje się żadnych leków fotouczulających.
 
@@ -35,7 +35,7 @@ Dla dzieci i dorosłych:
 
 **Zobacz też**
 
--   [Światłoterapia](/Światłoterapia "wikilink")
--   [Gronkowiec złocisty](/Gronkowiec_złocisty "wikilink")
+-   [Światłoterapia](/atopedia/Światłoterapia "wikilink")
+-   [Gronkowiec złocisty](/atopedia/Gronkowiec_złocisty "wikilink")
 
-[kategoria:terapia](/kategoria:terapia "wikilink")
+[kategoria:terapia](/atopedia/kategoria:terapia "wikilink")

@@ -77,4 +77,4 @@ Industriestrasse
 
 Niemcy
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

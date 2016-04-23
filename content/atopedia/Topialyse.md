@@ -56,4 +56,4 @@ Skóra wysuszona, podrażniona i atopowa u niemowląt, dzieci i dorosłych. Nie 
 
 Skóra sucha, wrażliwa i atopowa. Do pielęgnacji całego ciała niemowląt, dzieci i dorosłych w trakcie lub po kąpieli. Pojemność 125 ml.
 
-[kategoria:kosmetyki](/kategoria:kosmetyki "wikilink")
+[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

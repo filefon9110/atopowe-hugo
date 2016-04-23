@@ -34,4 +34,4 @@ Nagrodą będzie tytuł honorowego Atopowego Zastępcy Stańczyka lub coś w tym
 -   Atopio Zostaniesz Sama
 -   Atos Zatkał Sracz *(hydraul.)*
 
-[kategoria:humor](/kategoria:humor "wikilink")
+[kategoria:humor](/atopedia/kategoria:humor "wikilink")

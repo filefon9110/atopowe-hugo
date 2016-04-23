@@ -38,7 +38,7 @@ __TOC__
 Co to jest lek Rotadin i w jakim celu się go stosuje
 ====================================================
 
-Loratadyna, substancja czynna leku Rotadin jest długodziałającym lekiem przeciwhistaminowym nowej generacji o właściwościach przeciwalergicznych. Usuwa lub łagodzi objawy alergicznego nieżytu nosa (kichanie, swędzenie, wyciek z nosa, [świąd](/świąd "wikilink") i pieczenie oczu). Działanie leku zaczyna się już po 30 minutach (maksimum po 4-6 godzinach) i utrzymuje się co najmniej 24 godziny.
+Loratadyna, substancja czynna leku Rotadin jest długodziałającym lekiem przeciwhistaminowym nowej generacji o właściwościach przeciwalergicznych. Usuwa lub łagodzi objawy alergicznego nieżytu nosa (kichanie, swędzenie, wyciek z nosa, [świąd](/atopedia/świąd "wikilink") i pieczenie oczu). Działanie leku zaczyna się już po 30 minutach (maksimum po 4-6 godzinach) i utrzymuje się co najmniej 24 godziny.
 
 **Lek Rotadin stosuje się w:** leczeniu objawów sezonowego i człorocznego alergicznego nieżytu nosa i przewlekłej pokrzywki idiopatycznej.
 
@@ -160,4 +160,4 @@ Nr telefonu:
 
 (22) 51-91-500
 
-[kategoria:leki zawierające loratadynę](/kategoria:leki_zawierające_loratadynę "wikilink") [kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki zawierające loratadynę](/atopedia/kategoria:leki_zawierające_loratadynę "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

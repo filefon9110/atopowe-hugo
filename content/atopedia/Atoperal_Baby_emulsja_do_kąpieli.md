@@ -7,7 +7,7 @@ PIELĘGNACJA SKÓRY DZIECI I NIEMOWLĄT /SKÓRA ATOPOWA, SUCHA, WRAŻLIWA/
 
 Jedyna emulsja do kąpieli nawilżającej oparta na oleju lnianym.
 
-Emulsja przeznaczona do pielęgnacji [skóry atopowej](/skóra_atopowa "wikilink"), [suchej](/sucha_skóra "wikilink"), wrażliwej dzieci i niemowląt powyżej 1 miesiąca życia. Zapewnia optymalne nawilżenie skóry. Delikatnie oczyszcza skórę (poprzez łagodne substancje absorbujące zanieczyszczenia z powierzchni skóry). Doskonale nawilża i natłuszcza skórę oraz tworzy na jej powierzchni delikatną warstwę okluzyjną (ochronną), zapobiegającą przeznaskórkowej utracie wody.
+Emulsja przeznaczona do pielęgnacji [skóry atopowej](/atopedia/skóra_atopowa "wikilink"), [suchej](/atopedia/sucha_skóra "wikilink"), wrażliwej dzieci i niemowląt powyżej 1 miesiąca życia. Zapewnia optymalne nawilżenie skóry. Delikatnie oczyszcza skórę (poprzez łagodne substancje absorbujące zanieczyszczenia z powierzchni skóry). Doskonale nawilża i natłuszcza skórę oraz tworzy na jej powierzchni delikatną warstwę okluzyjną (ochronną), zapobiegającą przeznaskórkowej utracie wody.
 
 Sposób stosowania:
 ------------------
@@ -30,4 +30,4 @@ Produkt opracowany we współpracy z dermatologami. Przebadany dermatologicznie.
 
 **Produkt dostępny tylko w aptece.**
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

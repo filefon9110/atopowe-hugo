@@ -17,4 +17,4 @@ Jeżeli masz smykałkę do statystyki, zachęcamy do niezależnego przeanalizowa
 
 -   Pobierz: [ankieta-dane.txt](/Media:ankieta-dane.txt "wikilink") (dane w formacie tekstowym)
 
-[kategoria:Ankieta](/kategoria:Ankieta "wikilink")
+[kategoria:Ankieta](/atopedia/kategoria:Ankieta "wikilink")

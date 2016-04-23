@@ -3,7 +3,7 @@ title: Pranie
 permalink: /Pranie/
 ---
 
-Należy uważać, aby ubrania prać w środkach, które nie powodują [podrażnienia](/podrażnienie "wikilink") skóry. Użytkownicy forum polecają takie proszki:
+Należy uważać, aby ubrania prać w środkach, które nie powodują [podrażnienia](/atopedia/podrażnienie "wikilink") skóry. Użytkownicy forum polecają takie proszki:
 
 -   Jelp
 -   Bobas
@@ -12,10 +12,10 @@ Należy uważać, aby ubrania prać w środkach, które nie powodują [podrażni
 
 Dobre są też **płyny** do prania, ponieważ lepiej niż proszki wypłukują się z ubrań, a co za tym idzie mniej podrażniają.
 
-Wiele źródeł zdecydowanie odradza stosowanie płynów do płukania tkanin ze względu na osadzanie się ich pozostałości na odzieży i wynikające z tego [podrażnienie](/podrażnienie "wikilink") skóry. Należy natomiast wielokrotnie płukać ubrania po upraniu w czystej wodzie. Można również przeprowadzić następujący test: wieczorem po wypraniu odzieży, najlepiej z opcją dodatkowego płukania, napuścić pełną wannę gorącej wody, włożyć do niej ubrania i pozostawić je tam na noc. Rano wyjąć ubrania i ocenić pozostałą wodę - jeśli jest czysta, płukanie było wystarczające. Jeśli pływają w niej mydliny, należy rozważyć stosowanie mniejszej ilości proszku lub dodatkowe pranie na zakończenie w samej wodzie.
+Wiele źródeł zdecydowanie odradza stosowanie płynów do płukania tkanin ze względu na osadzanie się ich pozostałości na odzieży i wynikające z tego [podrażnienie](/atopedia/podrażnienie "wikilink") skóry. Należy natomiast wielokrotnie płukać ubrania po upraniu w czystej wodzie. Można również przeprowadzić następujący test: wieczorem po wypraniu odzieży, najlepiej z opcją dodatkowego płukania, napuścić pełną wannę gorącej wody, włożyć do niej ubrania i pozostawić je tam na noc. Rano wyjąć ubrania i ocenić pozostałą wodę - jeśli jest czysta, płukanie było wystarczające. Jeśli pływają w niej mydliny, należy rozważyć stosowanie mniejszej ilości proszku lub dodatkowe pranie na zakończenie w samej wodzie.
 
 Często pozostałości proszku są zawarte w przewodach pralki - wówczas nawet wielokrotne płukanie może na wiele się nie zdać. Jest to szczególnie częste przy stosowaniu dziecięcych proszków. Należy dokładnie umyć pojemnik na proszek i wszystkie dostępne elementy, po czym włączyć pranie pustej pralki (najdłuższy program) wsypując tam ok. 0,5 kg sody oczyszczonej. Po takim oczyszczeniu pralki najlepiej stosować już wyłącznie płyny do prania lub wsypywać proszek bezpośrednio do bębna.
 
 Niektórzy zalecają również pranie w płatkach mydlanych, ale dotyczy to raczej osób uczulonych na proszki, gdyż płatki jeszcze bardziej oblepiają włókna tkanin. Jeśli jednak ktoś chce, w pralkach automatycznych należy stosować płatki niepieniące się, na przykład firmy Persavon. Łyżkę płatków należy rozpuścić w gorącej wodzie i wlać bezpośrednio na odzież włożoną do bębna. Wstawić pranie z wielokrotnym płukaniem.
 
-[kategoria:pielęgnacja](/kategoria:pielęgnacja "wikilink")
+[kategoria:pielęgnacja](/atopedia/kategoria:pielęgnacja "wikilink")

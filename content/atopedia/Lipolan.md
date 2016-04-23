@@ -9,7 +9,7 @@ permalink: /Lipolan/
 
 **LIPOLAN** idealny emolient dla:
 
-osób chorych na [atopowe zapalenie skóry](/atopowe_zapalenie_skóry "wikilink") i [łuszczycę](/łuszczyca "wikilink"), do pielęgnacji dłoni i stóp, zwłaszcza w zimie, dla osób uprawiających sporty zimowe, jako doskonałe zabezpieczenie twarzy przed mrozem.
+osób chorych na [atopowe zapalenie skóry](/atopedia/atopowe_zapalenie_skóry "wikilink") i [łuszczycę](/atopedia/łuszczyca "wikilink"), do pielęgnacji dłoni i stóp, zwłaszcza w zimie, dla osób uprawiających sporty zimowe, jako doskonałe zabezpieczenie twarzy przed mrozem.
 
 **Składniki:**
 
@@ -20,14 +20,14 @@ osób chorych na [atopowe zapalenie skóry](/atopowe_zapalenie_skóry "wikilink"
 -   ALCOHOL ETANOL
 -   SODIUM CETEARYL SULFATE CETEARYLOSIARCZAN SODOWY
 -   PHENOXYETHANOL FENOKSYETANOL
--   METHYLPARABEN [Metyloparaben](/Metyloparaben "wikilink")
--   BUTYLPARABEN [Butyloparaben](/Butyloparaben "wikilink")
+-   METHYLPARABEN [Metyloparaben](/atopedia/Metyloparaben "wikilink")
+-   BUTYLPARABEN [Butyloparaben](/atopedia/Butyloparaben "wikilink")
 -   CHOLESTEROL CHOLESTEROL
 -   DICETYL PHOSPHATE DIHEKSADECYLOFOSFORAN
--   ETHYLPARABEN [Etyloparaben](/Etyloparaben "wikilink")
+-   ETHYLPARABEN [Etyloparaben](/atopedia/Etyloparaben "wikilink")
 -   ISOBUTYLPARABEN IZOBUTYLOPARABEN
 -   LECITHIN LECYTYNA
--   PROPYLPARABEN [Propyloparaben](/Propyloparaben "wikilink")
+-   PROPYLPARABEN [Propyloparaben](/atopedia/Propyloparaben "wikilink")
 
 **Preparat dostępny jest w opakowaniach:** 30 g (ok. 15 zł) i 100 g (ok. 27 zł).(stan na 23.04.2013)
 
@@ -40,4 +40,4 @@ osób chorych na [atopowe zapalenie skóry](/atopowe_zapalenie_skóry "wikilink"
 
 Żródło: <http://www.emolienty.pl/produkty/lipolan/>
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

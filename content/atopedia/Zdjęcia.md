@@ -8,16 +8,16 @@ Nie diagnozuj się samodzielnie. Jeżeli chcesz wiedzieć czy masz AZS czy nie, 
 Jak robić zdjęcia skóry
 -----------------------
 
-Zanim wyślesz tu zdjęcia, przejrzyj poradnik [jak robić zdjęcia skóry](/jak_robić_zdjęcia_skóry "wikilink").
+Zanim wyślesz tu zdjęcia, przejrzyj poradnik [jak robić zdjęcia skóry](/atopedia/jak_robić_zdjęcia_skóry "wikilink").
 
-Zdjęcia pochodzące od użytkowników [forum](/forum "wikilink")
+Zdjęcia pochodzące od użytkowników [forum](/atopedia/forum "wikilink")
 -------------------------------------------------------------
 
 ### JB
 
 Grafika:GRAFIKA.BUZIA.JPG Grafika:GRAFIKA.BUZIA2.JPG Grafika:GRAFIKA.BUZIA3.JPG
 
-Taka wysypka utrzymuje sie u mojego syna od urodzenia bez przerwy. Podobno na 100% [AZS](/AZS "wikilink").
+Taka wysypka utrzymuje sie u mojego syna od urodzenia bez przerwy. Podobno na 100% [AZS](/atopedia/AZS "wikilink").
 
 ### Plamki u niemowlęcia
 
@@ -39,7 +39,7 @@ Obecnie Krzyś ma 3 latka, plamki zniknęły. Ma od czasu do czasu małe czerwon
 
 ### Osoba dorosła
 
-Poniżej umiarkowane zmiany atopowe u osoby dorosłej. Alergen nieznany - nie wystąpiła żadna zmiana diety czy otoczenia. Leczenie wewnętrzne: [leki przeciwhistaminowe](/Leki_antyhistaminowe "wikilink"). Leczenie zewnętrzne: maść cholesterolowa z hydrokortyzonem, krem na lekobazie z acidi borici, [emolienty](/emolienty "wikilink"), sterydy ([Elosone](/Elosone "wikilink"), [Elocom](/Elocom "wikilink"), [Laticort](/Laticort "wikilink")), [Elidel](/Elidel "wikilink"). Zmiany częściowo zaleczone.
+Poniżej umiarkowane zmiany atopowe u osoby dorosłej. Alergen nieznany - nie wystąpiła żadna zmiana diety czy otoczenia. Leczenie wewnętrzne: [leki przeciwhistaminowe](/atopedia/Leki_antyhistaminowe "wikilink"). Leczenie zewnętrzne: maść cholesterolowa z hydrokortyzonem, krem na lekobazie z acidi borici, [emolienty](/atopedia/emolienty "wikilink"), sterydy ([Elosone](/atopedia/Elosone "wikilink"), [Elocom](/atopedia/Elocom "wikilink"), [Laticort](/atopedia/Laticort "wikilink")), [Elidel](/atopedia/Elidel "wikilink"). Zmiany częściowo zaleczone.
 
 Grafika:szyja.jpg Grafika:Szyja 1.JPG Grafika:Szyja 2.JPG Grafika:Kciuk2.JPG Grafika:Zgięcie2.JPG|Zgięcie łokcia Grafika:Dłoń coś tam widać.JPG Grafika:Dłoń12.JPG Grafika:Dłoń22.JPG Grafika:Dłoń32.JPG
 
@@ -87,4 +87,4 @@ Linki zewnętrzne
 -   [Zdjęcia AZS z portalu dermatologów](http://www.dermnet.com/moduleIndex.cfm?moduleID=2) www.dermnet.com
 -   [DermAtlas](http://dermatlas.med.jhmi.edu/?search=diagnosis:%27eczema%20%28dermatitis,%20atopic%29%27)
 
-[kategoria:multimedia](/kategoria:multimedia "wikilink")
+[kategoria:multimedia](/atopedia/kategoria:multimedia "wikilink")

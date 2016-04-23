@@ -39,4 +39,4 @@ Na odwrocie
 -   nie istnieje jedna przyczyna AZS - chorobę powoduje wiele czynników oraz interakcji pomiędzy czynnikami
 -   terapia AZS musi być wielopoziomowa i obejmować pielęgnację, leczenie, odczulanie i inne
 
-[kategoria:Serwis](/kategoria:Serwis "wikilink")
+[kategoria:Serwis](/atopedia/kategoria:Serwis "wikilink")

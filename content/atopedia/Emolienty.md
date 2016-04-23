@@ -3,6 +3,6 @@ title: Emolienty
 permalink: /Emolienty/
 ---
 
-1.  Redirect [:kategoria:emolienty](/:kategoria:emolienty "wikilink")
+1.  Redirect [:kategoria:emolienty](/atopedia/:kategoria:emolienty "wikilink")
 
-[kategoria:podstawowe wiadomości](/kategoria:podstawowe_wiadomości "wikilink")
+[kategoria:podstawowe wiadomości](/atopedia/kategoria:podstawowe_wiadomości "wikilink")

@@ -3,6 +3,6 @@ title: Tavegyl
 permalink: /Tavegyl/
 ---
 
-1.  Redirect [Clemastin](/Clemastin "wikilink")
+1.  Redirect [Clemastin](/atopedia/Clemastin "wikilink")
 
-[kategoria:leki doustne](/kategoria:leki_doustne "wikilink") [kategoria:zastrzyki](/kategoria:zastrzyki "wikilink") [kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink")
+[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:zastrzyki](/atopedia/kategoria:zastrzyki "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink")

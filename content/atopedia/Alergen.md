@@ -3,9 +3,9 @@ title: Alergen
 permalink: /Alergen/
 ---
 
-**Alergeny** są to wszystkie substancje, które wywołują stan nadmiernego pobudzenia [układu immunologicznego](/Układ_immunologiczny "wikilink"), prowadzącego zazwyczaj do stanu zapalnego danej tkanki lub narządu.
+**Alergeny** są to wszystkie substancje, które wywołują stan nadmiernego pobudzenia [układu immunologicznego](/atopedia/Układ_immunologiczny "wikilink"), prowadzącego zazwyczaj do stanu zapalnego danej tkanki lub narządu.
 
-Najczęściej są to substancje, cząsteczki białkowe, zwykle mikroskopijnej wielkości. Mogą być pochodzenia roślinnego (pyłki roślin) lub zwierzęcego (sierść zwierząt) oraz kurz, [roztocza](/Roztocze_kurzu_domowego "wikilink"), pleśnie, grzyby, pierze, pokarmy oraz wszelkiego rodzaju inne substancje. Silnym alergenem jest również [dym papierosowy](/Papierosy "wikilink").
+Najczęściej są to substancje, cząsteczki białkowe, zwykle mikroskopijnej wielkości. Mogą być pochodzenia roślinnego (pyłki roślin) lub zwierzęcego (sierść zwierząt) oraz kurz, [roztocza](/atopedia/Roztocze_kurzu_domowego "wikilink"), pleśnie, grzyby, pierze, pokarmy oraz wszelkiego rodzaju inne substancje. Silnym alergenem jest również [dym papierosowy](/atopedia/Papierosy "wikilink").
 
 Alergeny pokarmowe
 ------------------
@@ -23,6 +23,6 @@ Potencjalnie alergenem pokarmowym może być wszystko co jemy, szczególnie jeż
 
 ### Zobacz też
 
--   [Alergeny krzyżowe](/Alergeny_krzyżowe "wikilink")
+-   [Alergeny krzyżowe](/atopedia/Alergeny_krzyżowe "wikilink")
 
-[Kategoria:Alergia](/Kategoria:Alergia "wikilink") [kategoria:Alergeny](/kategoria:Alergeny "wikilink")
+[Kategoria:Alergia](/atopedia/Kategoria:Alergia "wikilink") [kategoria:Alergeny](/atopedia/kategoria:Alergeny "wikilink")

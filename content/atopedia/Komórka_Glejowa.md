@@ -38,4 +38,4 @@ Ze względu na funkcję wyróżniamy nerwy:
 -   eferentne, odprowadzające,
 -   autonomiczne (sympatyczne i parasympatyczne).
 
-[kategoria:ciało człowieka](/kategoria:ciało_człowieka "wikilink")
+[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

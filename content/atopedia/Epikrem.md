@@ -6,7 +6,7 @@ permalink: /Epikrem/
 Opis
 ----
 
-Epikrem przeznaczony jest do skóry skłonnej do świądu, nadmiernie wysuszonego, rogowaciejącego naskórka. Zmniejsza [świąd](/świąd "wikilink") wywołany detergentami, likwiduje uczucie nadmiernej suchości i szorstkości naskórka, zimniejsza jego skłonność do złuszczania. Dobrze natłuszcza skórę, zmniejsza jej szorstkość poprawiając wygląd.
+Epikrem przeznaczony jest do skóry skłonnej do świądu, nadmiernie wysuszonego, rogowaciejącego naskórka. Zmniejsza [świąd](/atopedia/świąd "wikilink") wywołany detergentami, likwiduje uczucie nadmiernej suchości i szorstkości naskórka, zimniejsza jego skłonność do złuszczania. Dobrze natłuszcza skórę, zmniejsza jej szorstkość poprawiając wygląd.
 
 Wskazania
 ---------
@@ -30,4 +30,4 @@ Skład
 
 Skład (INCI): Petrolatum, Lanolin, Allantoin, Aloe vera extract, Wheat germ oil, Evening primose oil, Witamin A palmitate, Glycerin, Lavendula officinalis oil, DMDM Hydantoin, Methylparaben, Ethylparaben, Phenoxyethanol.
 
-[kategoria:kremy](/kategoria:kremy "wikilink")
+[kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

@@ -29,4 +29,4 @@ Maść i krem: zewnętrznie do tamponów i wcierania, tj. 1-3 razy na dobę nano
 
 Przedsiębiorstwo Farmaceutyczne "Ziołolek" Sp. z o.o. Ul. Starołęcka 189 61-512 Poznań
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:emolienty](/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

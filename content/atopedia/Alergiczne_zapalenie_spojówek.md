@@ -3,14 +3,14 @@ title: Alergiczne zapalenie spojówek
 permalink: /Alergiczne_zapalenie_spojówek/
 ---
 
-Zapalenie [spojówek](/Spojówka "wikilink") jest najczęściej spotykaną chorobą oczu.
+Zapalenie [spojówek](/atopedia/Spojówka "wikilink") jest najczęściej spotykaną chorobą oczu.
 
 Rodzaje zapalenia spojówek
 --------------------------
 
 Można je podzielić na:
 
--   nie zakaźne ([alergiczne](/Alergia "wikilink"))
+-   nie zakaźne ([alergiczne](/atopedia/Alergia "wikilink"))
 -   wywołane zakażeniem (grzybiczo-pasożytnicze)
 -   autoimmunologiczne
 
@@ -30,11 +30,11 @@ Alergiczne zapalenie spojówek charakteryzuje sie:
 
 ### Atopowe zapalenie spojówek
 
-Inną formą alergicznego zapalenie spojówek jest atopowe zapalenie spojówek. Objawy są niemalże identyczne z sezonowym zapaleniem spojówek z tą różnicą, iż sezonowe zapalenie spojówek występuje głównie u dzieci, natomiast atopowe stany zapalne u dorosłych. Leczenie jest trudne i przewlekłe, możliwe jest uszkodzenie wzroku. Dotyka osoby chorujące na AZS. Krótkotrwale stosuje się [sterydy](/Kortykosterydy "wikilink") i ogólne leczenie antyhistaminowe.
+Inną formą alergicznego zapalenie spojówek jest atopowe zapalenie spojówek. Objawy są niemalże identyczne z sezonowym zapaleniem spojówek z tą różnicą, iż sezonowe zapalenie spojówek występuje głównie u dzieci, natomiast atopowe stany zapalne u dorosłych. Leczenie jest trudne i przewlekłe, możliwe jest uszkodzenie wzroku. Dotyka osoby chorujące na AZS. Krótkotrwale stosuje się [sterydy](/atopedia/Kortykosterydy "wikilink") i ogólne leczenie antyhistaminowe.
 
 Leczenie
 --------
 
-Leczenie polega na odczulaniu. Bezpośrednio do oka podaje sie [leki antyhistaminowe](/Leki_antyhistaminowe "wikilink") zawarte w kroplach, a doustnie tabletki antyhistaminowe. Pomagają również preparaty "sztuczne łzy" i chłodne okłady (Uwaga na krople ze świetlikiem, mogą alergizować).
+Leczenie polega na odczulaniu. Bezpośrednio do oka podaje sie [leki antyhistaminowe](/atopedia/Leki_antyhistaminowe "wikilink") zawarte w kroplach, a doustnie tabletki antyhistaminowe. Pomagają również preparaty "sztuczne łzy" i chłodne okłady (Uwaga na krople ze świetlikiem, mogą alergizować).
 
-[Kategoria:Alergia](/Kategoria:Alergia "wikilink")
+[Kategoria:Alergia](/atopedia/Kategoria:Alergia "wikilink")

@@ -43,4 +43,4 @@ Tel: 602 613 003 Monika Wyrzykowska
 
 Mail: fundacja@fundacja-alabaster.org
 
-[kategoria:Fundacja Alabaster](/kategoria:Fundacja_Alabaster "wikilink") [kategoria:Życie towarzyskie atopików](/kategoria:Życie_towarzyskie_atopików "wikilink") [kategoria:Atopowe zapalenie skóry u dzieci](/kategoria:Atopowe_zapalenie_skóry_u_dzieci "wikilink")
+[kategoria:Fundacja Alabaster](/atopedia/kategoria:Fundacja_Alabaster "wikilink") [kategoria:Życie towarzyskie atopików](/atopedia/kategoria:Życie_towarzyskie_atopików "wikilink") [kategoria:Atopowe zapalenie skóry u dzieci](/atopedia/kategoria:Atopowe_zapalenie_skóry_u_dzieci "wikilink")

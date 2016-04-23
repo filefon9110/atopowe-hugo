@@ -193,4 +193,4 @@ Fax. + 421 2 5932 4331
 
 Data zatwierdzenia ulotki: 29.09.2008 r.
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:maści](/kategoria:maści "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/kategoria:antybiotyki "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink")

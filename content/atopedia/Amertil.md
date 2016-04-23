@@ -46,7 +46,7 @@ U dorosłych i dzieci powyżej 12 roku życia stosuje sie zwykle 10 mg (1 tablet
 Nawet znaczne zwiększenie zalecanych dawek nie powoduje wystąpienia specyficznych objawów działania toksycznego. Objawem przedawkowania u dorosłych może być senność. Przedawkowanie u dzieci może wywołać pobudzenie. Jednak w przypadku podejrzenia o zatrucie cetyryzyną należy możliwie szybko sprowokować wymioty i zastosować płukanie żołądka oraz niezwłocznie skontaktować się z lekarzem.
 
 **Działanie niepożądane:**
-Cetyryzyna podawana w zalecanych dawkach leczniczych zasadniczo nie wywołuje objawów niepożądanych. U osób szczególnie wrażliwych mogą niekiedy wystąpić niewielkie zaburzenia funkcji przewodu pokarmowego, suchość w ustach, senność lub pobudzenie, ból i zawroty głowy. U niektórych osób mogą wystąpić objawy skórne i [obrzęk naczynioruchowy](/obrzęk_naczynioruchowy "wikilink") jako objawy nadwrażliwości na lek.
+Cetyryzyna podawana w zalecanych dawkach leczniczych zasadniczo nie wywołuje objawów niepożądanych. U osób szczególnie wrażliwych mogą niekiedy wystąpić niewielkie zaburzenia funkcji przewodu pokarmowego, suchość w ustach, senność lub pobudzenie, ból i zawroty głowy. U niektórych osób mogą wystąpić objawy skórne i [obrzęk naczynioruchowy](/atopedia/obrzęk_naczynioruchowy "wikilink") jako objawy nadwrażliwości na lek.
 
 Przed zastosowaniem leku należy sprawdzić termin ważności podany na opakowaniu.
 
@@ -63,6 +63,6 @@ Wytwórca: BIOFARM® Sp.z.o.o., ul. Wałbrzyska 13, 60-198 POZNAŃ
 
 Data ostatniej aktualizacji: 31.01.2003
 
-[kategoria:Ulotki leków](/kategoria:Ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/kategoria:leki_antyhistaminowe_II_generacji "wikilink")
+[kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink")
 
-Lek występuje pod nazwą : [Allertec](/Allertec "wikilink"), [Amertil](/Amertil "wikilink"), [Virlix](/Virlix "wikilink"), [Zyrtec](/Zyrtec "wikilink")
+Lek występuje pod nazwą : [Allertec](/atopedia/Allertec "wikilink"), [Amertil](/atopedia/Amertil "wikilink"), [Virlix](/atopedia/Virlix "wikilink"), [Zyrtec](/atopedia/Zyrtec "wikilink")

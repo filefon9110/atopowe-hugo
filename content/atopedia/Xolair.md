@@ -3,6 +3,6 @@ title: Xolair
 permalink: /Xolair/
 ---
 
-1.  Redirect [Omalizumab](/Omalizumab "wikilink")
+1.  Redirect [Omalizumab](/atopedia/Omalizumab "wikilink")
 
-[kategoria:leki](/kategoria:leki "wikilink")
+[kategoria:leki](/atopedia/kategoria:leki "wikilink")

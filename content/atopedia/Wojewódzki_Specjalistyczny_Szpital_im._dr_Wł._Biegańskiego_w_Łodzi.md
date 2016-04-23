@@ -13,4 +13,4 @@ ul. Kniaziewicza 1/5
 
 tel. +48-42-2516092, +48-42-2516192
 
-[kategoria:Szpitale i lekarze](/kategoria:Szpitale_i_lekarze "wikilink")
+[kategoria:Szpitale i lekarze](/atopedia/kategoria:Szpitale_i_lekarze "wikilink")

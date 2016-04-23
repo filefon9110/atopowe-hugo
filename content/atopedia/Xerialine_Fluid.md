@@ -17,4 +17,4 @@ permalink: /Xerialine_Fluid/
 
 **Wiek:** Dzieci, dorośli. Opakowanie: Butelka z pompką 500 ml, Cena orientacyjna: 67 PLN (stan na 12.04.2006r.)
 
-[Kategoria:Emolienty](/Kategoria:Emolienty "wikilink") [Kategoria:Preparaty zawierające mocznik](/Kategoria:Preparaty_zawierające_mocznik "wikilink")
+[Kategoria:Emolienty](/atopedia/Kategoria:Emolienty "wikilink") [Kategoria:Preparaty zawierające mocznik](/atopedia/Kategoria:Preparaty_zawierające_mocznik "wikilink")

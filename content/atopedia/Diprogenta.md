@@ -61,4 +61,4 @@ Postać farmaceutyczna preparatu: Diprogenta (Schering-Plough Labo N.V.)
 
 Producent Schering-Plough Labo N.V Belgia
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/kategoria:antybiotyki "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

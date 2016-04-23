@@ -12,8 +12,8 @@ Polskie Towarzystwo Alergologiczne powołało ekspercką Komisję d/s Weryfikacj
 <references />
 ### Zobacz też
 
--   [Placebo](/Placebo "wikilink")
--   [Krytyka medycyny alternatywnej](/Krytyka_medycyny_alternatywnej "wikilink")
+-   [Placebo](/atopedia/Placebo "wikilink")
+-   [Krytyka medycyny alternatywnej](/atopedia/Krytyka_medycyny_alternatywnej "wikilink")
 
 ### Linki zewnętrzne
 
@@ -22,9 +22,9 @@ Polskie Towarzystwo Alergologiczne powołało ekspercką Komisję d/s Weryfikacj
 -   [Koniec homeopatii?](http://blog.atopowe.pl/2007/11/23/koniec-homeopatii/) ― artykuł Bena Goldacre z BadScience
 -   [Koniec homeopatii](http://www.gazetawyborcza.pl/1,75248,2893093.html) ― artykuł w Gazecie Wyborczej
 -   [Centrum Przeciwdziałania Psychomanipulacji](http://www.psychomanipulacja.pl/tem/homeopatia.htm)
--   [Homeopatia w Polskiej Wikipedii](/wikipedia:Homeopatia "wikilink")
+-   [Homeopatia w Polskiej Wikipedii](/atopedia/wikipedia:Homeopatia "wikilink")
 
-[kategoria:niekonwencjonalne metody leczenia](/kategoria:niekonwencjonalne_metody_leczenia "wikilink")
+[kategoria:niekonwencjonalne metody leczenia](/atopedia/kategoria:niekonwencjonalne_metody_leczenia "wikilink")
 
 [1] Alergia Astma Immunologia, 1996, 1(3), 168-171.
 

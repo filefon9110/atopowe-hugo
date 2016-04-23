@@ -37,4 +37,4 @@ Zapytaj lekarza, jak stosować lek, gdy przyjmujesz jednocześnie: Chlorpropamid
 
 Zarejestrowane w Polsce postacie leku: 7 kapsułek x 50mg,28 kaps x 100mg,1 kapsułka x 150 mg,14 kaps x 200mg,Syrop 5 mg ml x 100ml Płyn do injekcji 2 mg /ml x 50ml Płyn do injekcji 2 mg /ml x 100ml Producent: Pfizer Francja Nazwa handlowa zastrzeżona dla Pfizer Inc. Nowy Jork, USa
 
-[kategoria:Leki przeciwgrzybicze](/kategoria:Leki_przeciwgrzybicze "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:Leki przeciwgrzybicze](/atopedia/kategoria:Leki_przeciwgrzybicze "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

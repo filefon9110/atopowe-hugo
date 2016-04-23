@@ -9,7 +9,7 @@ permalink: /Akupunktura/
 
 Nakłuwanie igłami pobudza układ współczulny i przywspółczulny. W ten sposób stymulowany jest układ nerwowy, który reguluje czynności narządów wewnętrznych.
 
-Leczenie bólu jest głównym wskazaniem w stosowaniu akupunktury, choć lista schorzeń, które poddają się leczeniu tą metodą, jest bardzo długa (m.in. [astma oskrzelowa](/Astma_oskrzelowa "wikilink"), stany zapalne, nerwice).
+Leczenie bólu jest głównym wskazaniem w stosowaniu akupunktury, choć lista schorzeń, które poddają się leczeniu tą metodą, jest bardzo długa (m.in. [astma oskrzelowa](/atopedia/Astma_oskrzelowa "wikilink"), stany zapalne, nerwice).
 
 ### Przeciwwskazania:
 
@@ -20,4 +20,4 @@ Podczas zabiegów akupunktury używa się igieł jednorazowych. Są to igły met
 
 W Polsce zabiegi akupunktury może wykonywać lekarz posiadający specjalizację z dziedzin klinicznych.
 
-[kategoria:niekonwencjonalne metody leczenia](/kategoria:niekonwencjonalne_metody_leczenia "wikilink")
+[kategoria:niekonwencjonalne metody leczenia](/atopedia/kategoria:niekonwencjonalne_metody_leczenia "wikilink")

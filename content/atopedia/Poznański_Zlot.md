@@ -13,7 +13,7 @@ permalink: /Poznański_Zlot/
 18 marca 2006
 -------------
 
-To było chyba pierwsze spotkanie większej grupy ludzi z tego [forum](/forum_dyskusyjne "wikilink") w realnym świecie. Rozmowa oczywiście była o [drapaniu](/drapanie "wikilink"), kremach, [schizach](/psychika "wikilink") związanych z [AZS](/AZS "wikilink") i wielu innych rzeczach, których nie sposób przytoczyć. :-?
+To było chyba pierwsze spotkanie większej grupy ludzi z tego [forum](/atopedia/forum_dyskusyjne "wikilink") w realnym świecie. Rozmowa oczywiście była o [drapaniu](/atopedia/drapanie "wikilink"), kremach, [schizach](/atopedia/psychika "wikilink") związanych z [AZS](/atopedia/AZS "wikilink") i wielu innych rzeczach, których nie sposób przytoczyć. :-?
 
 Zrobiliśmy nawet zdjęcie, ale bez Zuby, która mi tego chyba nie przebaczy.
 
@@ -46,4 +46,4 @@ Spotkanie w Poznaniu praktycznie bez poznaniaków (z Zubą jako jednym wyjątkie
 
 <div style="clear: both">
 </div>
-[kategoria:Spotkania](/kategoria:Spotkania "wikilink")
+[kategoria:Spotkania](/atopedia/kategoria:Spotkania "wikilink")

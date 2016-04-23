@@ -51,4 +51,4 @@ Nazwa i adres miejsca wytwarzania: Laboratorium Farmaceutyczne Homeofarm Sp. z o
 
 <http://www.jelfa.pl>
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

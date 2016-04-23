@@ -25,7 +25,7 @@ Związki siarki wchodzące w skład proderminy potęgują jej działanie redukuj
 
 ### Wskazania
 
-[Łuszczyca](/Łuszczyca "wikilink"), wyprysk, złuszczanie łuszczycowate, świerzbiączka, zapalenie łojotokowe skóry.
+[Łuszczyca](/atopedia/Łuszczyca "wikilink"), wyprysk, złuszczanie łuszczycowate, świerzbiączka, zapalenie łojotokowe skóry.
 
 ### Przeciwwskazania
 
@@ -43,4 +43,4 @@ Brak
 
 Chorobowo zmienione miejsca smarować maścią 1-2 razy dziennie.
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:maści](/kategoria:maści "wikilink") [kategoria:maści z dziegciem](/kategoria:maści_z_dziegciem "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:maści z dziegciem](/atopedia/kategoria:maści_z_dziegciem "wikilink")

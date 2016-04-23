@@ -3,10 +3,10 @@ title: Ziołolecznictwo
 permalink: /Ziołolecznictwo/
 ---
 
-Zdrowy rozsądek nakazuje wielką ostrożność w leczeniu [alergii](/alergia "wikilink") za pomocą ziół – istnieje możliwość silnych [uczuleń](/Reakcja_alergiczna "wikilink"). Zanim zastosujesz jakąkolwiek mieszankę ziołową, bądź [terapię](/terapia "wikilink") opartą na ziołach, dowiedz się o niej jak najwięcej, skonsultuj z kilkoma [lekarzami](/lekarze "wikilink") jej potencjalne działanie, również uboczne.
+Zdrowy rozsądek nakazuje wielką ostrożność w leczeniu [alergii](/atopedia/alergia "wikilink") za pomocą ziół – istnieje możliwość silnych [uczuleń](/atopedia/Reakcja_alergiczna "wikilink"). Zanim zastosujesz jakąkolwiek mieszankę ziołową, bądź [terapię](/atopedia/terapia "wikilink") opartą na ziołach, dowiedz się o niej jak najwięcej, skonsultuj z kilkoma [lekarzami](/atopedia/lekarze "wikilink") jej potencjalne działanie, również uboczne.
 
 ### Aloes
 
-*Zobacz artykuł [Aloes](/Aloes "wikilink").*
+*Zobacz artykuł [Aloes](/atopedia/Aloes "wikilink").*
 
-[kategoria:niekonwencjonalne metody leczenia](/kategoria:niekonwencjonalne_metody_leczenia "wikilink") [kategoria:wpadki](/kategoria:wpadki "wikilink")
+[kategoria:niekonwencjonalne metody leczenia](/atopedia/kategoria:niekonwencjonalne_metody_leczenia "wikilink") [kategoria:wpadki](/atopedia/kategoria:wpadki "wikilink")

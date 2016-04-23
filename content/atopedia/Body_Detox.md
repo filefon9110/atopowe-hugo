@@ -14,4 +14,4 @@ Jednym ze sposobów sprawdzenia, czy urządzenie działa, jest - nie wkładać n
 
 -   [Wątek na Forum](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?t=817)
 
-[kategoria:niekonwencjonalne metody leczenia](/kategoria:niekonwencjonalne_metody_leczenia "wikilink")
+[kategoria:niekonwencjonalne metody leczenia](/atopedia/kategoria:niekonwencjonalne_metody_leczenia "wikilink")

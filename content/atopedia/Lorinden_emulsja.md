@@ -19,7 +19,7 @@ Skład
 Działanie
 ---------
 
-Piwalan (trimetylooctan) flumetazonu jest difluorowanym, syntetycznym [glikokortykosteroidem](/sterydy "wikilink") do stosowania miejscowego o długotrwałym i silnym działaniu przeciwzapalnym, przeciwuczuleniowym i przeciwświądowym.
+Piwalan (trimetylooctan) flumetazonu jest difluorowanym, syntetycznym [glikokortykosteroidem](/atopedia/sterydy "wikilink") do stosowania miejscowego o długotrwałym i silnym działaniu przeciwzapalnym, przeciwuczuleniowym i przeciwświądowym.
 
 Wskazania
 ---------
@@ -46,4 +46,4 @@ Ciąża i laktacja
 
 Wyjątkowo, ostrożnie i krótko można stosować u kobiet w ciąży i dzieci.
 
-[kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

@@ -3,8 +3,8 @@ title: Biały dermografizm
 permalink: /Biały_dermografizm/
 ---
 
-[thumb|left|300px|Biały dermografizm|link=](/Image:Bialy-dermografizm.jpg "wikilink")**Biały dermografizm** - reakcja skóry polegająca na widocznym białym przebarwieniu na chwilę po potarciu naskórka. Po mocniejszym przeciągnięciu, na skórze pojawiają się białe smugi. W praktyce oznacza to, że osoby cierpiące na dermografizm mogą "pisać" po swojej skórze. Utrzymuje się około 15 minut. Jest to charakterystyczna cecha w [AZS](/AZS "wikilink") (dodatkowa, czyli nie zawsze występująca).
+[thumb|left|300px|Biały dermografizm|link=](/Image:Bialy-dermografizm.jpg "wikilink")**Biały dermografizm** - reakcja skóry polegająca na widocznym białym przebarwieniu na chwilę po potarciu naskórka. Po mocniejszym przeciągnięciu, na skórze pojawiają się białe smugi. W praktyce oznacza to, że osoby cierpiące na dermografizm mogą "pisać" po swojej skórze. Utrzymuje się około 15 minut. Jest to charakterystyczna cecha w [AZS](/atopedia/AZS "wikilink") (dodatkowa, czyli nie zawsze występująca).
 
 Biały dermografizm spowodowany jest skurczem i zwężaniem się naczyń krwionośnych.
 
-[kategoria:objawy atopowego zapalenia skóry](/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")
+[kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

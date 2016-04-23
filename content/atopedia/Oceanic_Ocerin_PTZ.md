@@ -10,14 +10,14 @@ permalink: /Oceanic_Ocerin_PTZ/
 Przeznaczenie
 -------------
 
-W schorzeniach dermatologicznych przebiegających z nadmiernym złuszczaniem owłosionej skóry głowy ([łuszczyca](/łuszczyca "wikilink"), złuszczanie łuszczycowate) stosowanie zabiegów pielęgnacyjnych z użyciem szamponu pozwala na szybką eliminację łuski, co wyraźnie wspomaga leczenie farmakologiczne. Efekt ten uzyskuje się dzięki zastosowaniu [mocznika](/mocznik "wikilink") - substancja nie obca organizmowi, nietoksyczna o działaniu keratolotycznym, nawilżającym oraz łagodnie przeciwświądowym.
+W schorzeniach dermatologicznych przebiegających z nadmiernym złuszczaniem owłosionej skóry głowy ([łuszczyca](/atopedia/łuszczyca "wikilink"), złuszczanie łuszczycowate) stosowanie zabiegów pielęgnacyjnych z użyciem szamponu pozwala na szybką eliminację łuski, co wyraźnie wspomaga leczenie farmakologiczne. Efekt ten uzyskuje się dzięki zastosowaniu [mocznika](/atopedia/mocznik "wikilink") - substancja nie obca organizmowi, nietoksyczna o działaniu keratolotycznym, nawilżającym oraz łagodnie przeciwświądowym.
 
 Działanie
 ---------
 
 Szampon Ocerin PTZ zawiera w składzie trzy synergicznie działające składniki: pyrytion cynku, mocznik oraz pochodną kwasu undecylenowego. Dzięki tak dobranym składnikom wykazuje działanie przeciwłupieżowe poprzez ograniczenie rozwoju grzyba *Pityrosporum ovale* (*Malasezia furfur*) - bezpośrednia przyczyna łupieżu. Za profil działania przeciwgrzybiczego i przeciwbakteryjnego odpowiedzialne są: pyrytion cynku oraz pochodna kwasu undecylenowego. Dodatkowo pyrytion cyku wykazuje działanie keratolityczne, podobnie jak mocznik obecny w szamponie.
 
-Poza działaniem przeciwłupieżowym, badania aplikacyjne wykazały, że systematyczne stosowanie szamponu Ocerin PTZ zapewnia efekt zmniejszonego wydzielania łoju, a także ustąpienie [świądu](/świąd "wikilink") owłosionej skóry głowy.
+Poza działaniem przeciwłupieżowym, badania aplikacyjne wykazały, że systematyczne stosowanie szamponu Ocerin PTZ zapewnia efekt zmniejszonego wydzielania łoju, a także ustąpienie [świądu](/atopedia/świąd "wikilink") owłosionej skóry głowy.
 
 Skład
 -----
@@ -29,4 +29,4 @@ Stosowanie
 
 Niewielką ilość szamponu ok. 5 ml nanieść na mokre włosy i delikatnie wmasować. Pozostawić na 3-5 min. Starannie spłukać. Czynność można powtórzyć. Zaleca się stosowanie szamponu przez 4-tygodnie myjąc włosy 2 razy w tygodniu.
 
-[kategoria:szampony](/kategoria:szampony "wikilink") [kategoria:preparaty zawierające mocznik](/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:leki przeciwgrzybicze](/kategoria:leki_przeciwgrzybicze "wikilink")
+[kategoria:szampony](/atopedia/kategoria:szampony "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:leki przeciwgrzybicze](/atopedia/kategoria:leki_przeciwgrzybicze "wikilink")

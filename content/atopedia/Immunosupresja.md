@@ -3,4 +3,4 @@ title: Immunosupresja
 permalink: /Immunosupresja/
 ---
 
-1.  REDIRECT [Leki immunosupresyjne](/Leki_immunosupresyjne "wikilink")
+1.  REDIRECT [Leki immunosupresyjne](/atopedia/Leki_immunosupresyjne "wikilink")

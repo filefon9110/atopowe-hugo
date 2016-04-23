@@ -40,4 +40,4 @@ Cel: 576.69zł
 
 *Ostatnia aktualizacja: 2006-12-28*
 
-[Kategoria:Zbiórki](/Kategoria:Zbiórki "wikilink")
+[Kategoria:Zbiórki](/atopedia/Kategoria:Zbiórki "wikilink")

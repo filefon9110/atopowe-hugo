@@ -139,4 +139,4 @@ Tamalis 10 mg Tablets Węgry, Republika Czeska
 
 **Data zatwierdzenia ulotki:** 09.09.2010
 
-[kategoria:Ulotki leków](/kategoria:Ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/kategoria:leki_antyhistaminowe_II_generacji "wikilink")
+[kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink")

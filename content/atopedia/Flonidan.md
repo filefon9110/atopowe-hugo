@@ -43,4 +43,4 @@ Loratadyna może powodować objawy niepożądane o łagodnym przebiegu, takie ja
 
 Opakowanie: 10 tabletek
 
-[kategoria:leki doustne](/kategoria:leki_doustne "wikilink") [kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [kategoria:leki zawierające loratadynę](/kategoria:leki_zawierające_loratadynę "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [kategoria:leki zawierające loratadynę](/atopedia/kategoria:leki_zawierające_loratadynę "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

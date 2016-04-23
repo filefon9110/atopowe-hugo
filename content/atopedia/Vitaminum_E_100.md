@@ -79,4 +79,4 @@ PODMIOT ODPOWIEDZIALNY:GlaxoSmithKline Pharmaceuticals Spółka Akcyjna
 
 ul. Grunwaldzka 189, 60-322 Poznań tel.: (0-61) 8601 200 fax: (0-61) 8675 717
 
-[kategoria:leki](/kategoria:leki "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki](/atopedia/kategoria:leki "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

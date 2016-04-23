@@ -9,4 +9,4 @@ Margaryny bez zawartości serwatki:
 -   Flora Light
 -   Benecol
 
-[kategoria:dieta bezmleczna](/kategoria:dieta_bezmleczna "wikilink")
+[kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink")

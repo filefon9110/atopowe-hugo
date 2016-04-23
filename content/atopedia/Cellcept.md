@@ -246,4 +246,4 @@ Tel: +48 - 22 345 18 88
 
 **Data zatwierdzenia ulotki: 20 października 2010**
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:leki immunosupresyjne](/kategoria:leki_immunosupresyjne "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink")

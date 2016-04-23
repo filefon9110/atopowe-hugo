@@ -10,7 +10,7 @@ permalink: /Clobederm_maść/
 Opis produktu
 -------------
 
-Clobederm (clobetazolu propionian) jest najsilniej działającym syntetycznym [glikokortykosteroidem](/sterydy "wikilink") do stosowania miejscowego na skórę. Zastosowana miejscowo na skórę maść o stężeniu 0,05% wykazuje bardzo silne działanie przeciwzapalne, przeciwświądowe, przeciwalergiczne i obkurczające naczynia krwionośne. Wykazuje właściwości lipofilne i łatwo przenika przez skórę do organizmu. Już po zastosowaniu 2 g maści może zmniejszać wydzielanie przez przysadkę hormonu adrenokortykotropowego (ACTH) przez hamowanie osi nadnerczowo-przysadkowej.
+Clobederm (clobetazolu propionian) jest najsilniej działającym syntetycznym [glikokortykosteroidem](/atopedia/sterydy "wikilink") do stosowania miejscowego na skórę. Zastosowana miejscowo na skórę maść o stężeniu 0,05% wykazuje bardzo silne działanie przeciwzapalne, przeciwświądowe, przeciwalergiczne i obkurczające naczynia krwionośne. Wykazuje właściwości lipofilne i łatwo przenika przez skórę do organizmu. Już po zastosowaniu 2 g maści może zmniejszać wydzielanie przez przysadkę hormonu adrenokortykotropowego (ACTH) przez hamowanie osi nadnerczowo-przysadkowej.
 
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
@@ -145,7 +145,7 @@ W wyniku wchłaniania substancji czynnych do krwi mogą również wystąpić og�
 
 Występują one przede wszystkim w przypadku długotrwałego stosowania leku, stosowania go na dużą powierzchnię skóry, pod opatrunkiem okluzyjnym lub w przypadku stosowania u dzieci.
 
-Ogólnoustrojowe objawy niepożądane klobetazolu propionianu charakterystyczne dla kortykosteroidów, to m.in. zahamowanie czynności osi podwzgórze–przysadka–nadnercza, [zespół Cushinga](/zespół_Cushinga "wikilink"), hamowanie wzrostu i rozwoju u dzieci, nadmierne stężenie cukru we krwi, cukromocz, obrzęki, nadciśnienie tętnicze, zmniejszenie odporności.
+Ogólnoustrojowe objawy niepożądane klobetazolu propionianu charakterystyczne dla kortykosteroidów, to m.in. zahamowanie czynności osi podwzgórze–przysadka–nadnercza, [zespół Cushinga](/atopedia/zespół_Cushinga "wikilink"), hamowanie wzrostu i rozwoju u dzieci, nadmierne stężenie cukru we krwi, cukromocz, obrzęki, nadciśnienie tętnicze, zmniejszenie odporności.
 
 Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane nie wymienione w ulotce, należy powiadomić lekarza lub farmaceutę.
 
@@ -195,4 +195,4 @@ Fax: (075) 752-44-55
 
 e-mail: jelfa@jelfa.com.pl
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

@@ -173,4 +173,4 @@ ul. Bobrowiecka 6
 00-728 Warszawa
 tel. 022 364 61 01
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe III generacji](/kategoria:leki_antyhistaminowe_III_generacji "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe III generacji](/atopedia/kategoria:leki_antyhistaminowe_III_generacji "wikilink")

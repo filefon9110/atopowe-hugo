@@ -17,4 +17,4 @@ komentarze na forum: <http://www.atopowe-zapalenie.pl/forum/viewtopic.php?p=1353
 
 [Grafika:witamy.png](/Grafika:witamy.png "wikilink") [Grafika:płaszcz.png](/Grafika:płaszcz.png "wikilink")
 
-[kategoria:Serwis](/kategoria:Serwis "wikilink")
+[kategoria:Serwis](/atopedia/kategoria:Serwis "wikilink")

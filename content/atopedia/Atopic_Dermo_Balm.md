@@ -17,7 +17,7 @@ Codzienna pielęgnacja niemowląt i dzieci, z problemem bardzo suchej skóry, kt
 Działanie:
 ----------
 
-Specjalistyczna receptura balsamu ma właściwości zmiękczające i wygładzające skórę, a zawartość kwasów omega-3 i omega-6 zapewnia jej prawidłowe funkcjonowanie. Balsam działa odżywczo, odnawiając ochronny [płaszcz lipidowy](/płaszcz_lipidowy "wikilink") skóry. Specjalnie dobrany kompleks lipidowy przywraca właściwy poziom nawilżenia i utrzymuje go na dłużej. Działanie łagodzące balsamu pozwala zmniejszyć [swędzenie](/świąd "wikilink") i [łuszczenie](/łuszczenie "wikilink") skóry oraz inne nieprzyjemne objawy wywołane czynnikami alergogennymi.
+Specjalistyczna receptura balsamu ma właściwości zmiękczające i wygładzające skórę, a zawartość kwasów omega-3 i omega-6 zapewnia jej prawidłowe funkcjonowanie. Balsam działa odżywczo, odnawiając ochronny [płaszcz lipidowy](/atopedia/płaszcz_lipidowy "wikilink") skóry. Specjalnie dobrany kompleks lipidowy przywraca właściwy poziom nawilżenia i utrzymuje go na dłużej. Działanie łagodzące balsamu pozwala zmniejszyć [swędzenie](/atopedia/świąd "wikilink") i [łuszczenie](/atopedia/łuszczenie "wikilink") skóry oraz inne nieprzyjemne objawy wywołane czynnikami alergogennymi.
 
 Delikatność:
 ------------
@@ -45,4 +45,4 @@ Aqua, Canola (Canola) Oil, Glycerin, Parafinum Liquidum, Sucrose Distearate, Dim
 
 Pojemność: 280 ml
 
-[kategoria:kosmetyki](/kategoria:kosmetyki "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

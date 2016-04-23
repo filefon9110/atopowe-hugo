@@ -18,4 +18,4 @@ Ciastka schodzą bardzo szybko, dlatego ja zawsze robię podwójna ilość ciast
 
 Można zrobić wersję niesłodką - raz zrobiłam z farszem pieczarkowo-kapuścianym. Inne warianty są szczegółowo opisane na pl.rec.kuchnia, szukać pod hasłem "ciasteczka Kruszyny".
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink") [kategoria:Dieta hipoalergiczna plus pszenica](/kategoria:Dieta_hipoalergiczna_plus_pszenica "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:Dieta hipoalergiczna plus pszenica](/atopedia/kategoria:Dieta_hipoalergiczna_plus_pszenica "wikilink")

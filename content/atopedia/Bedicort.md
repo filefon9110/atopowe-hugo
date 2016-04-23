@@ -83,7 +83,7 @@ Może wystąpić: trądzik, plamica posteroidowa, zahamowanie wzrostu naskórka,
 Przedawkowanie
 --------------
 
-Przedawkowanie zdarza się bardzo rzadko. Jednakże w przypadku przewlekłego lub niewłaściwego stosowania, mogą wystąpić objawy [choroby Cushinga](/zespół_Cushinga "wikilink"). Należy wtedy przerwać leczenie kremem BEDICORT G.
+Przedawkowanie zdarza się bardzo rzadko. Jednakże w przypadku przewlekłego lub niewłaściwego stosowania, mogą wystąpić objawy [choroby Cushinga](/atopedia/zespół_Cushinga "wikilink"). Należy wtedy przerwać leczenie kremem BEDICORT G.
 
 Dawkowanie
 ----------
@@ -119,4 +119,4 @@ Przed zastosowaniem leku należy poinformować pacjenta że:
 
 krem: Świad.Rej. MZ Nr 8798
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/kategoria:antybiotyki "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

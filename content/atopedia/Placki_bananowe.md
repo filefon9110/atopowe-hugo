@@ -19,4 +19,4 @@ Dla 4 osób
 -   Placuszki smażyć na niezbyt dużym ogniu, aby się za szybko nie przypiekły.
 -   Po zdjęciu z patelni należy placuszki odsączyć z tłuszczu. Wtedy też troszkę ciemnieją, ale są wyśmienite.
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

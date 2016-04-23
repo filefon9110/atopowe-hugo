@@ -40,4 +40,4 @@ Aqua, Isocetyl Palmitate, Paraffinum Liquidum, Ethylhexyl Methoxycinnamate, Glyc
 
 Pojemność: 50 ml
 
-[kategoria:kosmetyki](/kategoria:kosmetyki "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

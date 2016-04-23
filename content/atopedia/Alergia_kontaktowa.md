@@ -3,13 +3,13 @@ title: Alergia kontaktowa
 permalink: /Alergia_kontaktowa/
 ---
 
-**Alergia kontaktowa** to taka [alergia](/Alergia "wikilink"), w której [reakcja alergiczna](/Reakcja_alergiczna "wikilink") powstaje na skutek kontaktu fizycznego z danym materiałem.
+**Alergia kontaktowa** to taka [alergia](/atopedia/Alergia "wikilink"), w której [reakcja alergiczna](/atopedia/Reakcja_alergiczna "wikilink") powstaje na skutek kontaktu fizycznego z danym materiałem.
 
 Alergeny kontaktowe
 -------------------
 
--   [Nikiel](/Nikiel "wikilink")
--   [Kobalt](/Kobalt "wikilink")
+-   [Nikiel](/atopedia/Nikiel "wikilink")
+-   [Kobalt](/atopedia/Kobalt "wikilink")
 -   Chrom
 -   Lanolina
 -   Parafenylodwuamina
@@ -33,7 +33,7 @@ Alergeny kontaktowe
 
 **Zobacz też**
 
--   [Alergia](/Alergia "wikilink")
--   [Alergia pokarmowa](/Alergia_pokarmowa "wikilink")
+-   [Alergia](/atopedia/Alergia "wikilink")
+-   [Alergia pokarmowa](/atopedia/Alergia_pokarmowa "wikilink")
 
-[Kategoria:Alergia](/Kategoria:Alergia "wikilink")
+[Kategoria:Alergia](/atopedia/Kategoria:Alergia "wikilink")

@@ -3,4 +3,4 @@ title: Neurodermitis
 permalink: /Neurodermitis/
 ---
 
-1.  REDIRECT [Neurodermia](/Neurodermia "wikilink")
+1.  REDIRECT [Neurodermia](/atopedia/Neurodermia "wikilink")

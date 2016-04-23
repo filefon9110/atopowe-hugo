@@ -8,7 +8,7 @@ permalink: /Oksykort_A/
 '''Skład '''
 
 -   Oksytetracyklina(oksytetracykliny chlorowodorek) 30,0 mg
--   [Hydrokortyzonu](/Hydrokortyzon "wikilink") octan 30,0 mg
+-   [Hydrokortyzonu](/atopedia/Hydrokortyzon "wikilink") octan 30,0 mg
 -   Wazelina biała do 3,0 g
 
 **Opis działania**
@@ -64,4 +64,4 @@ Przy wystąpieniu któregokolwiek z wymienionych działań niepożądanych lub i
 
 Wytwórca Jelfa s.a. Jelenia Góra
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:maści](/kategoria:maści "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/kategoria:antybiotyki "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink")

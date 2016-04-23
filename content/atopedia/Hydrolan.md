@@ -28,11 +28,11 @@ permalink: /Hydrolan/
 -   GLYCERYL STEARATE STEARYNIAN GLICEROLU
 -   CETEARYL ALCOHOL ALKOHOL CETEARYLOWY
 -   PHENOXYETHANOL FENOKSYETANOL
--   METHYLPARABEN [Metyloparaben](/Metyloparaben "wikilink")
--   ETHYLPARABEN [Etyloparaben](/Etyloparaben "wikilink")
--   PROPYLPARABEN [Propyloparaben](/Propyloparaben "wikilink")
--   BUTYLPARABEN [Butyloparaben](/Butyloparaben "wikilink")
--   ISOBUTYLPARABEN [Izobutyloparaben](/Izobutyloparaben "wikilink")
+-   METHYLPARABEN [Metyloparaben](/atopedia/Metyloparaben "wikilink")
+-   ETHYLPARABEN [Etyloparaben](/atopedia/Etyloparaben "wikilink")
+-   PROPYLPARABEN [Propyloparaben](/atopedia/Propyloparaben "wikilink")
+-   BUTYLPARABEN [Butyloparaben](/atopedia/Butyloparaben "wikilink")
+-   ISOBUTYLPARABEN [Izobutyloparaben](/atopedia/Izobutyloparaben "wikilink")
 -   SODIUM CARBOMER KARBOMER SODU
 
 **Krem dostępny jest w opakowaniach:** 30 g (ok. 15 zł) i 100 g (ok. 27 zł). (stan na 23.04.2013)
@@ -46,4 +46,4 @@ permalink: /Hydrolan/
 
 Źródło: <http://www.emolienty.pl/produkty/hydrolan/>
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

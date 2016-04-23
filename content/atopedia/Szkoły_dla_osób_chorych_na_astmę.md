@@ -16,7 +16,7 @@ dla każdego, bezpłatne
 
 Szkolenie dla Pacjentów z Astmą-Alergią. Terminy zajęć: Godz. 18:00
 
--   28.10.2005 [Atopowe zapalenie skóry](/Atopowe_zapalenie_skóry "wikilink") – „[Skaza białkowa](/Skaza_białkowa "wikilink")” – konieczne informacje dotyczące [pielęgnacji](/pielęgnacja "wikilink"), diety i [leczenia](/leczenie "wikilink")
+-   28.10.2005 [Atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink") – „[Skaza białkowa](/atopedia/Skaza_białkowa "wikilink")” – konieczne informacje dotyczące [pielęgnacji](/atopedia/pielęgnacja "wikilink"), diety i [leczenia](/atopedia/leczenie "wikilink")
 -   16.11.2005 Nauka samoobserwacji. Dostosowanie leków do przebiegu choroby.
 -   14.12.2005 Mierzenie PEFR-ów. Ćwiczenia praktyczne
 
@@ -61,4 +61,4 @@ Gdańsk
 
 *(2005-04-29)*
 
-[kategoria:astma](/kategoria:astma "wikilink")
+[kategoria:astma](/atopedia/kategoria:astma "wikilink")

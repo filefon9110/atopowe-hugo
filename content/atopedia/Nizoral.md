@@ -35,4 +35,4 @@ Grzybica jest chorobą zakaźną przenoszoną przez kontakt osobisty, bieliznę 
 
 Producent:Nizoral (Janssen Pharmaceutica N.V.)Belgia
 
-[kategoria:Leki przeciwgrzybicze](/kategoria:Leki_przeciwgrzybicze "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:szampony](/kategoria:szampony "wikilink")
+[kategoria:Leki przeciwgrzybicze](/atopedia/kategoria:Leki_przeciwgrzybicze "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:szampony](/atopedia/kategoria:szampony "wikilink")

@@ -31,4 +31,4 @@ permalink: /Maści_na_trudnogojące_się,_zakażone_i_ropiejące_rany/
 *Ungt. Olei Jecoris Aselli ad 200,0*
 *ut fiant ung.*
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:Przepisy na maści robione](/kategoria:Przepisy_na_maści_robione "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

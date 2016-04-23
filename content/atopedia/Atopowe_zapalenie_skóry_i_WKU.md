@@ -5,7 +5,7 @@ permalink: /Atopowe_zapalenie_skóry_i_WKU/
 
 *[źródło](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?p=75655#p75655)*
 
-Samo chorowanie i leczenie się na [AZS](/AZS "wikilink") nie zwalnia z odbycia służby wojskowej i daje kategorię zdrowia A. Kategorię B może dostać poborowy, gdy przyniesie na komisję lekarską zaświadczenie od lekarza specjalisty (alergolog, dermatolog, lub inny), że jest w trakcie diagnostyki choroby. Kategoria D przysługuje gdy do AZS dochodzi [astma](/astma "wikilink") o średnim lub ciężkim nasileniu, która upośledza czynności życiowe organizmu (powoduje duszności itp). Oczywiście każdy z lekarzy orzeczników podchodzi do sprawy indywidualnie; dużą szansę na D ma poborowy z aktualnymi zaświadczeniami od swojego lekarza prowadzącego.
+Samo chorowanie i leczenie się na [AZS](/atopedia/AZS "wikilink") nie zwalnia z odbycia służby wojskowej i daje kategorię zdrowia A. Kategorię B może dostać poborowy, gdy przyniesie na komisję lekarską zaświadczenie od lekarza specjalisty (alergolog, dermatolog, lub inny), że jest w trakcie diagnostyki choroby. Kategoria D przysługuje gdy do AZS dochodzi [astma](/atopedia/astma "wikilink") o średnim lub ciężkim nasileniu, która upośledza czynności życiowe organizmu (powoduje duszności itp). Oczywiście każdy z lekarzy orzeczników podchodzi do sprawy indywidualnie; dużą szansę na D ma poborowy z aktualnymi zaświadczeniami od swojego lekarza prowadzącego.
 
 Gdy dostanie się wezwanie na komisję, należy uważnie przeczytać informację zawartą na odwrocie wezwania. Na komisję należy przyjść z dokumentacją medyczną leczenia, może być zaświadczenie od lekarza, karty informacyjne leczenia szpitalnego lub pobytów w sanatoriach.
 
@@ -60,4 +60,4 @@ Jeżeli nie zgadzacie się z orzeczoną kategorią możecie odwoływać się od 
 
 Na komisję są wzywani studenci socjologii, psychologii, medycyny, farmakologii, rehabilitacji, stomatologii, pielęgniarstwa i pokrewnych. Kiedyś każda pielęgniarka miała książeczkę wojskową teraz już tylko nieliczne są wzywane. Wojsko samo wysyła zapotrzebowanie jakich specjalistów potrzebuje.
 
-[kategoria:wpadki](/kategoria:wpadki "wikilink")
+[kategoria:wpadki](/atopedia/kategoria:wpadki "wikilink")

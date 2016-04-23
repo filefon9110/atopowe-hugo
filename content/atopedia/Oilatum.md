@@ -43,11 +43,11 @@ Oilatum® Soft EMOLLIENT
 
 Podczas kąpieli z dodatkiem Oilatum® emulsji nie należy stosować innych środków myjących, ponieważ osłabia to efekty lecznicze.
 
--   **Wskazania do stosowania:** [ATOPOWE ZAPALENIE SKÓRY](/AZS "wikilink"), PIELĘGNACJA SUCHEJ I SWĘDZĄCEJ SKÓRY, [ŁUSZCZYCA](/Łuszczyca "wikilink").
+-   **Wskazania do stosowania:** [ATOPOWE ZAPALENIE SKÓRY](/atopedia/AZS "wikilink"), PIELĘGNACJA SUCHEJ I SWĘDZĄCEJ SKÓRY, [ŁUSZCZYCA](/atopedia/Łuszczyca "wikilink").
 
 <!-- -->
 
--   **Dawkowanie:** DOROŚLI I STARSZE [DZIECI](/Dziecko "wikilink"): dodać zawartość saszetki do wody w wannie, pozostać w wodzie 10-20 minut, po wyjściu z wanny skórę delikatnie osuszyć. NIEMOWLĘTA: dodać połowę saszetki do wanienki wody, delikatnie umyć dziecko, po kąpieli osuszyć skórę miękkim ręcznikiem.
+-   **Dawkowanie:** DOROŚLI I STARSZE [DZIECI](/atopedia/Dziecko "wikilink"): dodać zawartość saszetki do wody w wannie, pozostać w wodzie 10-20 minut, po wyjściu z wanny skórę delikatnie osuszyć. NIEMOWLĘTA: dodać połowę saszetki do wanienki wody, delikatnie umyć dziecko, po kąpieli osuszyć skórę miękkim ręcznikiem.
 
 Ciekawostka
 -----------
@@ -56,4 +56,4 @@ Ciekawostka
 
 Był okres w którym można było często spotkać opakowanie Oilatum ze śmiesznym błędem językowym.
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

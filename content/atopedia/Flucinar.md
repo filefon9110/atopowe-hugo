@@ -18,7 +18,7 @@ permalink: /Flucinar/
 CO TO JEST LEK FLUCINAR MAŚĆ I W JAKIM CELU SIĘ GO STOSUJE
 ----------------------------------------------------------
 
-Substancją czynną leku Flucinar maść jest fluocynolonu acetonid. Fluocynolonu acetonid jest syntetycznym [glikokortykosteroidem](/sterydy "wikilink") do stosowania miejscowego na skórę. Lek wykazuje działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
+Substancją czynną leku Flucinar maść jest fluocynolonu acetonid. Fluocynolonu acetonid jest syntetycznym [glikokortykosteroidem](/atopedia/sterydy "wikilink") do stosowania miejscowego na skórę. Lek wykazuje działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
 
 ### Wskazania do stosowania
 
@@ -148,7 +148,7 @@ W wyniku wchłaniania substancji czynnych do krwi mogą również wystąpić og�
 
 Występują one przede wszystkim w przypadku długotrwałego stosowania leku, stosowania go na dużą powierzchnię skóry, pod opatrunkiem okluzyjnym lub w przypadku stosowania u dzieci.
 
-Ogólnoustrojowe objawy niepożądane fluocynolonu acetonidu charakterystyczne dla kortykosteroidów, to m.in. zahamowanie czynności osi podwzgórze–przysadka–nadnercza, [zespół Cushinga](/zespół_Cushinga "wikilink"), hamowanie wzrostu i rozwoju u dzieci, nadmiernego stężenia cukru we krwi, cukromocz, obrzęki, nadciśnienie, zmniejszenie odporności.
+Ogólnoustrojowe objawy niepożądane fluocynolonu acetonidu charakterystyczne dla kortykosteroidów, to m.in. zahamowanie czynności osi podwzgórze–przysadka–nadnercza, [zespół Cushinga](/atopedia/zespół_Cushinga "wikilink"), hamowanie wzrostu i rozwoju u dzieci, nadmiernego stężenia cukru we krwi, cukromocz, obrzęki, nadciśnienie, zmniejszenie odporności.
 
 Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane nie wymienione w ulotce, należy powiadomić lekarza lub farmaceutę.
 
@@ -196,4 +196,4 @@ fax: (075) 752 44 55
 
 e-mail: jelfa@jelfa.com.pl
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:maści](/kategoria:maści "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink")

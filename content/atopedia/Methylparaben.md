@@ -3,4 +3,4 @@ title: Methylparaben
 permalink: /Methylparaben/
 ---
 
-1.  redirect [Paraben](/Paraben "wikilink")
+1.  redirect [Paraben](/atopedia/Paraben "wikilink")

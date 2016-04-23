@@ -39,7 +39,7 @@ Nie stosować na twarz.
 
 Aqua, paraffinum liquidum, glycerin, cyclopentasiloxane, elaesis guineensis, petrolatum, butyrospermum parkii (shea butter), cetearyl alcohol, aluminium starch octenylsuccinate, acer saccharinum, allanton, coco-glucoside, ammonium polyacrylodimethyl taurate, xanthan gum, disodium edta, imidazolidinyl urea, methylparaben, butylparaben, bht, parfum.
 
-[kategoria:kosmetyki](/kategoria:kosmetyki "wikilink")
+[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")
 
 [1] Samoocena przeprowadzona przez 41 kobiet.
 

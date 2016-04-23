@@ -25,4 +25,4 @@ RK/123820/2004.
 
 <http://www.blaufarma.pl>
 
-[kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:emolienty](/kategoria:emolienty "wikilink")
+[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

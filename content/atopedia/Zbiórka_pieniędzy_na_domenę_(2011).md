@@ -3,7 +3,7 @@ title: Zbiórka pieniędzy na domenę (2011)
 permalink: /Zbiórka_pieniędzy_na_domenę_(2011)/
 ---
 
-Nasz serwis utrzymuje się niezależnie - nie mamy żadnego patronatu. Domeny są opłacane przez samych użytkowników forum. Poprzednie zbiórki pieniędzy można zobaczyć tutaj: [Zbiórki](/:kategoria:Zbiórki "wikilink")
+Nasz serwis utrzymuje się niezależnie - nie mamy żadnego patronatu. Domeny są opłacane przez samych użytkowników forum. Poprzednie zbiórki pieniędzy można zobaczyć tutaj: [Zbiórki](/atopedia/:kategoria:Zbiórki "wikilink")
 
 Musimy zebrać 730 złotych na przedłużenie domen "atopowe.pl" i "atopowe-zapalenie.pl" (na 3 lata). Wielkość wpłaty zależy od Was - proponujemy 10, 20 lub 30 zł, wedle chęci i możliwości. O zbiórce rozmawiamy [w tym wątku](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=9&t=6702), tam też podany jest numer konta.
 
@@ -49,4 +49,4 @@ Musimy zebrać 730 złotych na przedłużenie domen "atopowe.pl" i "atopowe-zapa
 | GG                | 20                                             | 2011-12-19 |
 | 36 osób           | style="text-align:left" colspan = "2" | 852,77 |
 
-[kategoria:Zbiórki](/kategoria:Zbiórki "wikilink")
+[kategoria:Zbiórki](/atopedia/kategoria:Zbiórki "wikilink")

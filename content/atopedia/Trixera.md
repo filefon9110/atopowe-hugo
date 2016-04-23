@@ -36,4 +36,4 @@ Balsam zmiękczający stosuje się kilka razy dziennie zwracając uwagę na bard
 
 **Producent**: Pierre Fabre
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:kosmetyki](/kategoria:kosmetyki "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

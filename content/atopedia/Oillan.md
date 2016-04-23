@@ -18,4 +18,4 @@ W skład marki Oillan wchodzi klika różnych grup produktów od emulsji natłus
 
 Produkty dostępne są wyłącznie w aptekach.
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

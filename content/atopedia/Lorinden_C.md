@@ -20,7 +20,7 @@ CO TO JEST LEK LORINDEN C MAŚĆ I W JAKIM CELU SIĘ GO STOSUJE
 
 Lorinden C w postaci maści jest lekiem do stosowania na skórę, zawiera substancje czynne flumetazonu piwalan i kliochinol.
 
-Flumetazonu piwalan jest lekiem z grupy [kortykosteroidów](/sterydy "wikilink") o umiarkowanie silnym działaniu przeciwzapalnym, stosowany miejscowo na skórę wykazuje działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
+Flumetazonu piwalan jest lekiem z grupy [kortykosteroidów](/atopedia/sterydy "wikilink") o umiarkowanie silnym działaniu przeciwzapalnym, stosowany miejscowo na skórę wykazuje działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
 
 Kliochinol jest lekiem, który wykazuje działanie przeciwbakteryjne na niektóre bakterie Gram dodatnie i Gram-ujemne.
 
@@ -53,7 +53,7 @@ Jeśli podczas stosowania leku wystąpią objawy podrażnienia, uczulenia lub na
 
 Nie stosować bez przerwy dłużej niż przez 2 tygodnie.
 
-Kortykosteroidy wchłaniają się przez skórę. Dlatego podczas stosowania leku istnieje ryzyko wystąpienia ogólnoustrojowych objawów niepożądanych kortykosteroidów, w tym zahamowanie czynności kory nadnerczy, zmniejszenie stężenia kortyzolu we krwi, [zespół Cushinga](/zespół_Cushinga "wikilink"). Z tego względu należy unikać podawania leku na dużą powierzchnię skóry, rany, uszkodzoną skórę, stosowania w dużych dawkach, a także długotrwałego leczenia lekiem.
+Kortykosteroidy wchłaniają się przez skórę. Dlatego podczas stosowania leku istnieje ryzyko wystąpienia ogólnoustrojowych objawów niepożądanych kortykosteroidów, w tym zahamowanie czynności kory nadnerczy, zmniejszenie stężenia kortyzolu we krwi, [zespół Cushinga](/atopedia/zespół_Cushinga "wikilink"). Z tego względu należy unikać podawania leku na dużą powierzchnię skóry, rany, uszkodzoną skórę, stosowania w dużych dawkach, a także długotrwałego leczenia lekiem.
 
 W przypadku zakażenia skóry w leczonym miejscu, lekarz zastosuje odpowiednie leczenie przeciwbakteryjne lub przeciwgrzybicze. Jeżeli objawy zakażenia utrzymują się, należy skontaktować się z lekarzem. Lekarz zadecyduje, czy leczenie powinno być przerwane do czasu wyleczenia zakażenia.
 
@@ -197,4 +197,4 @@ fax. (075) 752 44 55
 
 e-mail: jelfa@jelfa.com.pl
 
-[kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:maści](/kategoria:maści "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

@@ -3,7 +3,7 @@ title: Papierosy
 permalink: /Papierosy/
 ---
 
-Zaobserwowano, że ryzyko zachorowania na [AZS](/Atopowe_zapalenie_skóry "wikilink") jest większe u dzieci, których matki były czynnymi lub biernymi palaczami w czasie ciąży[1]. Unikanie ekspozycji na dym w ciąży jest zatem jednym z czynników, które mogą zmniejszyć rozwój AZS.
+Zaobserwowano, że ryzyko zachorowania na [AZS](/atopedia/Atopowe_zapalenie_skóry "wikilink") jest większe u dzieci, których matki były czynnymi lub biernymi palaczami w czasie ciąży[1]. Unikanie ekspozycji na dym w ciąży jest zatem jednym z czynników, które mogą zmniejszyć rozwój AZS.
 
 Także ryzyko rozwoju AZS w wieku dorosłym jest znacząco większe u osób palących długoterminowo[2]. Wyniki te wskazują, że dorośli powinni być zniechęcani do palenia w celu zapobieżenia atopowemu zapaleniu skóry u siebie i swojej rodziny.
 
@@ -14,7 +14,7 @@ Także ryzyko rozwoju AZS w wieku dorosłym jest znacząco większe u osób pal�
 
 -   [Mama-palacz](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=1&t=1293) - Wątek na Forum
 
-[kategoria:wpadki](/kategoria:wpadki "wikilink")
+[kategoria:wpadki](/atopedia/kategoria:wpadki "wikilink")
 
 [1] [Effect of gestational smoke exposure on AD in the offspring](http://ntur.lib.ntu.edu.tw/bitstream/246246/160925/1/27.pdf), Wang et al. Pediatr Allergy Immunol 2008: 19: 580–586
 

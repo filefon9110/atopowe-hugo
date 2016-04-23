@@ -9,7 +9,7 @@ permalink: /Pasztet_z_indyka_do_smarowania/
 -   30 g masła lub bezmlecznego tłuszczu do duszenia (oliwa, olej, Masmix kulinarny)
 -   ew. por
 -   sól
--   miękkie masło lub [margaryna bezmleczna](/margaryna_bezmleczna "wikilink")
+-   miękkie masło lub [margaryna bezmleczna](/atopedia/margaryna_bezmleczna "wikilink")
 -   ew. 50 g wątróbki z indyka
 
 **Przygotowanie:**
@@ -21,4 +21,4 @@ permalink: /Pasztet_z_indyka_do_smarowania/
 
 -   Można zrobić podobny pasztet z mięsa wołowego.
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/atopedia/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

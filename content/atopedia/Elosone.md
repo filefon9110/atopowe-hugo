@@ -13,13 +13,13 @@ permalink: /Elosone/
 
 ### Działanie
 
-Pirośluzan mometazonu, [glikokortykosteroid](/sterydy "wikilink") o średniej sile działania, stosowany zewnętrznie działa -miejscowo przeciwzapalnie, przeciwświądowo i zwęża naczynia krwionośne.
+Pirośluzan mometazonu, [glikokortykosteroid](/atopedia/sterydy "wikilink") o średniej sile działania, stosowany zewnętrznie działa -miejscowo przeciwzapalnie, przeciwświądowo i zwęża naczynia krwionośne.
 
 ### Wskazania
 
--   [atopowe zapalenie skóry](/atopowe_zapalenie_skóry "wikilink")
+-   [atopowe zapalenie skóry](/atopedia/atopowe_zapalenie_skóry "wikilink")
 -   neurodermit
--   [łuszczyca](/łuszczyca "wikilink")
+-   [łuszczyca](/atopedia/łuszczyca "wikilink")
 
 ### Przeciwwskazania
 
@@ -69,4 +69,4 @@ ul. Jagiellońska 44, 80-366 Gdańsk
 
 24 listopada 2001 roku
 
-[kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink")
+[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink")

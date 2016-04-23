@@ -200,4 +200,4 @@ Hiszpania:Bilaxten 20 mg Comprimido
 
 '''Data zatwierdzenia ulotki: '''2011-02-02
 
-[kategoria:Ulotki leków](/kategoria:Ulotki_leków "wikilink") [kategoria:Leki antyhistaminowe](/kategoria:Leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe III generacji](/kategoria:Leki_antyhistaminowe_III_generacji "wikilink")
+[kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink") [kategoria:Leki antyhistaminowe](/atopedia/kategoria:Leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe III generacji](/atopedia/kategoria:Leki_antyhistaminowe_III_generacji "wikilink")

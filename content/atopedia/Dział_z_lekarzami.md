@@ -195,7 +195,7 @@ permalink: /Dział_z_lekarzami/
 
 **Zobacz też**
 
--   [Kliniki dermatologii i alergologii](/Kliniki_dermatologii_i_alergologii "wikilink")
--   [Działy naszego serwisu](/Działy_naszego_serwisu "wikilink")
+-   [Kliniki dermatologii i alergologii](/atopedia/Kliniki_dermatologii_i_alergologii "wikilink")
+-   [Działy naszego serwisu](/atopedia/Działy_naszego_serwisu "wikilink")
 
-[kategoria:Szpitale i lekarze](/kategoria:Szpitale_i_lekarze "wikilink")
+[kategoria:Szpitale i lekarze](/atopedia/kategoria:Szpitale_i_lekarze "wikilink")

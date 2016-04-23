@@ -48,4 +48,4 @@ P.o. W postaci tabl. Dorośli: leczniczo 1 mg 2 razy na dobę, w razie potrzeby 
 
 clemastine
 
-[kategoria:leki doustne](/kategoria:leki_doustne "wikilink") [kategoria:zastrzyki](/kategoria:zastrzyki "wikilink") [kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe I generacji](/kategoria:Leki_antyhistaminowe_I_generacji "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:zastrzyki](/atopedia/kategoria:zastrzyki "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe I generacji](/atopedia/kategoria:Leki_antyhistaminowe_I_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

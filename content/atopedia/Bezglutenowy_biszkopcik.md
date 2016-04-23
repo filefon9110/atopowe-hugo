@@ -18,4 +18,4 @@ Ubij na puch żółtka z cukrem, dodaj delikatnie przesianą mąkę kukurydzian�
 
 Porcja dla dziecka = mały kawałek.
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

@@ -16,7 +16,7 @@ Skład:
 Działanie
 ---------
 
-Preparat wykorzystujący synergizm działania 3 antybiotyków bakteriobójczych. Bacytracyna jest antybiotykiem polipeptydowym, działającym głównie na bakterie Gram-dodatnie (m.in. *Streptococcus spp.*). Neomycyna - antybiotyk aminoglikozydowy - działa m.in. na *Enterobacteriaceae* (zwłaszcza *Proteus* indolo-dodatni i *Klebsiella spp.*) oraz *[Staphylococcus aureus](/Staphylococcus_aureus "wikilink")*. Polimiksyna B działa głównie na bakterie Gram-ujemne, zwłaszcza *Pseudomonas aeruginosa* i pałeczki *Enterobacteriaceae*.
+Preparat wykorzystujący synergizm działania 3 antybiotyków bakteriobójczych. Bacytracyna jest antybiotykiem polipeptydowym, działającym głównie na bakterie Gram-dodatnie (m.in. *Streptococcus spp.*). Neomycyna - antybiotyk aminoglikozydowy - działa m.in. na *Enterobacteriaceae* (zwłaszcza *Proteus* indolo-dodatni i *Klebsiella spp.*) oraz *[Staphylococcus aureus](/atopedia/Staphylococcus_aureus "wikilink")*. Polimiksyna B działa głównie na bakterie Gram-ujemne, zwłaszcza *Pseudomonas aeruginosa* i pałeczki *Enterobacteriaceae*.
 
 Wskazania
 ---------
@@ -51,7 +51,7 @@ Działania niepożądane:
 
 Jak każdy lek, może powodować działania niepożądane, chociaż u nie każdego one wystąpią.
 
-Lek może uszkadzać słuch, powodować wystąpienie ogólnych objawów nadwrażliwości i miejscowych, jak [wysypka](/wysypka "wikilink"), [świąd](/świąd "wikilink"), objawy podrażnienia oraz zakażeń opornymi szczepami bakterii lub grzybów (drożdżaki). Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek niewymienione powyżej objawy niepożądane, należy powiadomić lekarza lub farmaceutę.
+Lek może uszkadzać słuch, powodować wystąpienie ogólnych objawów nadwrażliwości i miejscowych, jak [wysypka](/atopedia/wysypka "wikilink"), [świąd](/atopedia/świąd "wikilink"), objawy podrażnienia oraz zakażeń opornymi szczepami bakterii lub grzybów (drożdżaki). Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek niewymienione powyżej objawy niepożądane, należy powiadomić lekarza lub farmaceutę.
 
 Uwagi:
 ------
@@ -71,4 +71,4 @@ Ciąża i karmienie piersią:
 
 Ze względu na brak odpowiednich badań nie należy stosować leku w okresie ciąży i u kobiet karmiących piersią. Przed zastosowaniem leku należy poradzić się lekarza.
 
-[kategoria:antybiotyki](/kategoria:antybiotyki "wikilink") [kategoria:maści](/kategoria:maści "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

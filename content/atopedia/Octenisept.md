@@ -80,4 +80,4 @@ przechowywać w temperaturze poniżej 25 st. C. Przechowywać w miejscu niedost�
 
 **Nie stosować leku po upływie terminu ważności.** Pojemność butelki 1 l, 250 ml lub 50 ml.
 
-[kategoria:leki](/kategoria:leki "wikilink")
+[kategoria:leki](/atopedia/kategoria:leki "wikilink")

@@ -22,4 +22,4 @@ Na podobnej zasadzie można robić inne zapiekanki używając dowolnych, tolerow
 
 Nie podawać dzieciom uczulonym na którykolwiek ze składników.
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

@@ -23,4 +23,4 @@ Nagrzać piekarnik do temperatury 180 stopni Celsjusza. Na małym ogniu podgrzew
 
 Mnie się zawsze udają. Są trochę za suche jak na mój gust,można je podawać np z dżemem, jeśli nie, można pomoczyć w masełku.
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

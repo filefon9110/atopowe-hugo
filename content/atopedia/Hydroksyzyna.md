@@ -29,6 +29,6 @@ lek ma silne działanie, usypia, powoduje niezdolność obsługo maszyn i prowad
 ok 12 zł
  **Zobacz też**
 
--   [Hydroxizinum](/Hydroxizinum "wikilink")
+-   [Hydroxizinum](/atopedia/Hydroxizinum "wikilink")
 
-[kategoria:leki doustne](/kategoria:leki_doustne "wikilink") [kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe I generacji](/kategoria:leki_antyhistaminowe_I_generacji "wikilink")
+[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe I generacji](/atopedia/kategoria:leki_antyhistaminowe_I_generacji "wikilink")

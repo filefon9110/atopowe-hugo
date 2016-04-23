@@ -10,4 +10,4 @@ permalink: /Układ_nerwowy/
 
 Układ nerwowy funkcjonuje przede wszystkim dzięki tkance nerwowej, na którą składają się komórki glejowe oraz komórki nerwowe czyli neurony.
 
-[kategoria:ciało człowieka](/kategoria:ciało_człowieka "wikilink")
+[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

@@ -42,4 +42,4 @@ W następujących przypadkach stosować tylko po konsultacji w z lekarzem:
 Cena ok. 22zł (200ml).
 Dostępne opakowania 200ml i 500ml (według ulotki). W Polsce na pewno 200ml.
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

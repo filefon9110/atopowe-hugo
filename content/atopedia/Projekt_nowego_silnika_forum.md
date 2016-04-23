@@ -3,7 +3,7 @@ title: Projekt nowego silnika forum
 permalink: /Projekt_nowego_silnika_forum/
 ---
 
-*To jest [moja](/Wikipedysta:Wahwah "wikilink") strona robocza*
+*To jest [moja](/atopedia/Wikipedysta:Wahwah "wikilink") strona robocza*
 
 Lista funkcji
 -------------
@@ -71,4 +71,4 @@ Przeglądając dostępne szablony...
 -   [Terje Winter](http://www.oswd.org/design/preview/id/2855)
 -   simple, beautiful: [Leaves 1.0](http://www.oswd.org/design/preview/id/2429)
 
-[kategoria:serwis](/kategoria:serwis "wikilink")
+[kategoria:serwis](/atopedia/kategoria:serwis "wikilink")

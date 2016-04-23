@@ -7,7 +7,7 @@ permalink: /Neutrogena_krem_do_rąk/
 
 **Krem do rąk skoncentrowany** 75 ml
 
-Natychmiastowa, trwała ulga nawet dla najbardziej [suchych dłoni](/sucha_skóra "wikilink"). Odrobina tej wzbogaconej w glicerynę formuły, przynosi natychmiastową ulgę oraz chroni suche, spierzchnięte dłonie. Nawet w najbardziej surowych warunkach sprawia, że dłonie są bardziej miękkie i gładkie.
+Natychmiastowa, trwała ulga nawet dla najbardziej [suchych dłoni](/atopedia/sucha_skóra "wikilink"). Odrobina tej wzbogaconej w glicerynę formuły, przynosi natychmiastową ulgę oraz chroni suche, spierzchnięte dłonie. Nawet w najbardziej surowych warunkach sprawia, że dłonie są bardziej miękkie i gładkie.
 
 Silnie skoncentrowany, bardzo wydajny - wystarcza na ponad dwieście zastosowań. Stworzony we współpracy z dermatologami.
 
@@ -15,4 +15,4 @@ Silnie skoncentrowany, bardzo wydajny - wystarcza na ponad dwieście zastosowań
 
 Aqua, Glycerin, Cetearyl Alkohol, Stearic Acid, Palmitic Acid, Sodium Cetearyl Sulfate, Dilauryl Thiodipropiononate, Sodium Sulfate, Methylparaben, Propylparaben, Parfum.
 
-[Kategoria:kremy](/Kategoria:kremy "wikilink")
+[Kategoria:kremy](/atopedia/Kategoria:kremy "wikilink")

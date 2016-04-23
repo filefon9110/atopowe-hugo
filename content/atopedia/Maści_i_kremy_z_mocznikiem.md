@@ -38,4 +38,4 @@ permalink: /Maści_i_kremy_z_mocznikiem/
 *Eucerini ad 100,0*
 *M.f.Ung.*
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:preparaty zawierające mocznik](/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:Przepisy na maści robione](/kategoria:Przepisy_na_maści_robione "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

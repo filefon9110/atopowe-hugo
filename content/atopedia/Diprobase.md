@@ -5,7 +5,7 @@ permalink: /Diprobase/
 
 Bardzo dobrze natłuszcza. Raczej sprzęt dla naprawdę przesuszonych i przewlekłych recydywistów takich jak ja (20 lat ciężkiego AZS). Jeśli tak zwane *"świetnie nawilżające kremy dla skóry atopowej"* wsiąkają bez śladu w ciągu paru minut spróbujcie tego. Ja stosuję na dzień więc ubrania szybko wyglądają jak te, na których wypróbowuje się proszki w reklamach, ale na noc mi nie służy.
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")
 
 **DIPROBASE** krem, maść cena kremu za 50g 14 zł
 

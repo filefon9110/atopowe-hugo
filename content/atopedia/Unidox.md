@@ -170,4 +170,4 @@ Elisabethhof 19
 
 Holandia
 
-[kategoria:antybiotyki](/kategoria:antybiotyki "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

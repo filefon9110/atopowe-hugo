@@ -24,7 +24,7 @@ Decyzja.........
 
 Działając na podstawie art.. 148 Ustawy z dnia 23 stycznia 2004 r. o powszechnym ubezpieczeniu w NFZ (Dz.U. Nr 45, poz. 391 z późn. Zm.) oraz pełnomocnictwa p.o. Prezesa Narodowego Funduszu Zdrowia Nr 3/2004 z dnia 8 marca 2004., Dyrektor Pomorskiego Odziału Wojewódzkiego NFZ
 
-ODMAWIA Refundacji kosztów leczenia preparatem [Protopic](/Protopic "wikilink").
+ODMAWIA Refundacji kosztów leczenia preparatem [Protopic](/atopedia/Protopic "wikilink").
 
 **Uzasadnienie:**
 
@@ -44,7 +44,7 @@ Gdańsk, 15.09.2004
 
 dotyczy: odwołania od decyzji nr (...)
 
-Odwołuję się od decyzji NFZ z dnia 18 sierpnia 2004 r. dotyczącej refundacji kosztów leczenia preparatem Protopic. W uzasadnieniu opinii Konsultanta Wojewódzkiego w dziedzinie dermatologii i wenerologii czytam, że brak wskazań stosowania maści [Protopic](/Protopic "wikilink"). Chciałabym podkreślić, że moja córka Julia leczona jest od 4 lat na [atopowe zapalenie skóry](/Atopowe_zapalenie_skóry "wikilink") – dokumentację dotyczącą rozpoznania i przebiegu leczenia załączyłam w poprzedniej korespondencji. Informuję, że rozpoznania choroby i decyzji o zastosowaniu preparatu [Protopic](/Protopic "wikilink") dokonał profesor Placek – uznany autorytet w dziedzinie chorób skórnych w Polsce i Europie. Dzięki temu preparatowi nastąpiła znaczna poprawa – czego dowodem jest również opinia lekarza prowadzącego ze Szpitala Alergologocznego i Chorób Płuc na ul. Polanki – dr. Bławat (załączniki 1 i 2).
+Odwołuję się od decyzji NFZ z dnia 18 sierpnia 2004 r. dotyczącej refundacji kosztów leczenia preparatem Protopic. W uzasadnieniu opinii Konsultanta Wojewódzkiego w dziedzinie dermatologii i wenerologii czytam, że brak wskazań stosowania maści [Protopic](/atopedia/Protopic "wikilink"). Chciałabym podkreślić, że moja córka Julia leczona jest od 4 lat na [atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink") – dokumentację dotyczącą rozpoznania i przebiegu leczenia załączyłam w poprzedniej korespondencji. Informuję, że rozpoznania choroby i decyzji o zastosowaniu preparatu [Protopic](/atopedia/Protopic "wikilink") dokonał profesor Placek – uznany autorytet w dziedzinie chorób skórnych w Polsce i Europie. Dzięki temu preparatowi nastąpiła znaczna poprawa – czego dowodem jest również opinia lekarza prowadzącego ze Szpitala Alergologocznego i Chorób Płuc na ul. Polanki – dr. Bławat (załączniki 1 i 2).
 
 Opinia lekarza Konsultanta Wojewódzkiego jest tym bardziej niezrozumiała, że o ile prof. Placek i dr Bławat od 4 lat opiekują się córką i zalecają stosowanie tego preparatu, o tyle wizyta u Konsultanta – który wydał negatywną opinię – trwała zaledwie 5 minut.
 
@@ -84,4 +84,4 @@ W związku z tym po ponownym przeanalizowaniu sprawy i załączonej do odwołani
 
 Wobec powyższego NFZ nie znajduje podstaw do zmiany swej decyzji i wnosi jak w petitum.
 
-[Kategoria:Refundacja i pisma](/Kategoria:Refundacja_i_pisma "wikilink")
+[Kategoria:Refundacja i pisma](/atopedia/Kategoria:Refundacja_i_pisma "wikilink")

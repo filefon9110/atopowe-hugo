@@ -98,4 +98,4 @@ Ochrona skóry narażonej na działanie szkodliwych czynników zewnętrznych, ta
 
 **Skład:** Olej parafinowy (65%), trójglicerydy kwasu kaprylowego i kaprynowego (7%), olej macadamia (3%), masło shea (3%), olej avocado (2%), trójglicerydy oleju z kukurydzy (2%), palmitynian izopropylu (7,7%)
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink") [kategoria:kosmetyki](/kategoria:kosmetyki "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:preparaty zawierające mocznik](/kategoria:preparaty_zawierające_mocznik "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

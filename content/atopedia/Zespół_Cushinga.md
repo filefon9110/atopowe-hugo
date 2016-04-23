@@ -14,7 +14,7 @@ Najczęstszą przyczyną tego zespołu jest egzogenna podaż glikokortykosteroid
 1.  Długotrwałe leczenie glikokortykosteroidami.
 2.  Długotrwałe leczenie analogami ACTH (Hormon adrenokortykotropowy).
 
-**B**. Nadmierne endogenne wytwarzanie [glikokortykosteroidów](/sterydy "wikilink"):
+**B**. Nadmierne endogenne wytwarzanie [glikokortykosteroidów](/atopedia/sterydy "wikilink"):
 
 1.  Wtórny przerost kory nadnerczy
 2.  Pierwotny mikroguzkowy przerost (\<1%), gruczolak (10%) lub rak nadnerczy (15% przyczyn endogennych).
@@ -36,4 +36,4 @@ Częstość występowania najbardziej charakterystycznych zmian:
 
 Piśmiennictwo: INTERNA pod redakcją prof. dr. hab. med Włodzimierza Januszewicza i prof. dr. hab. med. Franciszka Kokota
 
-[kategoria:Sterydy](/kategoria:Sterydy "wikilink")
+[kategoria:Sterydy](/atopedia/kategoria:Sterydy "wikilink")

@@ -3,16 +3,16 @@ title: Marsz alergiczny
 permalink: /Marsz_alergiczny/
 ---
 
-Badania epidemiologiczne oraz długofalowe obserwacje kliniczne wskazują na istnienie określonej sekwencji występowania schorzeń atopowych u danej osoby. Sekwencja ta kojarzy się z pojawianiem się i dynamiką zmienności swoistych [IgE](/IgE "wikilink") przeciw alergenom pokarmowym i wziewnym.[1]
+Badania epidemiologiczne oraz długofalowe obserwacje kliniczne wskazują na istnienie określonej sekwencji występowania schorzeń atopowych u danej osoby. Sekwencja ta kojarzy się z pojawianiem się i dynamiką zmienności swoistych [IgE](/atopedia/IgE "wikilink") przeciw alergenom pokarmowym i wziewnym.[1]
 
 Sekwencję tę nazywa się **marszem alergicznym**.
 
 Przebieg chorób alergicznych charakteryzuje się typową kolejnością - często choroby alergiczne z wiekiem przechodzą z jednej w drugą. U 50% dzieci AZS przechodzi w astmę oskrzelową[2].
 
-Niektóre z leków mogą być stosowane jako próba farmakologicznej interwencji w naturalny przebieg marszu alergicznego. Wiadomo, że [cetyryzyna](/cetyryzyna "wikilink") zmniejsza ryzyko rozwoju astmy u dzieci chorych na AZS uczulonych na alergeny powietrznopochodne[3].
+Niektóre z leków mogą być stosowane jako próba farmakologicznej interwencji w naturalny przebieg marszu alergicznego. Wiadomo, że [cetyryzyna](/atopedia/cetyryzyna "wikilink") zmniejsza ryzyko rozwoju astmy u dzieci chorych na AZS uczulonych na alergeny powietrznopochodne[3].
 
 <references />
-[kategoria:podstawowe wiadomości](/kategoria:podstawowe_wiadomości "wikilink") [kategoria:alergia](/kategoria:alergia "wikilink") [kategoria:astma](/kategoria:astma "wikilink")
+[kategoria:podstawowe wiadomości](/atopedia/kategoria:podstawowe_wiadomości "wikilink") [kategoria:alergia](/atopedia/kategoria:alergia "wikilink") [kategoria:astma](/atopedia/kategoria:astma "wikilink")
 
 [1] Zatrzymać marsz alergiczny. dr med. Beata Cudowska, prof. dr hab. med. Maciej Kaczmarski. *[Puls Medycyny 7 (150) 2007](http://www.pulsmedycyny.com.pl/index/archiwum/8004,zatrzyma%C4%87,marsz,alergiczny.html)*
 

@@ -3,4 +3,4 @@ title: Odczulanie
 permalink: /Odczulanie/
 ---
 
-1.  REDIRECT [Immunoterapia](/Immunoterapia "wikilink")
+1.  REDIRECT [Immunoterapia](/atopedia/Immunoterapia "wikilink")

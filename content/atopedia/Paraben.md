@@ -13,8 +13,8 @@ Przypisy
 --------
 
 <references/>
-[kategoria:substancje chemiczne](/kategoria:substancje_chemiczne "wikilink")
+[kategoria:substancje chemiczne](/atopedia/kategoria:substancje_chemiczne "wikilink")
 
 [1] {{ cytuj stronę | url = <http://www.atopowe-zapalenie.pl/forum/viewtopic.php?p=79890#p79890> | tytuł = Szkodliwe składniki kosmetyków | autor = ilonka | lang = pl }}
 
-[2] [wikipedia: Paraben (en)](/wikipedia:en:Paraben "wikilink")
+[2] [wikipedia: Paraben (en)](/atopedia/wikipedia:en:Paraben "wikilink")

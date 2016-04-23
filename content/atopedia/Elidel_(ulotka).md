@@ -15,7 +15,7 @@ Elidel®
 
 *(Pimecrolimusum)*
 
-Substancją czynną preparatu Elidel jest [pimekrolimus](/Pimekrolimus "wikilink").
+Substancją czynną preparatu Elidel jest [pimekrolimus](/atopedia/Pimekrolimus "wikilink").
 
 Inne składniki leku: trójglicerydy średniołańcuchowe, alkohol oleilowy, glikol propylenowy, alkohol sterylowy, alkohol cetylowy, mono- i dwuglicerydy, cetostearylosiarczan sodu, alkohol benzylowy, kwas cytrynowy bezwodny, sodu wodorotlenek, woda oczyszczona.
 
@@ -31,24 +31,24 @@ Niemcy
 Co to jest Elidel i w jakim celu jest stosowany
 -----------------------------------------------
 
-Elidel jest białym, bezzapachowym, nie pozostawiającym plam i łatwo się rozprowadzającym kremem; jeden gram preparatu Elidel zawiera 10mg [pimekrolimusu](/Pimekrolimus "wikilink").
+Elidel jest białym, bezzapachowym, nie pozostawiającym plam i łatwo się rozprowadzającym kremem; jeden gram preparatu Elidel zawiera 10mg [pimekrolimusu](/atopedia/Pimekrolimus "wikilink").
 
-Elidel jest niesteroidowym środkiem, stosowanym w leczeniu [stanów zapalnych skóry](/Stan_zapalny_skóry "wikilink"). Lek działa na komórki w [skórze](/Skóra "wikilink") odpowiedzialne za rozwój zapalenie oraz zaczerwienienie i [swędzenie](/Świąd "wikilink") odczuwane przez pacjentów z łagodną i umiarkowaną świerzbiączką.
+Elidel jest niesteroidowym środkiem, stosowanym w leczeniu [stanów zapalnych skóry](/atopedia/Stan_zapalny_skóry "wikilink"). Lek działa na komórki w [skórze](/atopedia/Skóra "wikilink") odpowiedzialne za rozwój zapalenie oraz zaczerwienienie i [swędzenie](/atopedia/Świąd "wikilink") odczuwane przez pacjentów z łagodną i umiarkowaną świerzbiączką.
 
 Elidel jest dostępny w tubkach zawierających 15 g, 30 g i 100 g preparatu.
 
-Krem stosuje się do leczenia objawów łagodnej i umiarkowanej postaci świerzbiączki (atopowego zapalenia skóry) u [dzieci](/Dzieci "wikilink") (w wieku od 2 lat), młodzieży i dorosłych. Leczenie preparatem Elidel objawów przedmiotowych i podmiotowych świerzbiączki we wczesnym etapie ich rozwoju zapobiega ciężkiemu zaostrzeniu choroby i wiąże się z wydłużeniem okresów pomiędzy kolejnymi jej nasileniami.
+Krem stosuje się do leczenia objawów łagodnej i umiarkowanej postaci świerzbiączki (atopowego zapalenia skóry) u [dzieci](/atopedia/Dzieci "wikilink") (w wieku od 2 lat), młodzieży i dorosłych. Leczenie preparatem Elidel objawów przedmiotowych i podmiotowych świerzbiączki we wczesnym etapie ich rozwoju zapobiega ciężkiemu zaostrzeniu choroby i wiąże się z wydłużeniem okresów pomiędzy kolejnymi jej nasileniami.
 
 Przed rozpoczęciem stosowania preparatu Elidel
 ----------------------------------------------
 
-Należy dokładnie przestrzegać zaleceń [lekarza](/Lekarze "wikilink"), nawet jeżeli różnią się od informacji zawartych w niniejszej ulotce.
+Należy dokładnie przestrzegać zaleceń [lekarza](/atopedia/Lekarze "wikilink"), nawet jeżeli różnią się od informacji zawartych w niniejszej ulotce.
 
 Przed rozpoczęciem stosowania preparatu Elidel należy zapoznać się z podanymi poniżej informacjami.
 
 **Nie stosować preparatu Elidel w przypadku:**
 
--   nadwrażliwości (uczulenia) na [pimekrolimus](/Pimekrolimus "wikilink"), inne makroalaktamy lub którykolwiek inny składnik preparatu Elidel.
+-   nadwrażliwości (uczulenia) na [pimekrolimus](/atopedia/Pimekrolimus "wikilink"), inne makroalaktamy lub którykolwiek inny składnik preparatu Elidel.
 
 W przypadku dalszych pytań należy skonsultować się z lekarzem.
 
@@ -88,13 +88,13 @@ Elidel nie wywołuje żadnych znanych objawów utrudniających prowadzenie pojaz
 **Stosowanie innych leków**
 Należy poinformować lekarza lub farmaceutę o aktualnie lub ostatnio przyjmowanych innych lekach, nawet tych które są dostępne bez recepty.
 W przypadku rozległego atopowego zapalenie skóry należy przerwać leczenie preparatem Elidel przed szczepieniami. W tym celu należy skontaktować się z lekarzem.
-Podczas leczenia preparatem Elidel należy unikać leczenia/naświetlania promieniami UVA lub [UVB](/UVB "wikilink").
+Podczas leczenia preparatem Elidel należy unikać leczenia/naświetlania promieniami UVA lub [UVB](/atopedia/UVB "wikilink").
 Z uwagi na selektywne działanie preparatu Elidel na skórę, bardzo mała ilość leku przechodzi do krwi. Z tego względu prawdopodobieństwo wystąpienia interakcji pomiędzy preparatem Elidel i innymi lekami podawanymi doustnie lub systemowo jest niewielkie.
 
 W jaki sposób stosować Elidel
 -----------------------------
 
-Należy dokładnie przestrzegać zaleceń [lekarza](/Lekarze "wikilink") i farmaceuty. W przypadku jakichkolwiek pytań należy skontaktować się z lekarzem lub farmaceutą.
+Należy dokładnie przestrzegać zaleceń [lekarza](/atopedia/Lekarze "wikilink") i farmaceuty. W przypadku jakichkolwiek pytań należy skontaktować się z lekarzem lub farmaceutą.
 
 Elidel można stosować na skórę całego ciała, w tym także na skórę głowy, twarzy i szyi oraz w fałdach skóry. Krem stosować w następujący sposób:
 
@@ -108,10 +108,10 @@ Elidel można stosować na skórę całego ciała, w tym także na skórę głow
 Krem należy stosować dwa razy na dobę, np. rano i wieczorem. Środki nawilżające (preparaty zmiękczające skórę) można nakładać bezpośrednio po zastosowaniu kremu Elidel. Skóra pacjentów z atopowym zapaleniem skóry może być bardzo sucha.
 Z tego względu należy przedyskutować z lekarzem sposób pielęgnacji skóry, aby zapewnić odpowiedni stopień nawilżenia.
 
-Ze względu na możliwość zmycia kremu nie należy stosować kremu Elidel bezpośrednio przed [kąpielą](/Kąpiele "wikilink") lub prysznicem.
+Ze względu na możliwość zmycia kremu nie należy stosować kremu Elidel bezpośrednio przed [kąpielą](/atopedia/Kąpiele "wikilink") lub prysznicem.
 
 **Jak długo stosować Elidel**
-Krem należy stosować tak długo jak długo lekarz uzna to za konieczne. W przypadku braku poprawy po 6 tygodniach stosowania leku lub w przypadku, gdy wystąpi zaostrzenie choroby, należy skontaktować sie z lekarzem. W przypadku długotrwałego leczenia egzemy terapię kremem Elidel należy rozpocząć natychmiast po zaobserwowaniu pierwszych [objawów](/Charakterystyczne_objawy "wikilink"). Zapobiega to występowaniu objawów związanych z zaostrzeniem lub nawrotem choroby.
+Krem należy stosować tak długo jak długo lekarz uzna to za konieczne. W przypadku braku poprawy po 6 tygodniach stosowania leku lub w przypadku, gdy wystąpi zaostrzenie choroby, należy skontaktować sie z lekarzem. W przypadku długotrwałego leczenia egzemy terapię kremem Elidel należy rozpocząć natychmiast po zaobserwowaniu pierwszych [objawów](/atopedia/Charakterystyczne_objawy "wikilink"). Zapobiega to występowaniu objawów związanych z zaostrzeniem lub nawrotem choroby.
 Elidel należy stosować, aż do ustąpienia wszystkich objawów. W razie ich nawrotu leczenie należy wznowić.
 
 **Postępowanie w przypadku zastosowania większej dawki leku**
@@ -130,12 +130,12 @@ Jak każdy lek, Elidel może powodować działania niepożądane.
 
 Do najczęstszych skutków ubocznych preparatu Elidel krem 10 mg/g należy uczucie ciepła i/lub pieczenia skóry w miejscu nałożenia kremu.
 
-Inne częste działania niepożądane to: podrażnienie, [swędzenie](/Świąd "wikilink") i zaczerwienienie skóry w miejscu zastosowania kremu.
-Do częstych działań niepożądanych należą także infekcje skóry, takie jak [zapalenie mieszków włosowych](/Foliculitis "wikilink") (może być przyczyną powstawania krost).
+Inne częste działania niepożądane to: podrażnienie, [swędzenie](/atopedia/Świąd "wikilink") i zaczerwienienie skóry w miejscu zastosowania kremu.
+Do częstych działań niepożądanych należą także infekcje skóry, takie jak [zapalenie mieszków włosowych](/atopedia/Foliculitis "wikilink") (może być przyczyną powstawania krost).
 
-W rzadkich przypadkach w miejscu zastosowania preparatu mogą wystąpić następujące działania niepożądane: [wysypka](/wysypka "wikilink"), ból, uczucie kłucia, niewielkie [łuszczenie](/łuszczenie "wikilink") się skóry, [suchość skóry](/suchość_skóry "wikilink") oraz obrzęk. Wymienione wyżej skutki uboczne mają zwykle charakter łagodny do umiarkowanego, przemijający i najczęściej występują na początku leczenia.
+W rzadkich przypadkach w miejscu zastosowania preparatu mogą wystąpić następujące działania niepożądane: [wysypka](/atopedia/wysypka "wikilink"), ból, uczucie kłucia, niewielkie [łuszczenie](/atopedia/łuszczenie "wikilink") się skóry, [suchość skóry](/atopedia/suchość_skóry "wikilink") oraz obrzęk. Wymienione wyżej skutki uboczne mają zwykle charakter łagodny do umiarkowanego, przemijający i najczęściej występują na początku leczenia.
 
-W rzadkich przypadkach może dojść do zaostrzenia leczonej choroby lub do wystąpienia infekcji skórnej, np. liszajca, opryszczki, opryszczkowego zapalenia skóry, [mięczaka zakaźnego](/mięczak_zakaźny "wikilink"), brodawek i czyraków.
+W rzadkich przypadkach może dojść do zaostrzenia leczonej choroby lub do wystąpienia infekcji skórnej, np. liszajca, opryszczki, opryszczkowego zapalenia skóry, [mięczaka zakaźnego](/atopedia/mięczak_zakaźny "wikilink"), brodawek i czyraków.
 
 W przypadku wystąpienia innych działań niepożądanych, nie wymienionych w tej ulotce, należy poinformować o nich lekarza.
 
@@ -162,4 +162,4 @@ Al. W. Witosa 31
 00-710 Warszawa
 tel: +48 22 55 08 888
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:leki immunosupresyjne](/kategoria:leki_immunosupresyjne "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink")

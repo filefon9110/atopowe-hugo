@@ -12,7 +12,7 @@ Triacomb
 
 ### Działanie
 
-Preparat do stosowania zewnętrznego o działaniu przeciwzapalnym, przeciwświądowym, przeciwbakteryjnym i przeciwgrzybiczym, będący połączeniem [kortykosteroidu](/sterydy "wikilink") o umiarkowanie silnym działaniu miejscowym z antybiotykami o uzupełniających się mechanizmach działania. Triamcinolon jest fluorowanym kortykosteroidem, który po zastosowaniu na skórę wchłania się częściowo do krwiobiegu wywierając działanie układowe, a następnie jest metabolizowany w wątrobie do nieczynnych metabolitów, które są wydalane z moczem. Nie wchłonięty triamcinolon jest metabolizowany w skórze. Nystatyna jest polienowym antybiotykiem przeciwgrzybiczym, działającym przede wszystkim na drożdżaki Candida spp., który nie wchłania się przez skórę. Neomycyna - antybiotyk aminoglikozydowy - działa bakteriobójczo m.in. na pałeczki *Enterobacteriaceae* (zwłaszcza szczepy indolododatnie *Proteus spp.*, *Klebsiella spp.*) i *Staphylococcus aureus*. Gramicydyna - cykliczny polipeptyd stosowany wyłącznie miejscowo - działa bakteriobójczo lub bakteriostatycznie na ziarenkowce Gram-dodatnie.
+Preparat do stosowania zewnętrznego o działaniu przeciwzapalnym, przeciwświądowym, przeciwbakteryjnym i przeciwgrzybiczym, będący połączeniem [kortykosteroidu](/atopedia/sterydy "wikilink") o umiarkowanie silnym działaniu miejscowym z antybiotykami o uzupełniających się mechanizmach działania. Triamcinolon jest fluorowanym kortykosteroidem, który po zastosowaniu na skórę wchłania się częściowo do krwiobiegu wywierając działanie układowe, a następnie jest metabolizowany w wątrobie do nieczynnych metabolitów, które są wydalane z moczem. Nie wchłonięty triamcinolon jest metabolizowany w skórze. Nystatyna jest polienowym antybiotykiem przeciwgrzybiczym, działającym przede wszystkim na drożdżaki Candida spp., który nie wchłania się przez skórę. Neomycyna - antybiotyk aminoglikozydowy - działa bakteriobójczo m.in. na pałeczki *Enterobacteriaceae* (zwłaszcza szczepy indolododatnie *Proteus spp.*, *Klebsiella spp.*) i *Staphylococcus aureus*. Gramicydyna - cykliczny polipeptyd stosowany wyłącznie miejscowo - działa bakteriobójczo lub bakteriostatycznie na ziarenkowce Gram-dodatnie.
 
 ### Wskazania
 
@@ -30,4 +30,4 @@ Preparat do stosowania zewnętrznego o działaniu przeciwzapalnym, przeciwświą
 
 Krem nakłada się 2-3 razy dziennie na chorobowo zmienioną powierzchnię skóry.
 
-[kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/kategoria:antybiotyki "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

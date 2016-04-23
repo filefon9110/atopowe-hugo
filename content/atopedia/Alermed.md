@@ -29,7 +29,7 @@ Skład otoczki: talk, laktitol jednowodny, makrogol 4000, hypromeloza, tytanu dw
 Co to jest lek Alermed i w jakim celu się go stosuje
 ----------------------------------------------------
 
-Alermed jest lekiem działającym przeciwalergicznie. [Cetyryzyna](/Cetyryzyna "wikilink"), substancja czynna leku Alermed, hamuje wczesną reakcję alergiczną poprzez zablokowanie obwodowych receptorów histaminowych H1. Alermed jest wskazany w leczeniu:
+Alermed jest lekiem działającym przeciwalergicznie. [Cetyryzyna](/atopedia/Cetyryzyna "wikilink"), substancja czynna leku Alermed, hamuje wczesną reakcję alergiczną poprzez zablokowanie obwodowych receptorów histaminowych H1. Alermed jest wskazany w leczeniu:
 
 -   przewlekłego alergicznego zapalenia błony śluzowej nosa,
 -   sezonowego alergicznego zapalenia błony śluzowej nosa (katar sienny),
@@ -186,4 +186,4 @@ Przedsiębiorstwo Farmaceutyczne LEK-AM Sp. z o.o.
 ul. Ostrzykowizna 14A
 05-170 Zakroczym
 
-[Kategoria:Leki antyhistaminowe](/Kategoria:Leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [Kategoria:Ulotki leków](/Kategoria:Ulotki_leków "wikilink")
+[Kategoria:Leki antyhistaminowe](/atopedia/Kategoria:Leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [Kategoria:Ulotki leków](/atopedia/Kategoria:Ulotki_leków "wikilink")

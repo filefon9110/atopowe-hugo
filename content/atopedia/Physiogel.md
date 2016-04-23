@@ -123,4 +123,4 @@ STIEFEL Laboratories (UK)Ltd., Holspur Lane, Wooburn Green, Bucks HP10 OAU
 MIEJSCE WYTWARZANIA: STIEFEL Laboratories (lreland) Ltd.,
 Finisklin Industrial Estate, Sligo, Irlandia
 
-[kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:szampony](/kategoria:szampony "wikilink")
+[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:szampony](/atopedia/kategoria:szampony "wikilink")

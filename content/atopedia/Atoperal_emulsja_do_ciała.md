@@ -23,7 +23,7 @@ Aqua, Paraffinum Liquidum, Glycerin, Propylene Glycol, Sodium Palmitoyl Proline,
 Wskazania:
 ----------
 
-Codzienna pielęgnacja i ochrona skóry osób z wywiadem atopowym, czyli [skóry suchej](/sucha_skóra "wikilink"), szorstkiej, z nadmiernie łuszczącym się naskórkiem, dotkniętej schorzeniami przebiegającymi z suchością i/lub świądem; pielęgnacja skóry leczonej preparatami sterydowymi, ze szczególnym uwzględnieniem długotrwałych terapii; poprawa poziomu nawilżenia [skóry atopowej](/skóra_atopowa "wikilink"), wrażliwej, skłonnej do przesuszenia, stwarzającej problemy w codziennej pielęgnacji; pielęgnacja skóry wykazującej niską tolerancję na standardowe kosmetyki pielęgnacyjne.
+Codzienna pielęgnacja i ochrona skóry osób z wywiadem atopowym, czyli [skóry suchej](/atopedia/sucha_skóra "wikilink"), szorstkiej, z nadmiernie łuszczącym się naskórkiem, dotkniętej schorzeniami przebiegającymi z suchością i/lub świądem; pielęgnacja skóry leczonej preparatami sterydowymi, ze szczególnym uwzględnieniem długotrwałych terapii; poprawa poziomu nawilżenia [skóry atopowej](/atopedia/skóra_atopowa "wikilink"), wrażliwej, skłonnej do przesuszenia, stwarzającej problemy w codziennej pielęgnacji; pielęgnacja skóry wykazującej niską tolerancję na standardowe kosmetyki pielęgnacyjne.
 
 Opis działania:
 ---------------
@@ -44,7 +44,7 @@ Sposób stosowania:
 
 Atoperal emulsję do ciała należy stosować 1-2 razy dziennie na dokładnie oczyszczoną i osuszoną skórę.
 
-Zaleca się stosowanie emulsji do ciała wraz z preparatami myjącymi z linii atoperal: [żelem do mycia ciała](/Atoperal_żel_do_mycia_ciała "wikilink") i [szamponem](/Atoperal_szampon "wikilink").
+Zaleca się stosowanie emulsji do ciała wraz z preparatami myjącymi z linii atoperal: [żelem do mycia ciała](/atopedia/Atoperal_żel_do_mycia_ciała "wikilink") i [szamponem](/atopedia/Atoperal_szampon "wikilink").
 
 Przeciwwskazania:
 -----------------
@@ -62,4 +62,4 @@ Produkt nie zawiera barwników ani sztucznych substancji zapachowych.
 
 Produkt nietestowany na zwierzętach.
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

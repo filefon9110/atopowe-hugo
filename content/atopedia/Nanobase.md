@@ -93,4 +93,4 @@ Astellas Pharma S.pA
 Via delle Industrie 1
 Carugate 20061 MI, Włochy
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

@@ -75,7 +75,7 @@ Brak doniesień dotyczących objawów przedawkowania u ludzi. Jeżeli jednak wys
 
 **Działania niepożądane**
 
-Łagodne zaburzenia ze strony górnego odcinka przewodu pokarmowego( zwłaszcza zgaga i dyspepsja oraz sporadycznie nudności i wymioty); zaparcia, trudności w oddawaniu moczu. Rzadko [reakcje alergiczne](/reakcja_alergiczna "wikilink"), przeważnie [wysypki](/wysypka "wikilink") skórne. Wyjątkowo sporadycznie notowano przypadki ciężkich [reakcji typu anafilaktycznego](/wstrząs_anafilaktyczny "wikilink"), a ich związek z przyjmowaniem ambroksolu nie jest dowiedziony.
+Łagodne zaburzenia ze strony górnego odcinka przewodu pokarmowego( zwłaszcza zgaga i dyspepsja oraz sporadycznie nudności i wymioty); zaparcia, trudności w oddawaniu moczu. Rzadko [reakcje alergiczne](/atopedia/reakcja_alergiczna "wikilink"), przeważnie [wysypki](/atopedia/wysypka "wikilink") skórne. Wyjątkowo sporadycznie notowano przypadki ciężkich [reakcji typu anafilaktycznego](/atopedia/wstrząs_anafilaktyczny "wikilink"), a ich związek z przyjmowaniem ambroksolu nie jest dowiedziony.
 
 **Przechowywanie**
 
@@ -89,4 +89,4 @@ Nie stosować po upływie terminu ważności.
 
 Butelki 100ml
 
-[kategoria:leki](/kategoria:leki "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki](/atopedia/kategoria:leki "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

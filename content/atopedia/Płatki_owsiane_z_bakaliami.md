@@ -18,4 +18,4 @@ permalink: /Płatki_owsiane_z_bakaliami/
 
 -   Jeśli mamy płatki "niebłyskawiczne", można trochę je pogotować po zalaniu wodą albo przygotować w przeddzień i pozostawić do namoknięcia na noc.
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/atopedia/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

@@ -35,4 +35,4 @@ Dostępna jest tylko jedna wielkość opakowania - 75g kosztuje około 16 zł. (
 
 Żródło: <http://www.emolienty.pl/produkty/ambilan/>
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

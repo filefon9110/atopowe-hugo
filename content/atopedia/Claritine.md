@@ -174,4 +174,4 @@ ul. Chłodna 51
 Tel.: (+48 22) 549 51 00
 Fax: (+48 22) 549 51 02
 
-[kategoria:Leki antyhistaminowe](/kategoria:Leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe III generacji](/kategoria:leki_antyhistaminowe_III_generacji "wikilink") [kategoria:Ulotki leków](/kategoria:Ulotki_leków "wikilink") [kategoria:leki zawierające loratadynę](/kategoria:leki_zawierające_loratadynę "wikilink")
+[kategoria:Leki antyhistaminowe](/atopedia/kategoria:Leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe III generacji](/atopedia/kategoria:leki_antyhistaminowe_III_generacji "wikilink") [kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink") [kategoria:leki zawierające loratadynę](/atopedia/kategoria:leki_zawierające_loratadynę "wikilink")

@@ -111,4 +111,4 @@ Allertec - tabletki powlekane, 0,01 g, 20 tabl. fiolka
 
 Allertec - tabletki powlekane, 0,01 g, 7 tabl. - bez recepty
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/kategoria:leki_antyhistaminowe_II_generacji "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink")

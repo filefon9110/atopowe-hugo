@@ -28,4 +28,4 @@ permalink: /Sałatka_z_tuńczyka/
 
 **Autor:** Megi
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/kategoria:dieta_bezmleczna "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink")

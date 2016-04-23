@@ -20,17 +20,17 @@ permalink: /Aqualan_L/
 -   PEG-5 GLYCERYL STEARATE STEARYNIAN POLIETYLENOGLIKOLO-5 GLICEROLU
 -   PHENOXYETHANOL FENOKSYETANOL
 -   CETEARETH-20 CETEARYLOETER GLIKOLU POLIETYLENOWEGO 20
--   [METHYLPARABEN](/Metyloparaben "wikilink")
--   [BUTYLPARABEN](/Butyloparaben "wikilink")
--   [ETHYLPARABEN](/Etyloparaben "wikilink")
--   [ISOBUTYLPARABEN](/Izobutyloparaben "wikilink")
--   [PROPYLPARABEN](/Propyloparaben "wikilink")
+-   [METHYLPARABEN](/atopedia/Metyloparaben "wikilink")
+-   [BUTYLPARABEN](/atopedia/Butyloparaben "wikilink")
+-   [ETHYLPARABEN](/atopedia/Etyloparaben "wikilink")
+-   [ISOBUTYLPARABEN](/atopedia/Izobutyloparaben "wikilink")
+-   [PROPYLPARABEN](/atopedia/Propyloparaben "wikilink")
 
 **Krem dostępny jest w opakowaniach:** 30 g (ok. 14 zł) i 100 g (ok. 24,5 zł). (stan na 23.04.2013)
 
 **PRODUCENT: Orion Pharma** 01-699 Warszawa ul. Parandowskiego 19 tel./fax: (+48 22) 833 31 77 (+48 22) 832 10 36 (+48 22) 832 10 37
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")
 
 -   e-mail: kontakt@orionpharma.info.pl
 -   http: www.orionpharma.info.pl

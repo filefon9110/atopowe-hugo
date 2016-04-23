@@ -19,7 +19,7 @@ Teraz trzeba jeszcze wkleić adres, czyli powiedzieć dokąd ma linkować nasz n
     Uważajcie na [url=http://www.atopowe-zapalenie.pl/zapalenie/Kortykosterydy]kortykosterydy![/url]
     </nowiki>
 
-Gotowe! nasz napis "[kortykosterydy](/Kortykosterydy "wikilink")" będzie teraz niebieskiego koloru i będzie linkiem do odpowiedniej podstrony na Atopedii.
+Gotowe! nasz napis "[kortykosterydy](/atopedia/Kortykosterydy "wikilink")" będzie teraz niebieskiego koloru i będzie linkiem do odpowiedniej podstrony na Atopedii.
 
 Po zapisaniu swojej wiadomości, sprawdź czy link działa.
 
@@ -29,4 +29,4 @@ Po zapisaniu swojej wiadomości, sprawdź czy link działa.
 
 Jeżeli ten opis jest dla ciebie zbyt trudny do zrealizowania, możesz po prostu wkleić link "gołkiem" w treści. Brzydko wygląda, ale działa.
 
-[kategoria:pomoc](/kategoria:pomoc "wikilink")
+[kategoria:pomoc](/atopedia/kategoria:pomoc "wikilink")

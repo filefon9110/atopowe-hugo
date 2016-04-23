@@ -26,4 +26,4 @@ W. Silny, M. Czarnecka-Operacz, W. Gliński, Z. Samochocki, D. Jenerowicz
 
 *Post Dermatol Alergol 2010; XXVII, 5: 365–383*
 
-[kategoria:alergia](/kategoria:alergia "wikilink") [kategoria:podstawowe wiadomości](/kategoria:podstawowe_wiadomości "wikilink") [kategoria:terapia](/kategoria:terapia "wikilink")
+[kategoria:alergia](/atopedia/kategoria:alergia "wikilink") [kategoria:podstawowe wiadomości](/atopedia/kategoria:podstawowe_wiadomości "wikilink") [kategoria:terapia](/atopedia/kategoria:terapia "wikilink")

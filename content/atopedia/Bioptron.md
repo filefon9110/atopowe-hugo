@@ -3,7 +3,7 @@ title: Bioptron
 permalink: /Bioptron/
 ---
 
-**Bioptron** - lampa firmy Zepter. Terapia światłem spolaryzowanym. Według producenta, ma ona działanie bakteriobójcze i powoduje szybszą regenerację tkanek. Stosuje się w połączeniu z [ultradźwiękami](/ultradźwięki "wikilink").
+**Bioptron** - lampa firmy Zepter. Terapia światłem spolaryzowanym. Według producenta, ma ona działanie bakteriobójcze i powoduje szybszą regenerację tkanek. Stosuje się w połączeniu z [ultradźwiękami](/atopedia/ultradźwięki "wikilink").
 
 Jej skuteczność jest wątpliwa.
 
@@ -15,4 +15,4 @@ Jej skuteczność jest wątpliwa.
 
 -   [Does Bioptron VIP (Visible Incoherent Polarized) Light Therapy heal wounds and help with skin problems?](http://skeptics.stackexchange.com/questions/5017/does-bioptron-vip-visible-incoherent-polarized-light-therapy-heal-wounds-and-h)
 
-[kategoria:Niekonwencjonalne metody leczenia](/kategoria:Niekonwencjonalne_metody_leczenia "wikilink")
+[kategoria:Niekonwencjonalne metody leczenia](/atopedia/kategoria:Niekonwencjonalne_metody_leczenia "wikilink")

@@ -6,7 +6,7 @@ permalink: /Pytania_do_pierwszej_edycji_ankiety/
 To jest strona poświęcona wspólnemu przygotowaniu pytań do ankiety internetowej. Ankieta ma na celu zebranie od internautów informacji i późniejszą ich analizę statystyczną.
 
 Proszę nie wpisywać tutaj odpowiedzi!
-Aby wypełnić ankietę, zapraszamy tutaj: [Ankieta](/Ankieta "wikilink").
+Aby wypełnić ankietę, zapraszamy tutaj: [Ankieta](/atopedia/Ankieta "wikilink").
 
 Pytania powinny być podzielone na kategorie i podkategorie - w formie drzewka. Ankieta ma być anonimowa.
 
@@ -25,7 +25,7 @@ Historia choroby
 -   Wiek w momencie pojawienia się pierwszych objawów (w latach)
 -   Sposób karmienia w okresie niemowlęcym (tylko piersią/pokarm zarówno naturalny jak i sztuczny/tylko sztuczny)
     -   Jeśli możesz wymień jakie pokarmy sztuczne przyjmowałeś/aś?
--   Poziom [IgE](/IgE "wikilink")
+-   Poziom [IgE](/atopedia/IgE "wikilink")
 -   Okresy remisji (nigdy/co kilka lat/co roku/kilka razy w roku)
 -   Czy zmiany wykazują sezonowość (korelację z porą roku)
 -   Zajęty obszar ciała (do każdego punktu: zawsze/często/rzadko/nigdy)
@@ -45,7 +45,7 @@ Historia choroby
     -   Zewnętrzne części stóp
     -   Wewnętrzne części stóp
 -   Inne zmiany skórne(czy są i jakie)
-    -   tzw.[Rybia łuska](/Rybia_łuska "wikilink")
+    -   tzw.[Rybia łuska](/atopedia/Rybia_łuska "wikilink")
     -   tzw.gęsia skórka
     -   inne(jakie?)...................
 -   Czy występują u Ciebie inne problemy alergiczne:
@@ -94,11 +94,11 @@ Wymień rodzaj i nazwy leków, które stosujesz stale lub okresowo, lub które s
 
 -   Czy stosowałaś/eś odczulanie - (nie/tak_z_dobrym_efektem/tak_bez_efektu)
     -   Ew. komentarz
--   Terapia [biorezonansem](/Biorezonans "wikilink") (nie, tak_bez_efektów, tak_z_nietrwałym_efektem, tak_z_trwałym_efektem)
+-   Terapia [biorezonansem](/atopedia/Biorezonans "wikilink") (nie, tak_bez_efektów, tak_z_nietrwałym_efektem, tak_z_trwałym_efektem)
     -   Ew. komentarz
--   Terapia [homeopatyczna](/Homeopatia "wikilink") (nie, tak_bez_efektów, tak_z_nietrwałym_efektem, tak_z_trwałym_efektem)
+-   Terapia [homeopatyczna](/atopedia/Homeopatia "wikilink") (nie, tak_bez_efektów, tak_z_nietrwałym_efektem, tak_z_trwałym_efektem)
     -   Ew. komentarz
--   Inne stosowane terapie (np. ziołolecznictwo, [akupunktura](/Akupunktura "wikilink") itp + komentarz)
+-   Inne stosowane terapie (np. ziołolecznictwo, [akupunktura](/atopedia/Akupunktura "wikilink") itp + komentarz)
 
 Ocena jakości życia
 -------------------
@@ -135,4 +135,4 @@ Profil psychiczny - jak siebie oceniasz?
 
 *Tutaj przydałoby się coś więcej. Mamy na forum taki długi wątek o temperamencie u ludzi z AZS!* -- wahwah 2004-12-29, 21:17:33
 
-[kategoria:Ankieta](/kategoria:Ankieta "wikilink")
+[kategoria:Ankieta](/atopedia/kategoria:Ankieta "wikilink")

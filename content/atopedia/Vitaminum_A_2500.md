@@ -96,4 +96,4 @@ Przedsiębiorstwo Produkcji Farmaceutycznej HASCO-LEK S.A. 51-131 Wrocław,ul.Ż
 **Pozwolenie nr 8549**
 **Data sporządzenia ulotki: 31.01.2001 r.**
 
-[kategoria:leki](/kategoria:leki "wikilink") [kategoria:leki doustne](/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki](/atopedia/kategoria:leki "wikilink") [kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

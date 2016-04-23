@@ -3,4 +3,4 @@ title: Kąpiel
 permalink: /Kąpiel/
 ---
 
-1.  REDIRECT [Kąpiele](/Kąpiele "wikilink")
+1.  REDIRECT [Kąpiele](/atopedia/Kąpiele "wikilink")

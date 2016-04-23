@@ -3,4 +3,4 @@ title: Astma
 permalink: /Astma/
 ---
 
-1.  REDIRECT [Astma oskrzelowa](/Astma_oskrzelowa "wikilink")
+1.  REDIRECT [Astma oskrzelowa](/atopedia/Astma_oskrzelowa "wikilink")

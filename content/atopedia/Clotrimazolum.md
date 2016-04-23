@@ -82,4 +82,4 @@ Przechowywać w temp. do 25 st. C, nie zamrażać .Preparat przechowywać w miej
 
 20g kremu Data ostatniej weryfikacji ulotki 21.08.2001r
 
-[kategoria:Leki przeciwgrzybicze](/kategoria:Leki_przeciwgrzybicze "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:Leki przeciwgrzybicze](/atopedia/kategoria:Leki_przeciwgrzybicze "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

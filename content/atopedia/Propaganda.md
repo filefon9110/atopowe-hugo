@@ -14,4 +14,4 @@ i kawałek kodu HTML do umieszczenia na stronie:
 
 \<a href="http://www.atopowe-zapalenie.pl"\>\<img src="http://www.atopowe-zapalenie.pl/mediawiki/images/e/ed/Atopowe-btn.png" alt="Atopowe zapalenie skóry" border="0"/\>\</a\>
 
-[kategoria:Serwis](/kategoria:Serwis "wikilink")
+[kategoria:Serwis](/atopedia/kategoria:Serwis "wikilink")

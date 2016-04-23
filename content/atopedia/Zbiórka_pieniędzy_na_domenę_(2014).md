@@ -5,7 +5,7 @@ permalink: /Zbiórka_pieniędzy_na_domenę_(2014)/
 
 <span style="font-size: 150%">Zebraliśmy całą kwotę!</span>
 
-Nasz serwis utrzymuje się niezależnie - nie mamy żadnego patronatu. Domeny są opłacane przez samych użytkowników forum. Poprzednie zbiórki pieniędzy można zobaczyć tutaj: [Zbiórki](/:kategoria:Zbiórki "wikilink")
+Nasz serwis utrzymuje się niezależnie - nie mamy żadnego patronatu. Domeny są opłacane przez samych użytkowników forum. Poprzednie zbiórki pieniędzy można zobaczyć tutaj: [Zbiórki](/atopedia/:kategoria:Zbiórki "wikilink")
 
 Musimy zebrać 730zł 62gr na przedłużenie domen "atopowe.pl" i "atopowe-zapalenie.pl" (na 3 lata). Wielkość wpłaty zależy od Was - proponujemy 10, 20 lub 30 zł, wedle chęci i możliwości.
 
@@ -43,4 +43,4 @@ Musimy zebrać 730zł 62gr na przedłużenie domen "atopowe.pl" i "atopowe-zapal
 | kajaru            | 20                                             | 2014-12-18 |
 | 28 osób           | style="text-align:left" colspan = "2" | 755,00 |
 
-[kategoria:Zbiórki](/kategoria:Zbiórki "wikilink")
+[kategoria:Zbiórki](/atopedia/kategoria:Zbiórki "wikilink")

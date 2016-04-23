@@ -157,4 +157,4 @@ W celu uzyskania bardziej szczegółowych informacji należy zwrócić się do p
 
 Biuro US Pharmacia Sp. z o.o., ul. Puławska 435A, 02-801 Warszawa, tel. 0-prefix-22-5436000.
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/kategoria:leki_antyhistaminowe_II_generacji "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink")

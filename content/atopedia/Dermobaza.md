@@ -29,4 +29,4 @@ Nie należy stosować kremu, jeśli występuje nadwrażliwość na którykolwiek
 
 GlaxoSmithKline Pharmaceuticals S.A. ul. Grunwaldzka 189 60-322 Poznań
 
-[kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:emolienty](/kategoria:emolienty "wikilink")
+[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

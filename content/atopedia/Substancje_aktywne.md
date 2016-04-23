@@ -7,6 +7,6 @@ permalink: /Substancje_aktywne/
 
 **Zobacz też**
 
--   [:Kategoria:Substancje aktywne](/:Kategoria:Substancje_aktywne "wikilink")
+-   [:Kategoria:Substancje aktywne](/atopedia/:Kategoria:Substancje_aktywne "wikilink")
 
-[\*](/kategoria:Substancje_aktywne "wikilink")
+[\*](/atopedia/kategoria:Substancje_aktywne "wikilink")

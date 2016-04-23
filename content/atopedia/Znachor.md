@@ -14,13 +14,13 @@ Polska Wikipedia opisuje pojęcie[2] **Znachor** jako nieco przestarzałe okreś
 
 ### Zobacz też
 
--   [Krytyka medycyny alternatywnej](/Krytyka_medycyny_alternatywnej "wikilink")
+-   [Krytyka medycyny alternatywnej](/atopedia/Krytyka_medycyny_alternatywnej "wikilink")
 
 ### Przypisy
 
 <references/>
-[Kategoria:Znachorstwo](/Kategoria:Znachorstwo "wikilink")
+[Kategoria:Znachorstwo](/atopedia/Kategoria:Znachorstwo "wikilink")
 
 [1] [Jak definiować znachorstwo](http://blog.atopowe.pl/2008/01/18/jak-definiowac-znachorstwo/)
 
-[2] [Znachor](/wikipedia:Znachor "wikilink") w Polskiej Wikipedii
+[2] [Znachor](/atopedia/wikipedia:Znachor "wikilink") w Polskiej Wikipedii

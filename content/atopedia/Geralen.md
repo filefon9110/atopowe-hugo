@@ -59,4 +59,4 @@ Ograniczone doświadczenia ze stosowaniem leku w okresie ciąży, należy zatem 
 
 Nie wiadomo czy lek przenika do mleka matki, należy zatem zasięgnąć opinii lekarza w razie zamiaru stosowania leku w okresie karmienia dziecka piersią.
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

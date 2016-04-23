@@ -61,4 +61,4 @@ Dla ciekawskich, podsumowanie ankiety testowej, w formie podawanej przez pakiet 
      Yes:26                         yes_limited_effect: 3
                                     yes_no_effect     : 9
 
-[kategoria:Ankieta](/kategoria:Ankieta "wikilink")
+[kategoria:Ankieta](/atopedia/kategoria:Ankieta "wikilink")

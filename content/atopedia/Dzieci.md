@@ -3,4 +3,4 @@ title: Dzieci
 permalink: /Dzieci/
 ---
 
-1.  REDIRECT [Dziecko](/Dziecko "wikilink")
+1.  REDIRECT [Dziecko](/atopedia/Dziecko "wikilink")

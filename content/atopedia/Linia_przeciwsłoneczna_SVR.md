@@ -50,4 +50,4 @@ Wysoka ochrona przeciwsłoneczna skóry wrażliwej dla dzieci i dorosłych. Poł
 
 Podstawowa ochrona przeciwsłoneczna skóry wrażliwej dzieci i dorosłych. Połączenei ekranów mineralnych i chemicznych. Pojemność 100 ml.
 
-[kategoria:kosmetyki](/kategoria:kosmetyki "wikilink")
+[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

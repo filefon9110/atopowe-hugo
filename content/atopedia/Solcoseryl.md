@@ -55,4 +55,4 @@ W temperaturze pokojowej tj. od 15st.C do 25 st.C .
 
 Tuby zawierające 20g maści.
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

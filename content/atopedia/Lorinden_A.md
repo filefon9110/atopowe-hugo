@@ -20,7 +20,7 @@ CO TO JEST LEK LORINDEN A MAŚĆ I W JAKIM CELU SIĘ GO STOSUJE
 
 Lorinden A w postaci maści jest lekiem do stosowania na skórę, zawiera substancje czynne flumetazonu piwalan i kwas salicylowy.
 
-Flumetazonu piwalan jest lekiem z grupy [kortykosteroidów](/sterydy "wikilink") o umiarkowanie silnym działaniu przeciwzapalnym, stosowany miejscowo na skórę wykazuje działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
+Flumetazonu piwalan jest lekiem z grupy [kortykosteroidów](/atopedia/sterydy "wikilink") o umiarkowanie silnym działaniu przeciwzapalnym, stosowany miejscowo na skórę wykazuje działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
 
 Kwas salicylowy wykazuje słabe działanie złuszczające oraz ułatwia przenikanie flumetazonu piwalan przez nadmiernie zrogowaciały naskórek.
 
@@ -51,7 +51,7 @@ Jeśli podczas stosowania leku wystąpią objawy podrażnienia, uczulenia lub na
 
 Nie stosować bez przerwy dłużej niż przez 2 tygodnie.
 
-Kortykosteroidy i kwas salicylowy wchłaniają się przez skórę. Dlatego podczas stosowania leku istnieje ryzyko wystąpienia ogólnoustrojowych objawów niepożądanych kortykosteroidów (w tym zahamowanie czynności kory nadnerczy, zmniejszenie stężenia kortyzolu we krwi, [zespół Cushinga](/zespół_Cushinga "wikilink")) oraz kwasu salicylowego. Z tego względu należy unikać podawania leku na dużą powierzchnię skóry, rany, uszkodzoną skórę, stosowania w dużych dawkach, a także długotrwałego leczenia lekiem.
+Kortykosteroidy i kwas salicylowy wchłaniają się przez skórę. Dlatego podczas stosowania leku istnieje ryzyko wystąpienia ogólnoustrojowych objawów niepożądanych kortykosteroidów (w tym zahamowanie czynności kory nadnerczy, zmniejszenie stężenia kortyzolu we krwi, [zespół Cushinga](/atopedia/zespół_Cushinga "wikilink")) oraz kwasu salicylowego. Z tego względu należy unikać podawania leku na dużą powierzchnię skóry, rany, uszkodzoną skórę, stosowania w dużych dawkach, a także długotrwałego leczenia lekiem.
 
 W przypadku zakażenia skóry w leczonym miejscu, lekarz zastosuje odpowiednie leczenie przeciwbakteryjne lub przeciwgrzybicze. Jeżeli objawy zakażenia utrzymują się, należy skontaktować się z lekarzem. Lekarz zadecyduje, czy leczenie powinno być przerwane do czasu wyleczenia zakażenia.
 
@@ -65,7 +65,7 @@ Stosowanie leku pod opatrunkiem ściśle uszczelniającym należy ograniczyć do
 
 Ostrożnie stosować w stanach zanikowych tkanki podskórnej, zwłaszcza u osób w podeszłym wieku.
 
-Szczególnie ostrożnie stosować u pacjentów z [łuszczycą](/łuszczyca "wikilink"), gdyż miejscowe stosowanie kortykosteroidów w łuszczycy może być niebezpieczne z wielu powodów, w tym ze względu na nawrót choroby spowodowany rozwojem tolerancji, ryzyko wystąpienia uogólnionej łuszczycy krostkowej i ogólne działania toksyczne spowodowane zaburzeniem ciągłości skóry.
+Szczególnie ostrożnie stosować u pacjentów z [łuszczycą](/atopedia/łuszczyca "wikilink"), gdyż miejscowe stosowanie kortykosteroidów w łuszczycy może być niebezpieczne z wielu powodów, w tym ze względu na nawrót choroby spowodowany rozwojem tolerancji, ryzyko wystąpienia uogólnionej łuszczycy krostkowej i ogólne działania toksyczne spowodowane zaburzeniem ciągłości skóry.
 
 Ostrożnie stosować u dzieci w wieku powyżej 2 lat.
 
@@ -209,4 +209,4 @@ fax. (075) 752 44 55
 
 e-mail: jelfa@jelfa.com.pl
 
-[kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:maści](/kategoria:maści "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

@@ -3,4 +3,4 @@ title: Palenie
 permalink: /Palenie/
 ---
 
-1.  Redirect [Papierosy](/Papierosy "wikilink")
+1.  Redirect [Papierosy](/atopedia/Papierosy "wikilink")

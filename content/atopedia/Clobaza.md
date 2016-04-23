@@ -40,4 +40,4 @@ Preparat tylko do użytku zewnętrznego. Krem nakładać cienka warstwą na umyt
 -   Przechowywać w miejscu niedostępnym dla dzieci.
 -   Przed zastosowaniem należy sprawdzić termin ważności podany na opakowaniu i nie stosować preparatu po jego upływie.
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

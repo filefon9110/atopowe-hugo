@@ -19,4 +19,4 @@ Obrazka można używać na wielu stronach, wstawiając [[/Grafika:PrzykładowaNa
 
 Nazwy plików z obrazkami powinny zawierać tylko litery i cyfry, ew. podkreślnik "_" i minus "-". Nie należy wysyłać plików z polskimi literami lub spacjami w nazwach.
 
-[kategoria:pomoc](/kategoria:pomoc "wikilink")
+[kategoria:pomoc](/atopedia/kategoria:pomoc "wikilink")

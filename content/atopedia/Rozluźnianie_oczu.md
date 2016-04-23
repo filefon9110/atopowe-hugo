@@ -11,6 +11,6 @@ Zamknij oczy, zdejmij dłonie. Powoli otwórz oczy.
 
 **Zobacz też**
 
--   [Techniki relaksacyjne](/Techniki_relaksacyjne "wikilink")
+-   [Techniki relaksacyjne](/atopedia/Techniki_relaksacyjne "wikilink")
 
-[kategoria:Psychika](/kategoria:Psychika "wikilink")
+[kategoria:Psychika](/atopedia/kategoria:Psychika "wikilink")

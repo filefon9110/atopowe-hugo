@@ -38,4 +38,4 @@ ul. Poleczki 21.
 
 02-822 Warszawa
 
-[kategoria:antybiotyki](/kategoria:antybiotyki "wikilink") [kategoria:leki przeciwgrzybicze](/kategoria:leki_przeciwgrzybicze "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:leki przeciwgrzybicze](/atopedia/kategoria:leki_przeciwgrzybicze "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

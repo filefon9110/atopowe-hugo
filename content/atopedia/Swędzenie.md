@@ -3,4 +3,4 @@ title: Swędzenie
 permalink: /Swędzenie/
 ---
 
-1.  Redirect [świąd](/świąd "wikilink")
+1.  Redirect [świąd](/atopedia/świąd "wikilink")

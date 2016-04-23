@@ -21,7 +21,7 @@ Pirytionian cynku jest czynnikiem bakteriostatycznym i przeciwgrzybiczym ogranic
 
 Leczenie zaburzeń owłosionej skóry głowy, takich jak:
 
--   [łuszczyca](/łuszczyca "wikilink"),
+-   [łuszczyca](/atopedia/łuszczyca "wikilink"),
 -   łupież,
 -   łojotok,
 -   stany zapalne skóry,
@@ -63,4 +63,4 @@ Butelka 150, 250, 500 ml.
 
 Stiefel Laboratories (UK) LTD.
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:szampony](/kategoria:szampony "wikilink") [kategoria:leki przeciwgrzybicze](/kategoria:leki_przeciwgrzybicze "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:szampony](/atopedia/kategoria:szampony "wikilink") [kategoria:leki przeciwgrzybicze](/atopedia/kategoria:leki_przeciwgrzybicze "wikilink")

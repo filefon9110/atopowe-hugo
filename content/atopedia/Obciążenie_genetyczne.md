@@ -3,7 +3,7 @@ title: Obciążenie genetyczne
 permalink: /Obciążenie_genetyczne/
 ---
 
-W chorobach alergicznych ([atopowych](/atopia "wikilink")) dziedziczona jest nie dana choroba, a skłonność [układu immunologicznego](/układ_immunologiczny "wikilink") do [reakcji alergicznych](/reakcja_alergiczna "wikilink"), czyli [atopia](/Atopia "wikilink"). Genetyczne podłoże tej choroby stwierdza się zazwyczaj w wywiadzie lekarskim.
+W chorobach alergicznych ([atopowych](/atopedia/atopia "wikilink")) dziedziczona jest nie dana choroba, a skłonność [układu immunologicznego](/atopedia/układ_immunologiczny "wikilink") do [reakcji alergicznych](/atopedia/reakcja_alergiczna "wikilink"), czyli [atopia](/atopedia/Atopia "wikilink"). Genetyczne podłoże tej choroby stwierdza się zazwyczaj w wywiadzie lekarskim.
 
 Ryzyko wystąpienia alergii u dziecka pod dowolna postacią, w przypadku gdy jedno z rodziców ma atopię wynosi 30%, w przypadku gdy oboje rodzice są alergikami ryzyko wzrasta do 75%. Atopia może jednak „przeczekać” i ujawnić się w następnym pokoleniu.
 
@@ -15,7 +15,7 @@ Stwierdzono także rodzinne występowanie azs, szczególnie u bliźniąt monozyg
 
 ### Geny związane z azs
 
-Geny związane z azs należą do grupy Epidermal Differentiation Complex (EDC). Geny te kodują białka odpowiedzialne za końcowe etapy różnicowania komórek naskórka. Należy do nich m.in. [filagryna](/Filagryna "wikilink"). Mutacja genu dla filagryny silnie koreluje z występowaniem azs i astmy związanej z azs (nie dotyczy to izolowanej postaci astmy). Być może więc astma u pacjentów z azs jest wtórna do uczulenia na alergeny przenikające do uszkodzonej skóry.
+Geny związane z azs należą do grupy Epidermal Differentiation Complex (EDC). Geny te kodują białka odpowiedzialne za końcowe etapy różnicowania komórek naskórka. Należy do nich m.in. [filagryna](/atopedia/Filagryna "wikilink"). Mutacja genu dla filagryny silnie koreluje z występowaniem azs i astmy związanej z azs (nie dotyczy to izolowanej postaci astmy). Być może więc astma u pacjentów z azs jest wtórna do uczulenia na alergeny przenikające do uszkodzonej skóry.
 
 Odsetek nosicieli mutacji genu dla filagryny wynosi kilka procent populacji ogólnej. Wśród osób, u których występują te mutacje, częściej występuje zewnątrzpochodne azs, które charakteryzują:
 
@@ -30,6 +30,6 @@ Poznane dotychczas występujące w Europie mutacje genu dla filagryny występuj�
 ### Bibliografia
 
 <references/>
-[kategoria:przyczyny atopowego zapalenia skóry](/kategoria:przyczyny_atopowego_zapalenia_skóry "wikilink")
+[kategoria:przyczyny atopowego zapalenia skóry](/atopedia/kategoria:przyczyny_atopowego_zapalenia_skóry "wikilink")
 
 [1]

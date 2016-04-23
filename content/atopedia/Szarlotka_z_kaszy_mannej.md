@@ -18,4 +18,4 @@ Podobno taka szarlotka nie ma szans się przypalić i zawsze się udaje;
 
 Do jabłek można dodać różne dodatki, co kto może jeść (trochę cynamonu, namoczone rodzynki, orzechy itp).
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

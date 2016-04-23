@@ -34,4 +34,4 @@ Ostre zapalenie spojówek i katar sienny
 
 *(Rokowania co do dalszego przebiegu choroby. U większości będzie to informacja o tym że pacjent wymaga stałej opieki i stosowane terapie nie miały długotrwałego efektu (następowały nawroty choroby, etc.))*
 
-[Kategoria:Refundacja i pisma](/Kategoria:Refundacja_i_pisma "wikilink")
+[Kategoria:Refundacja i pisma](/atopedia/Kategoria:Refundacja_i_pisma "wikilink")

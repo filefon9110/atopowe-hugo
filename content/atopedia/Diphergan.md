@@ -47,4 +47,4 @@ Dorośli doustnie 20-50 mg 1-3 razy na 24 h (jeśli lek jest podawany w jednej d
 
 Podobnie jak inne leki przeciwhistaminowe lek należy odstawić na kilka dni przed wykonaniem testów skórnych. Podczas długotrwałego leczenia należy kontrolować obraz krwi i czynność wątroby.
 
-[kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe I generacji](/kategoria:Leki_antyhistaminowe_I_generacji "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe I generacji](/atopedia/kategoria:Leki_antyhistaminowe_I_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

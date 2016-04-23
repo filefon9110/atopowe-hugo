@@ -7,11 +7,11 @@ permalink: /Delatar/
 
 **Działanie**
 
-Mechanizm działania smoły węglowej nie jest znany. Smoła węglowa słabo drażni skórę. Działa odkażająco i keratoplastycznie oraz łagodzi [świąd](/świąd "wikilink"). W małym stężeniu smoła węglowa jest praktycznie nieszkodliwa. Smoły zwiększają wrażliwość skóry na promienie słoneczne. Dzięki temu działaniu od wielu lat są stosowane ze słonecznymi lub nadfioletowymi promieniami w metodzie Goeckermans'a leczenia łuszczycy.
+Mechanizm działania smoły węglowej nie jest znany. Smoła węglowa słabo drażni skórę. Działa odkażająco i keratoplastycznie oraz łagodzi [świąd](/atopedia/świąd "wikilink"). W małym stężeniu smoła węglowa jest praktycznie nieszkodliwa. Smoły zwiększają wrażliwość skóry na promienie słoneczne. Dzięki temu działaniu od wielu lat są stosowane ze słonecznymi lub nadfioletowymi promieniami w metodzie Goeckermans'a leczenia łuszczycy.
 
 **Wskazania**
 
--   [łuszczyca](/łuszczyca "wikilink"),
+-   [łuszczyca](/atopedia/łuszczyca "wikilink"),
 -   wyprysk,
 -   łojotok,
 -   przyłuszczyca,
@@ -38,6 +38,6 @@ Delatar nakłada się na miejsca chorobowo zmienione dwa lub trzy razy dziennie.
 
 Tuby po 50 g.
 
-**Patrz:** [Maści z dziegciem](/Maści_z_dziegciem "wikilink")
+**Patrz:** [Maści z dziegciem](/atopedia/Maści_z_dziegciem "wikilink")
 
-[kategoria:maści z dziegciem](/kategoria:maści_z_dziegciem "wikilink") [kategoria:maści](/kategoria:maści "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:maści z dziegciem](/atopedia/kategoria:maści_z_dziegciem "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

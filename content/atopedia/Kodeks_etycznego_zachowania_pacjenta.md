@@ -18,4 +18,4 @@ Na wszelki wypadek zaznaczamy, że niniejsza strona jest nie do końca na poważ
 
 ------------------------------------------------------------------------
 
-[kategoria:humor](/kategoria:humor "wikilink")
+[kategoria:humor](/atopedia/kategoria:humor "wikilink")

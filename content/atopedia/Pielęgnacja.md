@@ -5,13 +5,13 @@ permalink: /Pielęgnacja/
 
 **Pielęgnacja** skóry atopowej jest konieczna do utrzymywania jej w dobrym stanie. Do pielęgnacji skóry należą:
 
--   [Natłuszczanie](/Natłuszczanie "wikilink")
--   [Nawilżanie](/Nawilżanie "wikilink")
--   [Kąpiele](/Kąpiele "wikilink")
+-   [Natłuszczanie](/atopedia/Natłuszczanie "wikilink")
+-   [Nawilżanie](/atopedia/Nawilżanie "wikilink")
+-   [Kąpiele](/atopedia/Kąpiele "wikilink")
 
 **Zobacz też**
 
--   **[Kosmetyki](/:kategoria:kosmetyki "wikilink")**
--   [Pielęgnacja dłoni](/Pielęgnacja_dłoni "wikilink")
+-   **[Kosmetyki](/atopedia/:kategoria:kosmetyki "wikilink")**
+-   [Pielęgnacja dłoni](/atopedia/Pielęgnacja_dłoni "wikilink")
 
-[\*](/kategoria:Pielęgnacja "wikilink")
+[\*](/atopedia/kategoria:Pielęgnacja "wikilink")

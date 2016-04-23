@@ -25,10 +25,10 @@ Pliki komputerowe
 
 Zależy nam, abyście używali legalnego oprogramowania.
 
-Mamy świadomość, że większość tekstów będziecie pisać na swoich domowych komputerach. Pakiet oprogramowania biurowego Microsoftu jest drogi (kosztuje tyle co 10 tubek [Protopiku](/Protopic "wikilink")!) i prawdopodobnie wolicie inaczej inwestować Wasze pieniądze. Więc, zamiast pisać w Wordzie, możecie pisać **zwykłe pliki tekstowe** (`.txt`) w Notatniku lub programie WordPad - większość pisanych dokumentów jest tak prostych, że w plik tekstowy jest z zupełności wystarczający.
+Mamy świadomość, że większość tekstów będziecie pisać na swoich domowych komputerach. Pakiet oprogramowania biurowego Microsoftu jest drogi (kosztuje tyle co 10 tubek [Protopiku](/atopedia/Protopic "wikilink")!) i prawdopodobnie wolicie inaczej inwestować Wasze pieniądze. Więc, zamiast pisać w Wordzie, możecie pisać **zwykłe pliki tekstowe** (`.txt`) w Notatniku lub programie WordPad - większość pisanych dokumentów jest tak prostych, że w plik tekstowy jest z zupełności wystarczający.
 
 Jeżeli już chcecie pisać teksty w pakiecie biurowym (czyli programie podobnym do MS Worda), użyjcie darmowego pakietu biurowego **[OpenOffice](http://pl.openoffice.org)** lub **[LibreOffice](http://pl.libreoffice.org)**. Pakiety te mogą być używany za darmo do wszelkich celów, w tym komercyjnych. **Oba pakiety czytają i zapisują pliki ".doc"**.
 
 Jeżeli posiadacie program Microsoft Word, napisane przez siebie teksty przysyłajcie w formacie RTF. Aby to zrobić należy wybrać z menu Plik opcję "Zapisz jako..." i po otwarciu okienka wybrać format "Rich Text Format (RTF)".
 
-[kategoria:Serwis](/kategoria:Serwis "wikilink")
+[kategoria:Serwis](/atopedia/kategoria:Serwis "wikilink")

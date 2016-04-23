@@ -3,9 +3,9 @@ title: Apteki sprzedające Protopic
 permalink: /Apteki_sprzedające_Protopic/
 ---
 
-Poniższa tabela zawiera dane aptek, które sprzedają [Protopic](/Protopic "wikilink").'''
+Poniższa tabela zawiera dane aptek, które sprzedają [Protopic](/atopedia/Protopic "wikilink").'''
 
-'''Zobacz również: ''' [Gdzie kupić Protopic](/Gdzie_kupić_Protopic "wikilink")
+'''Zobacz również: ''' [Gdzie kupić Protopic](/atopedia/Gdzie_kupić_Protopic "wikilink")
 
 Lista aptek
 -----------
@@ -670,4 +670,4 @@ Lista aptek
 | apteka Nova Centrum            |
 | apteka Ratuszowa               |
 
-[kategoria:leki immunosupresyjne](/kategoria:leki_immunosupresyjne "wikilink")
+[kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink")

@@ -72,7 +72,7 @@ Odnośniki
 ---------
 
 <references />
-[Kategoria:Zbiórki](/Kategoria:Zbiórki "wikilink")
+[Kategoria:Zbiórki](/atopedia/Kategoria:Zbiórki "wikilink")
 
 [1]
 

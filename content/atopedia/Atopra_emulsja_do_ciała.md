@@ -37,4 +37,4 @@ Nazwa i adres miejsca wytwarzania: Laboratorium Farmaceutyczne Homeofarm Sp. z o
 
 **<http://www.jelfa.pl>**
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink") [kategoria:kosmetyki](/kategoria:kosmetyki "wikilink") [kategoria:preparaty zawierające mocznik](/kategoria:preparaty_zawierające_mocznik "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

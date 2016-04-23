@@ -5,7 +5,7 @@ permalink: /Unibasis/
 
 **UNIBASIS** emulsja 130g
 
-Emulsja Unibasis stosowana jest wspomagająco w miejscowym leczeniu i łagodzeniu zmian skórnych na tle [atopowego zapalenia skóry](/AZS "wikilink") ([wyprysk](/wyprysk "wikilink"), świerzbiączka, [pokrzywka](/pokrzywka "wikilink")). Łagodzenie świądu starczego. Pielęgnacja wszystkich rodzajów skóry (także skóry wrażliwej) oraz obszarów skóry po przebytym urazie lub zabiegu chirurgicznym.
+Emulsja Unibasis stosowana jest wspomagająco w miejscowym leczeniu i łagodzeniu zmian skórnych na tle [atopowego zapalenia skóry](/atopedia/AZS "wikilink") ([wyprysk](/atopedia/wyprysk "wikilink"), świerzbiączka, [pokrzywka](/atopedia/pokrzywka "wikilink")). Łagodzenie świądu starczego. Pielęgnacja wszystkich rodzajów skóry (także skóry wrażliwej) oraz obszarów skóry po przebytym urazie lub zabiegu chirurgicznym.
 
 Skład
 -----
@@ -15,8 +15,8 @@ Aqua, Vaselinum Album, Cetearyl Alkohol, Polysorbate 60, Glycerin, Panthenol, Gl
 Działanie
 ---------
 
--   nawilża, uelastycznia, regeneruje [atopową, podrażnioną skórę](/skóra_atopowa "wikilink"),
--   łagodzi napięcie, [łuszczenie](/łuszczenie "wikilink"), [swędzenie](/świąd "wikilink") i pękanie skóry wysuszonej wskutek starzenia lub pod wpływem czynników zewnętrznych (woda, słońce, suche powietrze, chemikalia itp.),
+-   nawilża, uelastycznia, regeneruje [atopową, podrażnioną skórę](/atopedia/skóra_atopowa "wikilink"),
+-   łagodzi napięcie, [łuszczenie](/atopedia/łuszczenie "wikilink"), [swędzenie](/atopedia/świąd "wikilink") i pękanie skóry wysuszonej wskutek starzenia lub pod wpływem czynników zewnętrznych (woda, słońce, suche powietrze, chemikalia itp.),
 -   dzięki zawartości 5% panthenolu przynosi ulgę w odparzeniach i oparzeniach skóry (w tym słonecznych),
 -   przywraca naturalną warstwę ochronną, skóra staje się miękka, gładka, elastyczna.
 
@@ -34,4 +34,4 @@ Pampa Piaseczno ul. Kościuszki 24
 
 cena ok 8-10 zł
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:emolienty](/kategoria:emolienty "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

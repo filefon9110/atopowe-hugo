@@ -19,4 +19,4 @@ Polecanie diety "optymalnej" jako sposobu prawidłowego żywienia na całe życi
 -   [Koniec królowania Diety Atkinsa](http://www.izz.waw.pl/wwzz/eufic_art_50.html)
 -   [Opinia Instytutu Żywności i Żywienia w sprawie diety „optymalnej”](http://www.izz.waw.pl/wwzz/opinie-13.html)
 
-[Kategoria:Wpadki](/Kategoria:Wpadki "wikilink")
+[Kategoria:Wpadki](/atopedia/Kategoria:Wpadki "wikilink")

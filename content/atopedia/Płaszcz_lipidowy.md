@@ -3,7 +3,7 @@ title: Płaszcz lipidowy
 permalink: /Płaszcz_lipidowy/
 ---
 
-**Płaszcz lipidowy** jest zbiorem substancji pokrywających [naskórek](/naskórek "wikilink"), chroniących warstwę rogową przed utratą wilgotności.
+**Płaszcz lipidowy** jest zbiorem substancji pokrywających [naskórek](/atopedia/naskórek "wikilink"), chroniących warstwę rogową przed utratą wilgotności.
 
 Grubość płaszcza:
 
@@ -19,4 +19,4 @@ Szybkość odnowy lipidów zależy od liczby i wielkości gruczołów łojowych,
 
 -
 
-[kategoria:ciało człowieka](/kategoria:ciało_człowieka "wikilink")
+[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

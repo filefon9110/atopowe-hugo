@@ -34,4 +34,4 @@ Poinformuj lekarza
 
 -   Jeśli jesteś lub przypuszczasz, że jesteś w ciąży, a także gdy karmisz piersią.
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:antybiotyki](/kategoria:antybiotyki "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink")

@@ -17,4 +17,4 @@ Warto stosować dwa razy dziennie – nanosić na umytą i osuszoną skórę. Sz
 
 koszt ok.65-70 zł
 
-[kategoria:kremy](/kategoria:kremy "wikilink")
+[kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

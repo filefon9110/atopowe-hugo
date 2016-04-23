@@ -204,7 +204,7 @@ Krótkotrwałe leczenie następujących powierzchniowych zakażeń skórnych:
 -   Liszajec.
 -   Zakażone niewielkie rany szarpane, otarcia lub rany szyte.
 
-W punktach 2.4.4 i 2.5.1 znajdują się ważne informacje dotyczące klinicznego działania retapamuliny przeciwko różnym rodzajom *[Staphylococcus aureus](/Staphylococcus_aureus "wikilink")*.
+W punktach 2.4.4 i 2.5.1 znajdują się ważne informacje dotyczące klinicznego działania retapamuliny przeciwko różnym rodzajom *[Staphylococcus aureus](/atopedia/Staphylococcus_aureus "wikilink")*.
 
 Należy wziąć pod uwagę oficjalne wytyczne dotyczące właściwego stosowania środków przeciwbakteryjnych.
 
@@ -442,4 +442,4 @@ Retapamulina była podawana ciężarnym królikom w ciągłym wlewie dożylnym o
 
 Nie przeprowadzono badań oceniających wpływ retapamuliny na rozwój prenatalny / postnatalny. Jednakże, nie zaobserwowano występowania uogólnionego wpływu na młodociane szczury, u których stosowano zewnętrznie maść z reptamuliną.
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:maści](/kategoria:maści "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink")

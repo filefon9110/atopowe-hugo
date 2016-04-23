@@ -14,4 +14,4 @@ permalink: /Bułeczki_bez_drożdzy_i_proszku_do_pieczenia/
 
 -   Wszystkie składniki wymieszać w malakserze, formować okrągłe bułeczki i piec około 20 minut.
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/kategoria:dieta_hipoalergiczna "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/atopedia/kategoria:dieta_hipoalergiczna "wikilink")

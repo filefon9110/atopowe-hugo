@@ -23,4 +23,4 @@ OTO I AGA PIET :)(tak dla odmiany w kolorze :) )
 
 [thumb|center|510px|od lewej: Brummig, Fiołek, Hofek, Aga Piet, Dexter, Wiosna](/Grafika:art_deco.jpg "wikilink")
 
-[kategoria:Spotkania](/kategoria:Spotkania "wikilink")
+[kategoria:Spotkania](/atopedia/kategoria:Spotkania "wikilink")

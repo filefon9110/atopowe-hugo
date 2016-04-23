@@ -202,4 +202,4 @@ Glenmark Pharmaceuticals Sp. z o. o.
 ul. Postępu 6
 02-676 Warszawa
 
-[kategoria:Leki antyhistaminowe](/kategoria:Leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe III generacji](/kategoria:leki_antyhistaminowe_III_generacji "wikilink") [kategoria:Ulotki leków](/kategoria:Ulotki_leków "wikilink")
+[kategoria:Leki antyhistaminowe](/atopedia/kategoria:Leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe III generacji](/atopedia/kategoria:leki_antyhistaminowe_III_generacji "wikilink") [kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink")

@@ -26,7 +26,7 @@ Kwas salicylowy w stężeniu 5% wywiera działanie keratolityczne (złuszczając
 
 Obie substancje czynne zawarte w maści wzmacniają wzajemnie swoje działanie, co pozwala na zastosowanie niższego stężenia kwasu salicylowego i zmniejsza możliwość niepożądanego działania ogólnoustrojowego tego związku. Podstawa (podłoże) maści silnie natłuszcza i zmiękcza skórę, wzmacniając tym samym keratolityczne działanie substancji czynnych. Nie podrażnia skóry i nie powoduje uczuleń.
 
-Lek SolcoKerasal stosowany jest w chorobach przebiegających z [łuszczeniem](/łuszczenie "wikilink") i nadmiernym rogowaceniem skóry, w tym skóry owłosionej, takich jak: [łuszczyca](/łuszczyca "wikilink"), [rybia łuska](/rybia_łuska "wikilink"), wyprysk z [lichenizacją](/lichenizacja "wikilink") skóry. Jest również zalecany w leczeniu i pielęgnacji skóry z rogowaceniem mieszkowym i nadmiernym rogowaceniem stóp i dłoni. Zwiększa miękkość i elastyczność zbyt grubej, suchej i pękającej skóry, szczególnie na piętach.
+Lek SolcoKerasal stosowany jest w chorobach przebiegających z [łuszczeniem](/atopedia/łuszczenie "wikilink") i nadmiernym rogowaceniem skóry, w tym skóry owłosionej, takich jak: [łuszczyca](/atopedia/łuszczyca "wikilink"), [rybia łuska](/atopedia/rybia_łuska "wikilink"), wyprysk z [lichenizacją](/atopedia/lichenizacja "wikilink") skóry. Jest również zalecany w leczeniu i pielęgnacji skóry z rogowaceniem mieszkowym i nadmiernym rogowaceniem stóp i dłoni. Zwiększa miękkość i elastyczność zbyt grubej, suchej i pękającej skóry, szczególnie na piętach.
 
 Informacje ważne przed zastosowaniem leku SolcoKerasal
 ======================================================
@@ -163,4 +163,4 @@ ul. Przemysłowa 2
 
 tel. (48 17) 865 51 00
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:maści](/kategoria:maści "wikilink") [kategoria:preparaty zawierające mocznik](/kategoria:preparaty_zawierające_mocznik "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

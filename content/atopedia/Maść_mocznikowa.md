@@ -3,7 +3,7 @@ title: Maść mocznikowa
 permalink: /Maść_mocznikowa/
 ---
 
-[Maść mocznikowa](/Maść_mocznikowa "wikilink") **(Urea)**
+[Maść mocznikowa](/atopedia/Maść_mocznikowa "wikilink") **(Urea)**
 
 Stosowana do codziennej pielęgnacji skóry suchej - opakowanie 100g kosztuje 5 zł w aptece na receptę (wg. stanu na 07.03.2010 r).
 
@@ -18,4 +18,4 @@ Skład maści mocznikowej:
 *Lanolini anhydrici*
 *Vaselini albi aa ad 100,0* (czyli w równych częściach mieszanina obu podłoży do 100,0)
 
-[kategoria:Maści](/kategoria:Maści "wikilink") [kategoria:preparaty zawierające mocznik](/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:Przepisy na maści robione](/kategoria:Przepisy_na_maści_robione "wikilink")
+[kategoria:Maści](/atopedia/kategoria:Maści "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

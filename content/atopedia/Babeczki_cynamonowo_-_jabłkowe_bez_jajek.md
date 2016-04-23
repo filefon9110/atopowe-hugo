@@ -25,4 +25,4 @@ Posypać cukrem trzcinowym lub cukrem pudrem
 
 Smacznego!
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

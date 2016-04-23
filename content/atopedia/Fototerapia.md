@@ -3,6 +3,6 @@ title: Fototerapia
 permalink: /Fototerapia/
 ---
 
-1.  Redirect [Światłoterapia](/Światłoterapia "wikilink")
+1.  Redirect [Światłoterapia](/atopedia/Światłoterapia "wikilink")
 
-[kategoria:terapia](/kategoria:terapia "wikilink")
+[kategoria:terapia](/atopedia/kategoria:terapia "wikilink")

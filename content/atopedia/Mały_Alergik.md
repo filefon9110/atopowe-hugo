@@ -9,4 +9,4 @@ Link do strony:
 
 -   <http://malyalergik.pl/>
 
-[kategoria:strony o atopowym zapaleniu skóry](/kategoria:strony_o_atopowym_zapaleniu_skóry "wikilink")
+[kategoria:strony o atopowym zapaleniu skóry](/atopedia/kategoria:strony_o_atopowym_zapaleniu_skóry "wikilink")

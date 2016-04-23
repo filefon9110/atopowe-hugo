@@ -13,4 +13,4 @@ Rp.
 *Vaselini albi*
 *Eucerini aa ad 200,0*
 *M.f. Ung.*
- [kategoria:Maści](/kategoria:Maści "wikilink") [kategoria:Przepisy na maści robione](/kategoria:Przepisy_na_maści_robione "wikilink")
+ [kategoria:Maści](/atopedia/kategoria:Maści "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

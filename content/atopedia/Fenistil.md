@@ -136,4 +136,4 @@ Novartis Consumer Health SA, Nyon, Szwajcaria
 
 Październik 1999 r.
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe I generacji](/kategoria:Leki_antyhistaminowe_I_generacji "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe I generacji](/atopedia/kategoria:Leki_antyhistaminowe_I_generacji "wikilink")

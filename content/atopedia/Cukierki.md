@@ -16,4 +16,4 @@ permalink: /Cukierki/
 -   Podnosimy z gazu (nie podgrzewamy więcej) dodajemy płatki, tyle by zrównoważyć ilość płatków i karmelu.
 -   Można formować kuleczki, nałożyć na salaterkę, odczekać aż wystygną.
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/atopedia/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

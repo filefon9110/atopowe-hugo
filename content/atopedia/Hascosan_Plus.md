@@ -27,4 +27,4 @@ Kontakt informacyjny: tel. 71 352 95 22
 
 e-mail: marketing@hasco-lek.pl
 
-[kategoria:emolienty](/kategoria:emolienty "wikilink") [kategoria:preparaty zawierające mocznik](/kategoria:preparaty_zawierające_mocznik "wikilink")
+[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

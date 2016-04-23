@@ -3,7 +3,7 @@ title: Cyklosporyna
 permalink: /Cyklosporyna/
 ---
 
-[Lek immunosupresyjny](/Leki_immunosupresyjne "wikilink") stosowany w ciężkim atopowym zapaleniu skóry. W przeciwieństwie do leków stosowanych miejscowo, cyklosporyna działa systemowo, czyli na cały organizm. Działa hamująco na uwalnianie prozapalnych [cytokin](/cytokiny "wikilink") IL-1, IL-2, IFN-gamma.
+[Lek immunosupresyjny](/atopedia/Leki_immunosupresyjne "wikilink") stosowany w ciężkim atopowym zapaleniu skóry. W przeciwieństwie do leków stosowanych miejscowo, cyklosporyna działa systemowo, czyli na cały organizm. Działa hamująco na uwalnianie prozapalnych [cytokin](/atopedia/cytokiny "wikilink") IL-1, IL-2, IFN-gamma.
 
 Dawkowanie: początkowo 3–5 mg/kg masy ciała na dobę, po uzyskaniu poprawy dawkę redukuje się do 1,5–2 mg/kg masy ciała na dobę. Leczenie zwykle trwa od 4 do 8 tyg.[1]
 
@@ -12,17 +12,17 @@ Po zaprzestaniu leczenia występują nawroty choroby - po dwóch tygodniach u 50
 ### Zalety cyklosporyny:
 
 -   Można ją brać i tak dłużej niż sterydy.
--   Łagodzi [świąd](/świąd "wikilink"), bo działa na interleukinę 2.
--   Wytępia [limfocyty T](/limfocyty_T "wikilink"), która są podłożem reakcji IV typu, opóźnionych.
+-   Łagodzi [świąd](/atopedia/świąd "wikilink"), bo działa na interleukinę 2.
+-   Wytępia [limfocyty T](/atopedia/limfocyty_T "wikilink"), która są podłożem reakcji IV typu, opóźnionych.
 -   Hamuje apoptozę i aktywację keratynocytów w naskórku, czyli działa na całe ciało.
--   Szybciej działa od bezpieczniejszych immunosupresantów, którymi za granicą leczono dzieci: [cellceptu](/cellcept "wikilink") i [imuranu](/imuran "wikilink").
+-   Szybciej działa od bezpieczniejszych immunosupresantów, którymi za granicą leczono dzieci: [cellceptu](/atopedia/cellcept "wikilink") i [imuranu](/atopedia/imuran "wikilink").
 -   Skutki uboczne dotyczą generalnie brania jej przez całe życie... jako leku zapobiegającemu odrzuceniu przeszczepów, chyba tylko nefrotoksyczność czy hepatoksyczność może ujawnić się w pierwszych 12 tygodniach, ale na to są badania.
 
 ### Skutki uboczne:
 
 -   zwiększenie owłosienia skóry
 -   zwiększenie ciśnienia tętniczego krwi
--   zmniejszenie odporności na wszelkie infekcje, w tym [infekcje skóry](/Infekcja_skóry "wikilink"), co jest szczególnie niekorzystne przy [AZS](/Atopowe_zapalenie_skóry "wikilink").
+-   zmniejszenie odporności na wszelkie infekcje, w tym [infekcje skóry](/atopedia/Infekcja_skóry "wikilink"), co jest szczególnie niekorzystne przy [AZS](/atopedia/Atopowe_zapalenie_skóry "wikilink").
 -   możliwość uszkodzenia wątroby
 -   możliwość uszkodzenia nerek
 
@@ -36,15 +36,15 @@ Ważnym problemem, mogącym niekiedy ograniczać stosowanie cyklosporyny, są je
 
 W czasie używania cyklosporyny należy unikać bezpośredniego kontaktu z promieniami słonecznymi. Należy również co dwa tygodnie wykonywać badanie krwi, w którym jednym z istotnych parametrów jest poziom kreatyniny.
 
-Alternatywą dla immunosupresji systemowej (ogólnej) jest [immunosupresja miejscowa](/Immunosupresja_miejscowa "wikilink"), która jest o wiele bezpieczniejsza i może być stosowana przewlekle. Do obecnie stosowanych preparatów należą [Protopic](/Protopic "wikilink") oraz [Elidel](/Elidel "wikilink").
+Alternatywą dla immunosupresji systemowej (ogólnej) jest [immunosupresja miejscowa](/atopedia/Immunosupresja_miejscowa "wikilink"), która jest o wiele bezpieczniejsza i może być stosowana przewlekle. Do obecnie stosowanych preparatów należą [Protopic](/atopedia/Protopic "wikilink") oraz [Elidel](/atopedia/Elidel "wikilink").
 
 ### Zobacz także
 
--   [Equoral](/Equoral "wikilink")
--   [Sandimmun Neoral](/Sandimmun_Neoral "wikilink")
+-   [Equoral](/atopedia/Equoral "wikilink")
+-   [Sandimmun Neoral](/atopedia/Sandimmun_Neoral "wikilink")
 
 <references />
-[kategoria:substancje aktywne](/kategoria:substancje_aktywne "wikilink") [kategoria:leki immunosupresyjne](/kategoria:leki_immunosupresyjne "wikilink")
+[kategoria:substancje aktywne](/atopedia/kategoria:substancje_aktywne "wikilink") [kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink")
 
 [1] Sternau D, Nowicki R - Zespół atopowego zapalenia skóry – nowa klasyfikacja, diagnostyka i leczenie - *Przew Lek 2004; 3: 40-49*
 

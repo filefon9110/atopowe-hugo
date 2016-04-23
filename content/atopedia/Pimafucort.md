@@ -11,7 +11,7 @@ permalink: /Pimafucort/
 
 **Działanie**
 
-Preparat złożony do stosowania miejscowego. Hydrokortyzon jest słabo działającym miejscowo [kortykosteroidem](/sterydy "wikilink") o działaniu przeciwzapalnym, obkurczającym naczynia krwionośne i łagodzącym [świąd](/świąd "wikilink").
+Preparat złożony do stosowania miejscowego. Hydrokortyzon jest słabo działającym miejscowo [kortykosteroidem](/atopedia/sterydy "wikilink") o działaniu przeciwzapalnym, obkurczającym naczynia krwionośne i łagodzącym [świąd](/atopedia/świąd "wikilink").
 
 Neomycyna - antybiotyk aminoglikozydowy - działa bakteriobójczo na *Staphylococcus spp.*, pałeczki *Enterobacteriaceae* (zwłaszcza *Klebsiella spp.*, *Proteus spp.*, *Escherichia coli*); nie działa na *Pseudomonas aeruginosa*. Natamycyna jest miejscowo działającym antybiotykiem polienowym, aktywnym zwłaszcza wobec Candida spp.
 
@@ -39,4 +39,4 @@ lub występuje pod
 
 Wytwórca Temmier Italia S.R.L. Via Delle industrie 2 20061 (Mi) Carugate,Włochy
 
-[kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:maści](/kategoria:maści "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/kategoria:antybiotyki "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

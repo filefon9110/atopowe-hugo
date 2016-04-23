@@ -15,4 +15,4 @@ Niemiecka Kasa Chorych oskarżyła Klinikę o wyłudzenie 50 mln euro. Prokurato
 
 -   -
 
-[Kategoria:Psychika](/Kategoria:Psychika "wikilink") [Kategoria:Niekonwencjonalne metody leczenia](/Kategoria:Niekonwencjonalne_metody_leczenia "wikilink")
+[Kategoria:Psychika](/atopedia/Kategoria:Psychika "wikilink") [Kategoria:Niekonwencjonalne metody leczenia](/atopedia/Kategoria:Niekonwencjonalne_metody_leczenia "wikilink")

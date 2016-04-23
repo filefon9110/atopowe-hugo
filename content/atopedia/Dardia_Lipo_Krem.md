@@ -27,7 +27,7 @@ Skład preparatu:
 
 Zobacz również:
 
--   [Dardia Lipo Maść](/Dardia_Lipo_Maść "wikilink")
--   [Dardia Lipo Mleczko](/Dardia_Lipo_Mleczko "wikilink")
+-   [Dardia Lipo Maść](/atopedia/Dardia_Lipo_Maść "wikilink")
+-   [Dardia Lipo Mleczko](/atopedia/Dardia_Lipo_Mleczko "wikilink")
 
-[Kategoria:Kremy](/Kategoria:Kremy "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[Kategoria:Kremy](/atopedia/Kategoria:Kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

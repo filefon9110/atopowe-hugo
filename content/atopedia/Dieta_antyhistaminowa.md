@@ -150,4 +150,4 @@ Ta dieta eliminuje:
 
 <http://www.urticaria.thunderworksinc.com/pages/lowhistamine.htm>
 
-[kategoria:diety](/kategoria:diety "wikilink")
+[kategoria:diety](/atopedia/kategoria:diety "wikilink")

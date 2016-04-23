@@ -22,7 +22,7 @@ Mycie, pielęgnacja i ochrona włosów oraz skóry głowy u osób z wywiadem ato
 Opis działania:
 ---------------
 
-Formuła szamponu opracowana została w celu zapewnienia intensywnej pielęgnacji i aktywnej ochrony [skóry atopowej](/skóra_atopowa "wikilink"). [Mocznik](/Mocznik "wikilink") działa nawilżająco i przeciwświądowo. Aktywny kompleks α-hydroksykwasu (Lactic Acid) i L-Argininy poprawia ukrwienie skóry głowy, stymulując wzrost włosów i wzmacniając ich strukturę. Dodatkowo, AHA zapewnia świeży wygląd włosów (fresh-feeling), a L-Arginina odżywia i pielęgnuje włosy oraz ułatwia ich układanie. Dzięki zastosowaniu substancji o właściwościach nawilżających, kojących i antyoksydacyjnych, Atoperal szampon wyraźnie zwiększa komfort i poprawia efekty codziennej pielęgnacji skóry wrażliwej.
+Formuła szamponu opracowana została w celu zapewnienia intensywnej pielęgnacji i aktywnej ochrony [skóry atopowej](/atopedia/skóra_atopowa "wikilink"). [Mocznik](/atopedia/Mocznik "wikilink") działa nawilżająco i przeciwświądowo. Aktywny kompleks α-hydroksykwasu (Lactic Acid) i L-Argininy poprawia ukrwienie skóry głowy, stymulując wzrost włosów i wzmacniając ich strukturę. Dodatkowo, AHA zapewnia świeży wygląd włosów (fresh-feeling), a L-Arginina odżywia i pielęgnuje włosy oraz ułatwia ich układanie. Dzięki zastosowaniu substancji o właściwościach nawilżających, kojących i antyoksydacyjnych, Atoperal szampon wyraźnie zwiększa komfort i poprawia efekty codziennej pielęgnacji skóry wrażliwej.
 
 Atoperal szampon:
 
@@ -34,7 +34,7 @@ Atoperal szampon:
 Sposób stosowania:
 ------------------
 
-Niewielką ilość szamponu nanieść na mokre włosy i delikatnie wmasować. Po 2 minutach dokładnie spłukać. Zaleca się stosowanie szamponu wraz z innymi preparatami z linii Atoperal: [żelem do mycia ciała](/Atoperal_żel_do_mycia_ciała "wikilink"), [kremem](/Atoperal_krem "wikilink") oraz [emulsją](/Atoperal_emulsja_do_ciała "wikilink").
+Niewielką ilość szamponu nanieść na mokre włosy i delikatnie wmasować. Po 2 minutach dokładnie spłukać. Zaleca się stosowanie szamponu wraz z innymi preparatami z linii Atoperal: [żelem do mycia ciała](/atopedia/Atoperal_żel_do_mycia_ciała "wikilink"), [kremem](/atopedia/Atoperal_krem "wikilink") oraz [emulsją](/atopedia/Atoperal_emulsja_do_ciała "wikilink").
 
 Przeciwwskazania:
 -----------------
@@ -52,4 +52,4 @@ Produkt nie zawiera sztucznych substancji barwiących.
 
 Produkt nietestowany na zwierzętach.
 
-[kategoria:szampony](/kategoria:szampony "wikilink") [kategoria:preparaty zawierające mocznik](/kategoria:preparaty_zawierające_mocznik "wikilink")
+[kategoria:szampony](/atopedia/kategoria:szampony "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

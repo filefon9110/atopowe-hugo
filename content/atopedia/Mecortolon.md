@@ -69,4 +69,4 @@ Postać farmaceutyczna preparatu: krem
 
 Mecortolon (Jelfa S.A. Przedsiębiorstwo Farmaceutyczne) krem 5mg/g, 1 op.10 g
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink")

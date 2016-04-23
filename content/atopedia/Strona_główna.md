@@ -6,12 +6,12 @@ permalink: /Strona_główna/
 __NOTOC__ __NOEDITSECTION__
 
 <div class="header1" style="margin-bottom:10px;">
-<span style="font-size: 1.25em;"> Atopedia</span>, strona o [AZS](/atopowe_zapalenie_skóry "wikilink"), którą [każdy może edytować](/Atopowe_Zapalenie_Skóry:Wstęp "wikilink").
+<span style="font-size: 1.25em;"> Atopedia</span>, strona o [AZS](/atopedia/atopowe_zapalenie_skóry "wikilink"), którą [każdy może edytować](/atopedia/Atopowe_Zapalenie_Skóry:Wstęp "wikilink").
 
-[Atopowe zapalenie skóry](/Atopowe_zapalenie_skóry "wikilink") (AZS) to [alergiczna](/alergia "wikilink") choroba [skóry](/skóra "wikilink").
+[Atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink") (AZS) to [alergiczna](/atopedia/alergia "wikilink") choroba [skóry](/atopedia/skóra "wikilink").
 
 <hr style="width:50%; color:#70a0f5; margin:auto;" />
-[Podstawowe wiadomości](/Podstawowe_wiadomości "wikilink") | [Przyczyny](/przyczyny_atopowego_zapalenia_skóry "wikilink") | [Objawy](/objawy_atopowego_zapalenia_skóry "wikilink") | [Terapia](/Terapia "wikilink") | [Forum dyskusyjne](/Forum_dyskusyjne "wikilink") | [<span style="color:white; text-decoration: underline; ">Blog</span>](http://blog.atopowe.pl)
+[Podstawowe wiadomości](/atopedia/Podstawowe_wiadomości "wikilink") | [Przyczyny](/atopedia/przyczyny_atopowego_zapalenia_skóry "wikilink") | [Objawy](/atopedia/objawy_atopowego_zapalenia_skóry "wikilink") | [Terapia](/atopedia/Terapia "wikilink") | [Forum dyskusyjne](/atopedia/Forum_dyskusyjne "wikilink") | [<span style="color:white; text-decoration: underline; ">Blog</span>](http://blog.atopowe.pl)
 
 </div>
 <div class="header2" style="float:left; width:47%;">

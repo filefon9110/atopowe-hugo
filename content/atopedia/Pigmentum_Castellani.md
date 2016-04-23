@@ -35,4 +35,4 @@ permalink: /Pigmentum_Castellani/
 
 **Pozwolenie na dopuszczenie do obrotu:** MZiOS Nr-R/2678
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:leki przeciwgrzybicze](/kategoria:leki_przeciwgrzybicze "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki przeciwgrzybicze](/atopedia/kategoria:leki_przeciwgrzybicze "wikilink")

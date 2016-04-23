@@ -3,7 +3,7 @@ title: Jak robić zdjęcia skóry
 permalink: /Jak_robić_zdjęcia_skóry/
 ---
 
-Oto kilka rzeczy, na które warto zwrócić uwagę robiąc [zdjęcia](/zdjęcia "wikilink") zmian skórnych. Skóra jest o tyle trudnym obiektem fotografii z tego względu, że to, co nas w skórze interesuje jest tak naprawdę bardzo małe. Jest to trochę tak, jakbyśmy robili zdjęcie plaży, chcąc widzieć pojedyncze ziarenka piasku. Rzecz taką jak szorstkość skóry trudno jest uchwycić na zdjęciu.
+Oto kilka rzeczy, na które warto zwrócić uwagę robiąc [zdjęcia](/atopedia/zdjęcia "wikilink") zmian skórnych. Skóra jest o tyle trudnym obiektem fotografii z tego względu, że to, co nas w skórze interesuje jest tak naprawdę bardzo małe. Jest to trochę tak, jakbyśmy robili zdjęcie plaży, chcąc widzieć pojedyncze ziarenka piasku. Rzecz taką jak szorstkość skóry trudno jest uchwycić na zdjęciu.
 
 Światło : Zdjęcie robić przy możliwie silnym dziennym świetle. Jest to istotne ze względu na balans bieli; światło sztuczne najczęściej powoduje zmiany barwy zdjęć. Jeżeli jest słońce, nie robić w bezpośrednim świetle słonecznym. Flash należy wyłączyć.
 Ostrość : Ostrość musi być ustawiona <u>na skórę</u>. Aparaty z automatyczną ostrością często ustawiają ostrość nie na skórę, ale np. na ścianę z tyłu. Każde zdjęcie trzeba od razu sprawdzić pod kątem ostrości (patrząc na powiększenie) i w razie potrzeby powtórzyć.
@@ -52,6 +52,6 @@ Za długi czas naświetlania, zdjęcie jest rozmazane (pomimo ostrości ustawion
 
 **Zobacz też**
 
--   [Zdjęcia](/Zdjęcia "wikilink")
+-   [Zdjęcia](/atopedia/Zdjęcia "wikilink")
 
-[kategoria:pomoc](/kategoria:pomoc "wikilink")
+[kategoria:pomoc](/atopedia/kategoria:pomoc "wikilink")

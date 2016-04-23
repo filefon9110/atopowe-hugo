@@ -17,4 +17,4 @@ Od 10 miesiąca życia
 
 Połącz składniki, wyrób ciasto. Zawiń w folię i włóż na godzinę do lodówki. Z ciasta (rozwałkowanego) wycinaj foremkami lub nożem ciastka. Udekoruj wiśniami. Piecz koło 5 minut w temperaturze 125°C.
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

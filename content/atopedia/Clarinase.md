@@ -7,9 +7,9 @@ Clarinase
 
 **Skład leku:**
 
-1 tabletka zawiera 120 mg siarczanu pseudoefedryny i 5 mg [loratadyny](/loratadyna "wikilink")
+1 tabletka zawiera 120 mg siarczanu pseudoefedryny i 5 mg [loratadyny](/atopedia/loratadyna "wikilink")
 
-**Opis działania :** [Loratadyna](/Loratadyna "wikilink") jest lekiem przeciwhistaminowym o długim działaniu (wynoszącym ok. 12 godz.po dawce 5 mg.) selektywnie blokującym receptory H1. Łagodzi objawy [alergicznego nieżytu nosa](/alergiczny_nieżyt_nosa "wikilink").
+**Opis działania :** [Loratadyna](/atopedia/Loratadyna "wikilink") jest lekiem przeciwhistaminowym o długim działaniu (wynoszącym ok. 12 godz.po dawce 5 mg.) selektywnie blokującym receptory H1. Łagodzi objawy [alergicznego nieżytu nosa](/atopedia/alergiczny_nieżyt_nosa "wikilink").
 
 Siarczan pseudefedryny jest krótko działającym (4-6 godz.) lekiem sympatykomimetycznym, który powoduje skurcz naczyń, znosząc w ten sposób obrzęk śluzówki. Forma preparatu umożliwia równie długie działanie obu składników.
 
@@ -53,4 +53,4 @@ Przyjecie wielu tabletek jednocześnie może powodować wskutek działania pseud
 
 **Opakowanie:** Opakowanie po 10 tabletek. Lek przechowywać w temperaturze od 2 do 30 st C.Chronić przed wilgotnym powietrzem.
 
-[kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

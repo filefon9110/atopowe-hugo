@@ -14,7 +14,7 @@ permalink: /Provegol/
 
 **Zastosowanie:**
 
-Żel bez mydła, tzw. [syndet](/Syndety "wikilink"), do mycia całego ciała (włosy). Polecany dla całej rodziny. Ekonomiczne opakowanie z dozownikiem. Pojemność 500 ml
+Żel bez mydła, tzw. [syndet](/atopedia/Syndety "wikilink"), do mycia całego ciała (włosy). Polecany dla całej rodziny. Ekonomiczne opakowanie z dozownikiem. Pojemność 500 ml
 
 ### Tonik
 
@@ -43,4 +43,4 @@ Mleczko oczyszczające z wyciągiem z nagietka do skóry bardzo wrażliwej. Resp
 
 Delikatna kostka do mycia bez mydła (sydet). Nie zawiera drażniących substancji myjących. Respektuje naturalne pH skóry, nie narusza płaszcza wodno-lipidowego, pH 5,5. Waga: 100 g
 
-[kategoria:środki higieny](/kategoria:środki_higieny "wikilink")
+[kategoria:środki higieny](/atopedia/kategoria:środki_higieny "wikilink")

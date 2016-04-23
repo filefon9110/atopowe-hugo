@@ -226,4 +226,4 @@ ul. Kruczkowskiego 8 00-380
 Warszawa
 Tel. +48 22 696 99 20
 
-[kategoria:Leki antyhistaminowe](/kategoria:Leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe I generacji](/kategoria:Leki_antyhistaminowe_I_generacji "wikilink") [kategoria:Ulotki leków](/kategoria:Ulotki_leków "wikilink")
+[kategoria:Leki antyhistaminowe](/atopedia/kategoria:Leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe I generacji](/atopedia/kategoria:Leki_antyhistaminowe_I_generacji "wikilink") [kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink")

@@ -28,4 +28,4 @@ Relacje
 1.  [mres](http://blog.atopowe.pl/2011/06/29/wrazenia-ze-zlotu/)
 2.  [Mirki](http://blog.atopowe.pl/2011/06/30/stare-jablonki/)
 
-[kategoria:Spotkania](/kategoria:Spotkania "wikilink")
+[kategoria:Spotkania](/atopedia/kategoria:Spotkania "wikilink")

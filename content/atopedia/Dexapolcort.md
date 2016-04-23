@@ -31,7 +31,7 @@ ul. A. Fleminga 2
 Co to jest lek Dexapolcort i w jakim celu się go stosuje
 --------------------------------------------------------
 
-Deksametazon - substancja czynna leku Dexapolcort - jest syntetycznym [kortykosteroidem](/sterydy "wikilink") o silnym działaniu przeciwzapalnym, przeciwświądowym, przeciwalergicznym i obkurczającym naczynia krwionośne.
+Deksametazon - substancja czynna leku Dexapolcort - jest syntetycznym [kortykosteroidem](/atopedia/sterydy "wikilink") o silnym działaniu przeciwzapalnym, przeciwświądowym, przeciwalergicznym i obkurczającym naczynia krwionośne.
 
 ### Wskazania do stosowania
 
@@ -65,7 +65,7 @@ Zanim zastosuje się Dexapolcort
 -   Jeśli w miejscu aplikacji leku wystąpi podrażnienie skóry, należy poinformować o tym lekarza. Lekarz zadecyduje czy lek należy odstawić.
 -   Nie bandażować powierzchni skóry, na którą naniesiono lek i nie stosować leku pod opatrunkami okluzyjnymi (zamkniętymi). Stosowanie opatrunku okluzyjnego zwiększa przenikanie leku przez skórę do krwi, w wyniku czego mogą wystąpić ogólnoustrojowe działania niepożądane kortykosteroidów.
 -   Deksametazon może wchłaniać się przez skórę do krwi i działać immunosupresyjnie (zmniejszać odporność organizmu). Dlatego w czasie stosowania leku pacjent powinien uważać, aby nie zarazić się zakaźną chorobą wirusową (np. ospa wietrzna, odra).
--   Jeśli lek jest stosowany długotrwale lub na dużych powierzchniach skóry, steroidowy składnik leku - deksametazon, może wchłaniać się do krwi i wykazywać działanie ogólnoustrojowe, włącznie z zahamowaniem osi podwzgórzowo-przysadkowo-nadnerczowej (m.in. objawy [zespołu Cushinga](/zespół_Cushinga "wikilink"), cukromocz, nadmierne stężenie cukru we krwi). Jeśli wystąpią objawy ogólnoustrojowego działania kortykosteroidów, lekarz zadecyduje czy przerwać leczenie lekiem Dexapolcort.
+-   Jeśli lek jest stosowany długotrwale lub na dużych powierzchniach skóry, steroidowy składnik leku - deksametazon, może wchłaniać się do krwi i wykazywać działanie ogólnoustrojowe, włącznie z zahamowaniem osi podwzgórzowo-przysadkowo-nadnerczowej (m.in. objawy [zespołu Cushinga](/atopedia/zespół_Cushinga "wikilink"), cukromocz, nadmierne stężenie cukru we krwi). Jeśli wystąpią objawy ogólnoustrojowego działania kortykosteroidów, lekarz zadecyduje czy przerwać leczenie lekiem Dexapolcort.
 -   Należy zachować szczególną ostrożność podczas stosowania leku u dzieci, gdyż istnieje ryzyko ogólnoustrojowego działania deksametazonu.
 -   U dzieci, ze względu na większy niż u dorosłych stosunek powierzchni ciała do masy ciała, ryzyko ogólnoustrojowego działania kortykosteroidów, w tym zaburzeń czynności osi podwzgórzowo-przysadkowo-nadnerczowej (np. zespołu Cushinga), jest większe niż u dorosłych. Długotrwałe stosowanie kortykosteroidów może również zaburzać wzrost i rozwój dzieci.
 
@@ -166,4 +166,4 @@ Warszawa
 
 Numer telefonu: 22 811-18-14
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink")

@@ -3,6 +3,6 @@ title: Terapia biologiczna
 permalink: /Terapia_biologiczna/
 ---
 
-1.  Redirect [Leki biologiczne](/Leki_biologiczne "wikilink")
+1.  Redirect [Leki biologiczne](/atopedia/Leki_biologiczne "wikilink")
 
-[kategoria:Terapia](/kategoria:Terapia "wikilink")
+[kategoria:Terapia](/atopedia/kategoria:Terapia "wikilink")

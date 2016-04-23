@@ -13,7 +13,7 @@ U chorych na AZS stwierdza się podwyższony poziom oraz wzmożoną aktywację k
 
 **Zobacz też**
 
--   [Limfocyty B](/Limfocyty_B "wikilink")
--   [Limfocyty T w wikipedii](/wikipedia:Limfocyty_T "wikilink")
+-   [Limfocyty B](/atopedia/Limfocyty_B "wikilink")
+-   [Limfocyty T w wikipedii](/atopedia/wikipedia:Limfocyty_T "wikilink")
 
-[kategoria:ciało człowieka](/kategoria:ciało_człowieka "wikilink")
+[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

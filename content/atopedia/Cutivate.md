@@ -217,4 +217,4 @@ ul. Rzymowskiego 53
 02-697 Warszawa
 tel. (22) 576-90-00
 
-[kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:maści](/kategoria:maści "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

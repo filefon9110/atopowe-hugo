@@ -22,7 +22,7 @@ Wskazania:
 Opis działania:
 ---------------
 
-Formuła kremu opracowana została w celu zapewnienia intensywnej pielęgnacji i aktywnej ochrony [skóry atopowej](/skóra_atopowa "wikilink"). Dzięki zastosowaniu substancji o właściwościach natłuszczających, kojących, antyoksydacyjnych, hamujących odczyny zapalne oraz zapobiegających przeznaskórkowej utracie wody, atoperal krem wyraźnie zwiększa komfort i poprawia efekty codziennej pielęgnacji skóry wrażliwej.
+Formuła kremu opracowana została w celu zapewnienia intensywnej pielęgnacji i aktywnej ochrony [skóry atopowej](/atopedia/skóra_atopowa "wikilink"). Dzięki zastosowaniu substancji o właściwościach natłuszczających, kojących, antyoksydacyjnych, hamujących odczyny zapalne oraz zapobiegających przeznaskórkowej utracie wody, atoperal krem wyraźnie zwiększa komfort i poprawia efekty codziennej pielęgnacji skóry wrażliwej.
 
 Atoperal krem:
 
@@ -41,7 +41,7 @@ Atoperal krem:
 Sposób stosowania:
 ------------------
 
-Atoperal krem należy stosować 2-3 razy dziennie na dokładnie oczyszczoną i osuszoną skórę. Niewielką ilość kremu rozprowadzić dłonią do całkowitego wchłonięcia. Zaleca się stosowanie kremu wraz z preparatami myjącymi z linii Atoperal: [żelem do mycia ciała](/Atoperal_żel_do_mycia_ciała "wikilink") i [szamponem](/Atoperal_szampon "wikilink").
+Atoperal krem należy stosować 2-3 razy dziennie na dokładnie oczyszczoną i osuszoną skórę. Niewielką ilość kremu rozprowadzić dłonią do całkowitego wchłonięcia. Zaleca się stosowanie kremu wraz z preparatami myjącymi z linii Atoperal: [żelem do mycia ciała](/atopedia/Atoperal_żel_do_mycia_ciała "wikilink") i [szamponem](/atopedia/Atoperal_szampon "wikilink").
 
 Przeciwwskazania:
 -----------------
@@ -59,4 +59,4 @@ Produkt nie zawiera sztucznych substancji barwiących.
 
 Produkt nietestowany na zwierzętach.
 
-[kategoria:kremy](/kategoria:kremy "wikilink")
+[kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

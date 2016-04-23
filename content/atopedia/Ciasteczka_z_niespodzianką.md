@@ -7,7 +7,7 @@ Z przepisu wychodzi ok. 20 sztuk
 
 **Składniki:**
 
--   150 g [margaryny bezmlecznej](/Margaryna_bezmleczna "wikilink") i bez lecytyny sojowej
+-   150 g [margaryny bezmlecznej](/atopedia/Margaryna_bezmleczna "wikilink") i bez lecytyny sojowej
 -   2/3 szkl. cukru
 -   200 g (opakowanie) kleiku ryżowego
 -   1/2 szkl. wody
@@ -24,4 +24,4 @@ Z przepisu wychodzi ok. 20 sztuk
 
 -   Ciasteczka powinny być lekko przypieczone - na żółto, twarde na zewnątrz i miękkie wewnątrz. Im krócej są pieczone - tym bardziej miękkie.
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/atopedia/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

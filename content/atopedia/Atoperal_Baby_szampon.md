@@ -9,14 +9,14 @@ DLA DZIECI I NIEMOWLĄT
 
 Jedyny szampon nawilżający zawierający Biolin, substancję, która jest naturalnym prebiotykiem. Prebiotyki stymulują prawidłową barierę ochronną skóry.
 
-Szampon przeznaczony dla dzieci i niemowląt powyżej 1 miesiąca życia do [skóry atopowej](/skóra_atopowa "wikilink"), [suchej](/sucha_skóra "wikilink"), wrażliwej. Wykazuje działanie nawilżające i łagodzące. Receptura szamponu oparta jest na substancjach myjących o łagodnym działaniu, pochodzenia cukrowego.
+Szampon przeznaczony dla dzieci i niemowląt powyżej 1 miesiąca życia do [skóry atopowej](/atopedia/skóra_atopowa "wikilink"), [suchej](/atopedia/sucha_skóra "wikilink"), wrażliwej. Wykazuje działanie nawilżające i łagodzące. Receptura szamponu oparta jest na substancjach myjących o łagodnym działaniu, pochodzenia cukrowego.
 
 Atoperal Baby szampon przeznaczony jest do codziennej pielęgnacji skóry głowy, wykazującej cechy skóry atopowej, suchej, wrażliwej dzieci i niemowląt. Dzięki specjalnie opracowanej recepturze zapewnia profesjonalną pielęgnację skóry Twojego dziecka. Szampon zawiera delikatne substancje oczyszczające skórę głowy. Nawilża i łagodzi podrażnienia oraz wygładza nadmiernie wysuszoną skórę. Włosy po umyciu szamponem atoperal® Baby są miękkie, gładkie i łatwo się rozczesują.
 
 Sposób stosowania:
 ------------------
 
-Niewielką ilość szamponu atoperal Baby rozprowadzić na dłoniach i delikatnie wmasować w wilgotne włosy. Po ok. 1-2 minutach spłukać wodą. Zaleca się stosowanie szamponu z [innymi preparatami](/atoperal "wikilink") z linii atoperal Baby: pianką do mycia ciała, emulsją do kąpieli, kremem oraz emulsją do ciała.
+Niewielką ilość szamponu atoperal Baby rozprowadzić na dłoniach i delikatnie wmasować w wilgotne włosy. Po ok. 1-2 minutach spłukać wodą. Zaleca się stosowanie szamponu z [innymi preparatami](/atopedia/atoperal "wikilink") z linii atoperal Baby: pianką do mycia ciała, emulsją do kąpieli, kremem oraz emulsją do ciała.
 
 Przechowywanie:
 ---------------
@@ -36,4 +36,4 @@ Przebadany dermatologicznie
 
 **Produkt dostępny tylko w aptece.**
 
-[kategoria:szampony](/kategoria:szampony "wikilink")
+[kategoria:szampony](/atopedia/kategoria:szampony "wikilink")

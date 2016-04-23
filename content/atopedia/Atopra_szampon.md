@@ -41,4 +41,4 @@ Laboratorium Farmaceutyczne Homeofarm Sp. z o.o. ul. Jagiellońska 44, 80-366 Gd
 
 **<http://www.jelfa.pl>**
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:szampony](/kategoria:szampony "wikilink") [kategoria:preparaty zawierające mocznik](/kategoria:preparaty_zawierające_mocznik "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:szampony](/atopedia/kategoria:szampony "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

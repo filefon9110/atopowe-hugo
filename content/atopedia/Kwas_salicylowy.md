@@ -39,4 +39,4 @@ Ze względu na poważne działania niepożądane nie zaleca się stosowania p.o.
 
 Unikać kontaktu z błonami śluzowymi.
 
-[kategoria:substancje aktywne](/kategoria:substancje_aktywne "wikilink")
+[kategoria:substancje aktywne](/atopedia/kategoria:substancje_aktywne "wikilink")

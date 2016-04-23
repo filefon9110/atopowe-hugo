@@ -45,4 +45,4 @@ W razie wystąpienia gorączki, bólu gardła, owrzodzeń błon śluzowych (np. 
 
 producent-Polpharma sa Gdańsk
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

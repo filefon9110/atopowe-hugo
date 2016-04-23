@@ -12,4 +12,4 @@ Rp.
 
 D.s. Nałożyć bezpośrednio na odcisk na trzy godziny, zmyć i wymoczyć w ciepłej wodzie z mydłem (mydlance). Delikatnie ścierać. Zabieg powtórzyć w razie potrzeby.
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:Przepisy na maści robione](/kategoria:Przepisy_na_maści_robione "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

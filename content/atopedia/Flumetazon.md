@@ -7,9 +7,9 @@ flumetasone
 hormonum
 D07AB, D07BB, D07CB
 
-**Działanie:** Syntetyczny [kortykosteroid](/Kortykosteroidy "wikilink"), pochodna fluorowa do stosowania miejscowego. Ma działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia. Flumetazon hamuje syntezę i uwalnianie cytokin IL-1, 2, 3, 6, TNF-a, INF-g, GM-CSF. Hamuje wydzielanie [histaminy](/Histamina "wikilink") i leukotrienów zależne od IgE. Poprzez blokowanie fosfolipazy A2 powoduje zahamowanie syntezy leukotrienów i prostaglandyn, mediatorów procesu zapalnego. Zmniejsza przepuszczalność naczyń włosowatych, zmniejsza obrzęk. Ponieważ flumetazon należy do glikokortykosteroidów o średniej sile działania miejscowego, dlatego prawdopodobieństwo wystąpienia działań niepożądanych nie jest duże. W niewielkim stopniu wchłania się do krwi.
+**Działanie:** Syntetyczny [kortykosteroid](/atopedia/Kortykosteroidy "wikilink"), pochodna fluorowa do stosowania miejscowego. Ma działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia. Flumetazon hamuje syntezę i uwalnianie cytokin IL-1, 2, 3, 6, TNF-a, INF-g, GM-CSF. Hamuje wydzielanie [histaminy](/atopedia/Histamina "wikilink") i leukotrienów zależne od IgE. Poprzez blokowanie fosfolipazy A2 powoduje zahamowanie syntezy leukotrienów i prostaglandyn, mediatorów procesu zapalnego. Zmniejsza przepuszczalność naczyń włosowatych, zmniejsza obrzęk. Ponieważ flumetazon należy do glikokortykosteroidów o średniej sile działania miejscowego, dlatego prawdopodobieństwo wystąpienia działań niepożądanych nie jest duże. W niewielkim stopniu wchłania się do krwi.
 
-**Wskazania:** Leczenie dermatoz, szczególnie o etiologii [alergicznej](/Alergia "wikilink"), niepowikłanych przez [infekcje](/Infekcja_skóry "wikilink"), a także w różnych postaciach wyprysku, kontaktowym zapaleniu skóry, w przypadkach reakcji fotoalergiczych, neurodermitów, [łuszczycy](/Łuszczyca "wikilink"), liszaja płaskiego, w skórnej postaci tocznia rumieniowatego oraz w rumieniu wielopostaciowym.
+**Wskazania:** Leczenie dermatoz, szczególnie o etiologii [alergicznej](/atopedia/Alergia "wikilink"), niepowikłanych przez [infekcje](/atopedia/Infekcja_skóry "wikilink"), a także w różnych postaciach wyprysku, kontaktowym zapaleniu skóry, w przypadkach reakcji fotoalergiczych, neurodermitów, [łuszczycy](/atopedia/Łuszczyca "wikilink"), liszaja płaskiego, w skórnej postaci tocznia rumieniowatego oraz w rumieniu wielopostaciowym.
 
 **Przeciwwskazania:** Zapalenia skóry o etiologii bakteryjnej, wirusowej, grzybiczej, gruźlica skóry, stany przedrakowe i nowotwory skóry, trądzik pospolity, trądzik różowaty. Przeciwwskazane jest przewlekłe stosowanie na duże powierzchnie skóry.
 
@@ -21,4 +21,4 @@ D07AB, D07BB, D07CB
 
 **Uwagi:** Należy chronić spojówki przed kontaktem z preparatami flumetazonu. Początkowo w ostrych i podostrych dermatozach stosuje się emulsję, a następnie po zmyciu jej wodą nakłada się krem lub maść. Na skórę normalną lub tłustą stosuje się krem, do skóry suchej maść.
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

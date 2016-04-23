@@ -115,11 +115,11 @@ Brak danych W przypadku przedawkowania należy zastosować środki zaradcze. Pł
 
 **Działania niepożądane**
 
-Mogą wystapić objawy ze strony układu pokarmowego takie jak: niestrawnośc, nudności,ból brzucha i zaparcia.Rzadziej bóle głowy, przejściowe zwiększenie aktywności enzymów wątrobowych, zaburzenia cyklu miesiączkowego,zawroty głowy i reakcje alergiczne (takie jak świąd, wysypka, pokrzywka, [obrzęk naczynioruchowy](/obrzęk_naczynioruchowy "wikilink")).Odnotowano również odobonione przypadki neuropatii obwodowej i zespołu Stevens-Johnsona. Obserwowano działania niepożądane takie jak: hipokalemia, obrzęk,zapalenie wątroby i wypadanie włosów, głównie u pacjentów poddawanych długotrwałej( ok. 1 miesiąca) terapii ciagłej.
+Mogą wystapić objawy ze strony układu pokarmowego takie jak: niestrawnośc, nudności,ból brzucha i zaparcia.Rzadziej bóle głowy, przejściowe zwiększenie aktywności enzymów wątrobowych, zaburzenia cyklu miesiączkowego,zawroty głowy i reakcje alergiczne (takie jak świąd, wysypka, pokrzywka, [obrzęk naczynioruchowy](/atopedia/obrzęk_naczynioruchowy "wikilink")).Odnotowano również odobonione przypadki neuropatii obwodowej i zespołu Stevens-Johnsona. Obserwowano działania niepożądane takie jak: hipokalemia, obrzęk,zapalenie wątroby i wypadanie włosów, głównie u pacjentów poddawanych długotrwałej( ok. 1 miesiąca) terapii ciagłej.
 
 Wytwórca Janssen Pharmaceutica N.V. b-2340 Beerse, Belgia
 
 data ostatniej weryfikacji ulotki
 2000 wrzesień
 
-[kategoria:Leki przeciwgrzybicze](/kategoria:Leki_przeciwgrzybicze "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:Leki przeciwgrzybicze](/atopedia/kategoria:Leki_przeciwgrzybicze "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

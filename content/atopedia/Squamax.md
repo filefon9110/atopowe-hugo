@@ -34,4 +34,4 @@ SQUAMAX emulsja -tuba o zawartości 200 ml oraz opakowanie jednokrotnego użytku
 
 Przed zastosowaniem preparatu należy zapoznać się z treścią ulotki dołączonej do opakowania bądź skonsultować się z lekarzem lub farmaceutą.
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:preparaty zawierające mocznik](/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:kosmetyki](/kategoria:kosmetyki "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

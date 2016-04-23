@@ -65,7 +65,7 @@ Linola® dodatek do kąpieli leczniczej
 
 **WSKAZANIA**
 
-Leczenie wspomagające chorób skóry, w przebiegu których pojawia się [suchość skóry](/suchość_skóry "wikilink") i [świąd](/świąd "wikilink") ([atopowe zapalenie skóry](/atopowe_zapalenie_skóry "wikilink"), [wyprysk](/wyprysk "wikilink") przewlekły, [rybia łuska](/rybia_łuska "wikilink")). Leczenie wspomagające [łuszczycy](/łuszczyca "wikilink"). Pielęgnowanie skóry suchej i wrażliwej.
+Leczenie wspomagające chorób skóry, w przebiegu których pojawia się [suchość skóry](/atopedia/suchość_skóry "wikilink") i [świąd](/atopedia/świąd "wikilink") ([atopowe zapalenie skóry](/atopedia/atopowe_zapalenie_skóry "wikilink"), [wyprysk](/atopedia/wyprysk "wikilink") przewlekły, [rybia łuska](/atopedia/rybia_łuska "wikilink")). Leczenie wspomagające [łuszczycy](/atopedia/łuszczyca "wikilink"). Pielęgnowanie skóry suchej i wrażliwej.
 
 **OPIS DZIAŁANIA**
 
@@ -111,4 +111,4 @@ Nie istnieją żadne doniesienia na temat możliwości przedawkowania preparatu.
 
 Przed zastosowaniem leku należy sprawdzić datę ważności podaną na opakowaniu, nie stosować leku po upływie terminu ważności. Przechowywać w temperaturze do 25° C w miejscu niedostępnym dla dzieci.
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:emolienty](/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

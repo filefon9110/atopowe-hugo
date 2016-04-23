@@ -27,4 +27,4 @@ Opis:
 4.  Gdy ciasto podwoi swoją objętość po kawałku rozwałkowywać i wykrajać szklanką (brzegi szklanki obtoczone w mące) po 2 krążki. Na jeden nakładać łyżeczkę marmolady i oba dobrze zaklejać, uformować i odłożyć po ściereczkę na ok. 15 min. do wyrośnięcia.
 5.  Smażyć w głębokim oleju z obu stron. Upieczone wyjąc na serwetki lub ręczniczki papierowe (aby wsiąkły tłuszcz) i posypać cukrem pudrem.
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

@@ -23,4 +23,4 @@ NYSTATYNA (POLFA-KRAKÓW) w postaci zasypki (1 g proszku zawiera 100 000 j.m. ny
 
 NYSTATYNA (POLFA-KRAKÓW) w postaci substancji sypkiej (1 g proszku do receptury zawiera 2 000 000 j.m. nystatyny), którą stosujemy w grzybicach jamy ustnej, przewodu pokarmowego, pochwy i sromu, zapaleniu żołędzi, wyprzeń drożdżakowatych.
 
-[kategoria:Leki przeciwgrzybicze](/kategoria:Leki_przeciwgrzybicze "wikilink")
+[kategoria:Leki przeciwgrzybicze](/atopedia/kategoria:Leki_przeciwgrzybicze "wikilink")

@@ -3,13 +3,13 @@ title: Omalizumab
 permalink: /Omalizumab/
 ---
 
-**Omalizumab (Xolair)** - preparat monoklonalnych, humanizowanych przeciwciał obniżający poziom IgE całkowitego, stosowany w leczeniu [astmy oskrzelowej](/Astma_oskrzelowa "wikilink") oraz [alergicznego nieżytu nosa](/Alergiczny_nieżyt_nosa "wikilink"). Jego mechanizm działania polega na blokowaniu wiązania się immunoglobuliny E z powierzchnią komórek uwalniających [histaminę](/histamina "wikilink") i inne mediatory zapalenia w przebiegu astmy. Dzięki temu pozwala na zmniejszenie zaostrzeń astmy i złagodzenie jej przebiegu. Podawany jest w postaci zastrzyku podskórnego.
+**Omalizumab (Xolair)** - preparat monoklonalnych, humanizowanych przeciwciał obniżający poziom IgE całkowitego, stosowany w leczeniu [astmy oskrzelowej](/atopedia/Astma_oskrzelowa "wikilink") oraz [alergicznego nieżytu nosa](/atopedia/Alergiczny_nieżyt_nosa "wikilink"). Jego mechanizm działania polega na blokowaniu wiązania się immunoglobuliny E z powierzchnią komórek uwalniających [histaminę](/atopedia/histamina "wikilink") i inne mediatory zapalenia w przebiegu astmy. Dzięki temu pozwala na zmniejszenie zaostrzeń astmy i złagodzenie jej przebiegu. Podawany jest w postaci zastrzyku podskórnego.
 
 Lek nie jest zarejestrowany w Polsce. Terapia jest kosztowna.
 
 **Zobacz również:**
 
--   [Leki biologiczne](/Leki_biologiczne "wikilink")
+-   [Leki biologiczne](/atopedia/Leki_biologiczne "wikilink")
 -   [Xolair w praktyce klinicznej](http://www.mediton.pl/library/aai_volume-11_issue-2_article-614.pdf)
 -   [Omalizumab zmniejszał zapotrzebowanie na wziewne kortykosteroidy i ograniczał częstość zaostrzeń wymagających stosowania systemowej kortykoterapii u dzieci w wieku 6-12 lat chorych na atopową astmę oskrzelową](http://www.mp.pl/artykuly/index.php?aid=9219)
 -   [Przeciwciała anty-IgE w leczeniu alergii](http://www.pulsmedycyny.com.pl/arch/4943?ms=4)
@@ -46,7 +46,7 @@ Każdy pacjent przyjmujący preparat Xolair musi spełniać następujące kryter
 
 U pacjentów w wieku powyżej 12. roku życia powinna występować ograniczona wydolność płuc (mniej niż 80% normy).
 
-Zastosowanie preparatu Xolair u pacjentów we wszystkich grupach wiekowych powinno być rozważane jedynie w przypadku, gdy astma spowodowana jest przeciwciałem o nazwie immunoglobulina E ([IgE](/IgE "wikilink")).
+Zastosowanie preparatu Xolair u pacjentów we wszystkich grupach wiekowych powinno być rozważane jedynie w przypadku, gdy astma spowodowana jest przeciwciałem o nazwie immunoglobulina E ([IgE](/atopedia/IgE "wikilink")).
 
 Lek wydaje się wyłącznie z przepisu lekarza.
 
@@ -81,7 +81,7 @@ W badaniu pacjentów z ciężką astmą alergiczną, choć nie zaobserwowano ró
 Jakie ryzyko wiąże się ze stosowaniem preparatu Xolair?
 -------------------------------------------------------
 
-Najczęstszymi działaniami niepożądanymi związanymi z leczeniem preparatem Xolair (obserwowanym u 1 do 10 pacjentów na 100) są: bóle głowy oraz reakcje w miejscu wstrzyknięcia, w tym ból, obrzęk, rumień (zaczerwienienie) i [świąd](/świąd "wikilink") (swędzenie). Pełny wykaz działań niepożądanych zgłaszanych po podaniu preparatu Xolair znajduje się w ulotce dla pacjenta.
+Najczęstszymi działaniami niepożądanymi związanymi z leczeniem preparatem Xolair (obserwowanym u 1 do 10 pacjentów na 100) są: bóle głowy oraz reakcje w miejscu wstrzyknięcia, w tym ból, obrzęk, rumień (zaczerwienienie) i [świąd](/atopedia/świąd "wikilink") (swędzenie). Pełny wykaz działań niepożądanych zgłaszanych po podaniu preparatu Xolair znajduje się w ulotce dla pacjenta.
 
 Preparatu Xolair nie należy podawać osobom, u których może występować nadwrażliwość (uczulenie) na omalizumab lub którykolwiek składnik preparatu.
 
@@ -99,4 +99,4 @@ Pełne sprawozdanie EPAR dla preparatu Xolair jest dostępne [tutaj](http://www.
 
 Data ostatniej aktualizacji: 05-2007.
 
-[kategoria:leki](/kategoria:leki "wikilink")
+[kategoria:leki](/atopedia/kategoria:leki "wikilink")

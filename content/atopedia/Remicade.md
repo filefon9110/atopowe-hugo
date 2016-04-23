@@ -487,4 +487,4 @@ ul. Chłodna 51
 Polska
 Tel: +48 22 549 51 00
 
-[kategoria:Ulotki leków](/kategoria:Ulotki_leków "wikilink")
+[kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink")

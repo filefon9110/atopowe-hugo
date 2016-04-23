@@ -87,4 +87,4 @@ Maść przeciwtrądzikowa
 
 D.s. : Zewn. 1 do 2 x. dz. smarować cienką warstwą.
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:Przepisy na maści robione](/kategoria:Przepisy_na_maści_robione "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

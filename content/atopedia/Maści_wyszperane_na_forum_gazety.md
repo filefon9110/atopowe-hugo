@@ -66,4 +66,4 @@ M.f. Ung.
 
 źródło: <http://forum.gazeta.pl/forum/72,2.html?f=578&w=18608933&a=18635982>
 
-[kategoria:maści](/kategoria:maści "wikilink") [Kategoria:Przepisy na maści robione](/Kategoria:Przepisy_na_maści_robione "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [Kategoria:Przepisy na maści robione](/atopedia/Kategoria:Przepisy_na_maści_robione "wikilink")

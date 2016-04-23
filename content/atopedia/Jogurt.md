@@ -25,4 +25,4 @@ Przygotowywanie jogurtu najlepiej jest rozpocząć rano.
 -   W przygotowaniu jogurtu ważne są temperatury i czas.
 -   Ilość jogurtu jest niemal taka sama jak ilość mleka, czyli np. z 3 l mleka otrzymujemy 3 l jogurtu, z minimalną ilością serwatki.
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

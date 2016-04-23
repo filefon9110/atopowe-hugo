@@ -18,12 +18,12 @@ permalink: /Afloderm/
 Co to jest lek Afloderm i w jakim celu się go stosuje
 =====================================================
 
-Lek Afloderm w kremie zawiera substancję czynną alklometazonu dipropionian. Alklometazon jest syntetycznym niefluorowanym [kortykosteroidem](/sterydy "wikilink") o umiarkowanie silnym działaniu, stosowanym miejscowo w dermatologii. Alklometazonu dipropionian działa przeciwzapalnie, przeciwświądowo, immunosupresyjnie i obkurczająco na naczynia krwionośne.
+Lek Afloderm w kremie zawiera substancję czynną alklometazonu dipropionian. Alklometazon jest syntetycznym niefluorowanym [kortykosteroidem](/atopedia/sterydy "wikilink") o umiarkowanie silnym działaniu, stosowanym miejscowo w dermatologii. Alklometazonu dipropionian działa przeciwzapalnie, przeciwświądowo, immunosupresyjnie i obkurczająco na naczynia krwionośne.
 
 Wskazania
 ---------
 
-Afloderm w kremie wskazany jest w leczeniu miejscowym zapalnych i przebiegających ze [świądem](/świąd "wikilink") chorób skóry, reagujących na leczenie kortykosteroidami, w tym atopowego zapalenia skóry, kontaktowego zapalenia skóry, łuszczycy.
+Afloderm w kremie wskazany jest w leczeniu miejscowym zapalnych i przebiegających ze [świądem](/atopedia/świąd "wikilink") chorób skóry, reagujących na leczenie kortykosteroidami, w tym atopowego zapalenia skóry, kontaktowego zapalenia skóry, łuszczycy.
 
 Informacje ważne przed zastosowaniem leku Afloderm
 ==================================================
@@ -66,7 +66,7 @@ Stosowanie leku u dzieci
 
 Należy zachować szczególna ostrożność podczas stosowania leku u dzieci, gdyż istnieje ryzyko ogólnoustrojowego działania kortykosteroidu.
 
-U dzieci, ze względu na większy niż u dorosłych stosunek powierzchni ciała do masy ciała, ryzyko ogólnoustrojowego działania kortykosteroidów (w tym zaburzeń czynności osi podwzgórzowo-przysadkowo-nadnerczowej, [zespołu Cushinga](/zespół_Cushinga "wikilink"), zwiększenia ciśnienia wewnątrzczaszkowego) jest większe niż u dorosłych. Długotrwałe stosowanie kortykosteroidów może również zaburzać wzrost i rozwój dzieci.
+U dzieci, ze względu na większy niż u dorosłych stosunek powierzchni ciała do masy ciała, ryzyko ogólnoustrojowego działania kortykosteroidów (w tym zaburzeń czynności osi podwzgórzowo-przysadkowo-nadnerczowej, [zespołu Cushinga](/atopedia/zespół_Cushinga "wikilink"), zwiększenia ciśnienia wewnątrzczaszkowego) jest większe niż u dorosłych. Długotrwałe stosowanie kortykosteroidów może również zaburzać wzrost i rozwój dzieci.
 
 Stosowanie leku Afloderm z innymi lekami
 ----------------------------------------
@@ -211,4 +211,4 @@ Bratysława, Słowacja
 Tel. + 421 2 5932 4330
 Fax. + 421 2 5932 4331
 
-[kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

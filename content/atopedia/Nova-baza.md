@@ -5,7 +5,7 @@ permalink: /Nova-baza/
 
 **Nova-baza**
 
-[Maść](/maść "wikilink") intensywnie natłuszczająca
+[Maść](/atopedia/maść "wikilink") intensywnie natłuszczająca
 
 **Skład:** petroleatum, propylene glycol, sorbitan sesquioleate.
 
@@ -27,4 +27,4 @@ RK/123822/2004.
 
 **<http://www.blaufarma.pl>**
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:maści](/kategoria:maści "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink")

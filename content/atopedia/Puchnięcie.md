@@ -3,7 +3,7 @@ title: Puchnięcie
 permalink: /Puchnięcie/
 ---
 
-**Puchnięcie** jest często jednym z objawów [reakcji alergicznej](/Reakcja_alergiczna "wikilink") lub [infekcji bakteryjnej](/Infekcja_skóry "wikilink"). Może być jednym z objawów towarzyszących [atopowemu zapaleniu skóry](/Atopowe_zapalenie_skóry "wikilink"), i jest obserwowane najczęściej w stanach dużego nasilenia.
+**Puchnięcie** jest często jednym z objawów [reakcji alergicznej](/atopedia/Reakcja_alergiczna "wikilink") lub [infekcji bakteryjnej](/atopedia/Infekcja_skóry "wikilink"). Może być jednym z objawów towarzyszących [atopowemu zapaleniu skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink"), i jest obserwowane najczęściej w stanach dużego nasilenia.
 
 Puchnięcie w wyniku reakcji alergicznej
 ---------------------------------------
@@ -13,12 +13,12 @@ Puchnięcie może pojawiać się na twarzy. Jego przyczyną może być np.: zjed
 Puchnięcie związane z infekcją bakteryjną
 -----------------------------------------
 
-Puchnięcie zdaje się być związane z [infekcjami](/Infekcja_skóry "wikilink"), ponieważ często ustępuje po podaniu [antybiotyku](/antybiotyki "wikilink") (miejscowo w [maści](/maść "wikilink") lub doustnie).
+Puchnięcie zdaje się być związane z [infekcjami](/atopedia/Infekcja_skóry "wikilink"), ponieważ często ustępuje po podaniu [antybiotyku](/atopedia/antybiotyki "wikilink") (miejscowo w [maści](/atopedia/maść "wikilink") lub doustnie).
 
 **Zobacz też**
 
--   [Wysięk](/Wysięk "wikilink")
--   [Infekcja skóry](/Infekcja_skóry "wikilink")
--   [Reakcja alergiczna](/Reakcja_alergiczna "wikilink")
+-   [Wysięk](/atopedia/Wysięk "wikilink")
+-   [Infekcja skóry](/atopedia/Infekcja_skóry "wikilink")
+-   [Reakcja alergiczna](/atopedia/Reakcja_alergiczna "wikilink")
 
-[kategoria:objawy atopowego zapalenia skóry](/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")
+[kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

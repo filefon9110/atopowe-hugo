@@ -7,13 +7,13 @@ permalink: /Odporność/
 
 Odporność dzielimy na :
 
--   wrodzoną (nieswoistą) - wynika z istnienia [naturalnych barier i działania nieswoistych mechanizmów komórkowych](/Nieswoiste_bariery_odpornościowe "wikilink").
+-   wrodzoną (nieswoistą) - wynika z istnienia [naturalnych barier i działania nieswoistych mechanizmów komórkowych](/atopedia/Nieswoiste_bariery_odpornościowe "wikilink").
 -   nabytą (swoistą)
 -   czynną (wytwarzaną przez organizm)
 -   naturalną (powstałą w wyniku kontaktu z patogenem)
 -   sztuczną (powstałą po szczepieniach ochronnych)
 -   bierną (otrzymaną przez organizm)
--   naturalną (uzyskiwaną od matki wraz z [przeciwciałami](/Przeciwciało "wikilink") przenikającymi przez łożysko, lub znajdującymi się w mleku matki)
+-   naturalną (uzyskiwaną od matki wraz z [przeciwciałami](/atopedia/Przeciwciało "wikilink") przenikającymi przez łożysko, lub znajdującymi się w mleku matki)
 -   sztuczną (po otrzymaniu surowicy)
 
-[kategoria:ciało człowieka](/kategoria:ciało_człowieka "wikilink")
+[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

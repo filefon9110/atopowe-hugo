@@ -6,7 +6,7 @@ permalink: /Masło_sezamowe/
 **Składniki:**
 
 -   100 g sezamu
--   150 g masła lub [margaryny bezmlecznej](/Margaryna_bezmleczna "wikilink")
+-   150 g masła lub [margaryny bezmlecznej](/atopedia/Margaryna_bezmleczna "wikilink")
 -   sól
 
 **Przygotowanie:**
@@ -21,4 +21,4 @@ zapach. Schłodzić masę.
 
 -   Przechowywac w lodówce.
 
-[kategoria:przepisy](/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")
+[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/atopedia/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

@@ -47,4 +47,4 @@ Grafika:Brela.jpg|Brela Grafika:Kasielanka.jpg|Kasielanka Grafika:KiR.jpg|Kasiel
 
 Grafika:Wawa1.jpg|Kasielanka, Now Grafika:Wawa2.jpg|Wahwah, Kasielanka Grafika:Wawa3.jpg|Wahwah, Kasielanka, Mankow Grafika:Wawa4.jpg|Wahwah, Kasielanka, Mankowski Grafika:Wawa5.jpg| Grafika:Wawa6.jpg| Grafika:Wawa7.jpg| Grafika:Wawa8.jpg| Grafika:Wawa9.jpg| Grafika:Wawa10.jpg| Grafika:Wawa11.jpg| Grafika:Wawa12.jpg|
 
-[kategoria:Spotkania](/kategoria:Spotkania "wikilink")
+[kategoria:Spotkania](/atopedia/kategoria:Spotkania "wikilink")

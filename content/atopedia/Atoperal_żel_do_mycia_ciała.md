@@ -21,7 +21,7 @@ Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Urea, Sodium Lactate, Lino
 Wskazania:
 ----------
 
-Mycie, pielęgnacja i ochrona delikatnej skóry osób z wywiadem atopowym, czyli [skóry suchej](/sucha_skóra "wikilink"), nadmiernie łuszczącej się, skłonnej do podrażnień, wykazującej niską tolerancję na standardowe preparaty myjące; częste lub codzienne stosowanie do każdego rodzaju skóry wrażliwej, jako skuteczny preparat oczyszczający i przygotowujący skórę do zastosowania produktów pielęgnacyjnych.
+Mycie, pielęgnacja i ochrona delikatnej skóry osób z wywiadem atopowym, czyli [skóry suchej](/atopedia/sucha_skóra "wikilink"), nadmiernie łuszczącej się, skłonnej do podrażnień, wykazującej niską tolerancję na standardowe preparaty myjące; częste lub codzienne stosowanie do każdego rodzaju skóry wrażliwej, jako skuteczny preparat oczyszczający i przygotowujący skórę do zastosowania produktów pielęgnacyjnych.
 
 Opis działania:
 ---------------
@@ -32,16 +32,16 @@ Atoperal żel do mycia ciała:
 ----------------------------
 
 -   bardzo dobrze usuwa naturalne zabrudzenia skóry oraz utrzymuje
--   właściwą [higienę](/higiena "wikilink") ciała;
+-   właściwą [higienę](/atopedia/higiena "wikilink") ciała;
 -   delikatnie oddziałuje nawet na najbardziej wrażliwą skórę, zapobiegając nadmiernemu wysuszeniu i złuszczaniu naskórka;
 -   zachowuje naturalną osłonę lipidową skóry;
 -   wyraźnie zmniejsza szorstkość i wygładza naskórek;
--   przygotowuje skórę do zastosowania preparatów pielęgnacyjnych (np. [atoperal emulsja do ciała](/atoperal_emulsja_do_ciała "wikilink")).
+-   przygotowuje skórę do zastosowania preparatów pielęgnacyjnych (np. [atoperal emulsja do ciała](/atopedia/atoperal_emulsja_do_ciała "wikilink")).
 
 Sposób stosowania:
 ------------------
 
-Niewielką ilość żelu rozprowadzić dłonią po wilgotnej skórze, spłukać letnią czystą wodą, a następnie delikatnie, nie pocierając, osuszyć skórę ręcznikiem. Zaleca się stosowanie żelu wraz z innymi preparatami z linii atoperal®: [emulsją do ciała](/atoperal_emulsja_do_ciała "wikilink"), [kremem](/atoperal_krem "wikilink") i [szamponem](/Atoperal_szampon "wikilink").
+Niewielką ilość żelu rozprowadzić dłonią po wilgotnej skórze, spłukać letnią czystą wodą, a następnie delikatnie, nie pocierając, osuszyć skórę ręcznikiem. Zaleca się stosowanie żelu wraz z innymi preparatami z linii atoperal®: [emulsją do ciała](/atopedia/atoperal_emulsja_do_ciała "wikilink"), [kremem](/atopedia/atoperal_krem "wikilink") i [szamponem](/atopedia/Atoperal_szampon "wikilink").
 
 Przeciwwskazania:
 -----------------
@@ -59,4 +59,4 @@ Produkt nie zawiera sztucznych substancji barwiących.
 
 Produkt nietestowany na zwierzętach.
 
-[kategoria:kosmetyki](/kategoria:kosmetyki "wikilink") [kategoria:preparaty zawierające mocznik](/kategoria:preparaty_zawierające_mocznik "wikilink")
+[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

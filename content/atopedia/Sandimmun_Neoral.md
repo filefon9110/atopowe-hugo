@@ -7,7 +7,7 @@ permalink: /Sandimmun_Neoral/
 **Sandimmun Neoral**, 25 mg, kapsułki elastyczne
 **Sandimmun Neoral**, 50 mg, kapsułki elastyczne
 **Sandimmun Neoral**, 100 mg, kapsułki elastyczne
-*([Ciclosporinum](/Ciclosporinum "wikilink"))*
+*([Ciclosporinum](/atopedia/Ciclosporinum "wikilink"))*
 
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
@@ -226,7 +226,7 @@ tel : +48 22 55 08 888
 
 **Zobacz też**
 
--   [Cyklosporyna](/Cyklosporyna "wikilink")
--   [Leki immunosupresyjne](/Leki_immunosupresyjne "wikilink")
+-   [Cyklosporyna](/atopedia/Cyklosporyna "wikilink")
+-   [Leki immunosupresyjne](/atopedia/Leki_immunosupresyjne "wikilink")
 
-[kategoria:leki doustne](/kategoria:leki_doustne "wikilink") [kategoria:leki immunosupresyjne](/kategoria:leki_immunosupresyjne "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink")
+[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

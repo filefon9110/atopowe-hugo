@@ -11,7 +11,7 @@ Maść wykazuje działanie: Złuszczające i keratolityczne, zwiększające zdol
 Wskazania
 ---------
 
-Choroby przebiegające z zaburzeniem rogowacenia - nadmierne rogowacenie skóry stóp i dłoni, [łuszczyca](/łuszczyca "wikilink"), rogowacenie mieszkowe, łupież mieszkowy, [rybia łuska](/rybia_łuska "wikilink"). Ponadto alergiczny i niealergiczny wyprysk dłoni, [neurodermit](/neurodermitis "wikilink"), [atopowe zapalenie skóry](/atopowe_zapalenie_skóry "wikilink") oraz stany nadmiernego wysuszenia skóry o różnej etiologii.
+Choroby przebiegające z zaburzeniem rogowacenia - nadmierne rogowacenie skóry stóp i dłoni, [łuszczyca](/atopedia/łuszczyca "wikilink"), rogowacenie mieszkowe, łupież mieszkowy, [rybia łuska](/atopedia/rybia_łuska "wikilink"). Ponadto alergiczny i niealergiczny wyprysk dłoni, [neurodermit](/atopedia/neurodermitis "wikilink"), [atopowe zapalenie skóry](/atopedia/atopowe_zapalenie_skóry "wikilink") oraz stany nadmiernego wysuszenia skóry o różnej etiologii.
 
 Przeciwwskazania
 ----------------
@@ -32,4 +32,4 @@ Urea 10,0 g
 
 Vehiculum ad 100,00 g
 
-[kategoria:maści](/kategoria:maści "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:preparaty zawierające mocznik](/kategoria:preparaty_zawierające_mocznik "wikilink")
+[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

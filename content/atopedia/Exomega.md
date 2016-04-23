@@ -17,7 +17,7 @@ Krem nawilżająco-zmiękczający
 
 Do stosowania w czasie zaostrzeń i remisji AZS
 
--   skutecznie zmniejsza [suchość skóry](/suchość_skóry "wikilink"), [świąd](/świąd "wikilink") i zaczerwienienie
+-   skutecznie zmniejsza [suchość skóry](/atopedia/suchość_skóry "wikilink"), [świąd](/atopedia/świąd "wikilink") i zaczerwienienie
 -   odtwarza barierę hydrolipidową skóry
 -   zmniejsza reakcję alergiczną skóry
 -   zapewnia bardzo wysoką tolerancję poprzez brak konserwantów, barwników i protein (białek)
@@ -96,7 +96,7 @@ Szampon w piance
 
 Do stosowania w czasie zaostrzeń i remisji AZS.
 
--   przeznaczony do mycia włosów oraz owłosionej skóry głowy niemowląt i dzieci z [atopową](/skóra_atopowa "wikilink") i wrażliwą skórą
+-   przeznaczony do mycia włosów oraz owłosionej skóry głowy niemowląt i dzieci z [atopową](/atopedia/skóra_atopowa "wikilink") i wrażliwą skórą
 -   koi i nawilża skórę głowy
 -   włosy stają się miękkie i błyszczące
 -   postać pianki zapobiega spływaniu szamponu na twarz dziecka
@@ -123,4 +123,4 @@ Pojemność: 100ml
 
 Może być stosowany bez ograniczeń wieku.
 
-[kategoria:kosmetyki](/kategoria:kosmetyki "wikilink")
+[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

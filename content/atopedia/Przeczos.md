@@ -3,4 +3,4 @@ title: Przeczos
 permalink: /Przeczos/
 ---
 
-1.  redirect [Przeczosy](/Przeczosy "wikilink")
+1.  redirect [Przeczosy](/atopedia/Przeczosy "wikilink")

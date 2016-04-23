@@ -3,4 +3,4 @@ title: Staphylococus aureus
 permalink: /Staphylococus_aureus/
 ---
 
-1.  REDIRECT [Gronkowiec złocisty](/Gronkowiec_złocisty "wikilink")
+1.  REDIRECT [Gronkowiec złocisty](/atopedia/Gronkowiec_złocisty "wikilink")

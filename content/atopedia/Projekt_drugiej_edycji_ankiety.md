@@ -65,4 +65,4 @@ permalink: /Projekt_drugiej_edycji_ankiety/
 -   Czy masz mysli samobójcze? (nie | tak, z powodu chroby | tak, z innego powodu)
 -   Czy boisz się posiadać potomstwo? (nie | tak, z powodu choroby | tak, z innego powodu )
 
-[kategoria:Ankieta](/kategoria:Ankieta "wikilink")
+[kategoria:Ankieta](/atopedia/kategoria:Ankieta "wikilink")

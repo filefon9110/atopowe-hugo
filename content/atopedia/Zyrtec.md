@@ -164,7 +164,7 @@ Możliwe działania niepożądane:
 ------------------------------
 
 Jak każdy lek, lek Zyrtec® UCB może powodować działania niepożądane.
-Mogą niekiedy wystąpić łagodne i przemijające objawy niepożądane, takie jak: senność, zmęczenie, pobudzenie, bóle i zawroty głowy, suchość w ustach, lekkie zaburzenia ze strony układu pokarmowego, nieprawidłowa czynność wątroby, zapalenie błony śluzowej nosa. U niektórych osób mogą wystąpić objawy nadwrażliwości odczyny skórne i [obrzęk naczynioruchowy](/obrzęk_naczynioruchowy "wikilink"). Zanotowano pojedyncze przypadki trudności w oddawaniu moczu oraz zaburzenia akomodacji oka.
+Mogą niekiedy wystąpić łagodne i przemijające objawy niepożądane, takie jak: senność, zmęczenie, pobudzenie, bóle i zawroty głowy, suchość w ustach, lekkie zaburzenia ze strony układu pokarmowego, nieprawidłowa czynność wątroby, zapalenie błony śluzowej nosa. U niektórych osób mogą wystąpić objawy nadwrażliwości odczyny skórne i [obrzęk naczynioruchowy](/atopedia/obrzęk_naczynioruchowy "wikilink"). Zanotowano pojedyncze przypadki trudności w oddawaniu moczu oraz zaburzenia akomodacji oka.
 U niektórych osób w czasie stosowania leku Zyrtec® UCB mogą wystąpić inne działania niepożądane, W przypadku wystąpienia jakichkolwiek niepokojących objawów niepożądanych, wymienionych lub nie wymienionych w tej ulotce, należy niezwłocznie skontaktować się z lekarzem.
 
 Przechowywanie leku Zyrtec® UCB
@@ -185,4 +185,4 @@ tel.: + 48 22 862 67 20
 
 Data opracowania ulotki: 04.01.2005.
 
-[kategoria:leki doustne](/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/kategoria:leki_antyhistaminowe_II_generacji "wikilink")
+[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink")

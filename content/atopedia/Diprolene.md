@@ -20,7 +20,7 @@ Indeks farmakologiczny
 Mechanizm działania
 -------------------
 
-[Glikokortykosteryd](/Sterydy "wikilink") o silnym działaniu przeciwzapalnym, immunosupresyjnym i przeciwuczuleniowym. Lek hamuje uwalnianie mediatorów stanu zapalnego (leukotrienów, prostaglandyn). Zmniejsza przepuszczalność naczyń włosowatych i obrzęków. Lek stosuje się miejscowo lub pozajelitowo.
+[Glikokortykosteryd](/atopedia/Sterydy "wikilink") o silnym działaniu przeciwzapalnym, immunosupresyjnym i przeciwuczuleniowym. Lek hamuje uwalnianie mediatorów stanu zapalnego (leukotrienów, prostaglandyn). Zmniejsza przepuszczalność naczyń włosowatych i obrzęków. Lek stosuje się miejscowo lub pozajelitowo.
 
 Wskazania
 ---------
@@ -56,7 +56,7 @@ Przeciwwskazania
 Działania niepożądane
 ---------------------
 
--   [zespół Cushinga](/zespół_Cushinga "wikilink")
+-   [zespół Cushinga](/atopedia/zespół_Cushinga "wikilink")
 -   zmniejszenie wydzielania hormonów kory nadnerczy
 -   nadmierne owłosienie
 -   trądzik posterydowy
@@ -108,4 +108,4 @@ Producent
 
 Schering-Plough
 
-[kategoria:ulotki leków](/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/kategoria:kremy "wikilink") [kategoria:maści](/kategoria:maści "wikilink") [kategoria:leki sterydowe](/kategoria:leki_sterydowe "wikilink")
+[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink")

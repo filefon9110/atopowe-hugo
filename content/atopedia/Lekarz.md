@@ -3,4 +3,4 @@ title: Lekarz
 permalink: /Lekarz/
 ---
 
-1.  REDIRECT [Lekarze](/Lekarze "wikilink")
+1.  REDIRECT [Lekarze](/atopedia/Lekarze "wikilink")

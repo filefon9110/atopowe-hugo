@@ -13,4 +13,4 @@ Mutacja genu dla filagryny prowadzi do nieprawidłowej budowy bariery naskórkow
 
 1.  2.
 
-[kategoria:przyczyny atopowego zapalenia skóry](/kategoria:przyczyny_atopowego_zapalenia_skóry "wikilink") [kategoria:substancje chemiczne](/kategoria:substancje_chemiczne "wikilink") [kategoria:ciało człowieka](/kategoria:ciało_człowieka "wikilink")
+[kategoria:przyczyny atopowego zapalenia skóry](/atopedia/kategoria:przyczyny_atopowego_zapalenia_skóry "wikilink") [kategoria:substancje chemiczne](/atopedia/kategoria:substancje_chemiczne "wikilink") [kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")
