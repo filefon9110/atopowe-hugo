@@ -10,3 +10,5 @@ copyright: 2003-2016 Atopowe.pl
 params:
   logo: /images/atopowe-logo.png
 twitter: "https://twitter.com/atopowe"
+permalinks:
+  post: /:year/:month/:day/:slug/
