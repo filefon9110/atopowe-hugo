@@ -1,11 +1,12 @@
+title: "Atopowe Zapalenie Skóry"
 url: http://blog.atopowe.pl
 baseurl: http://blog.atopowe.pl
 language-code: pl-pl
-name: Blog Atopowy
+name: "Atopowe Zapalenie Skóry"
 description: >
   Nowiny, relacje, przemyślenia
   (skomentowane)
-theme: "hugo-zen"
 copyright: 2003-2016 Atopowe.pl
 params:
   logo: /images/atopowe-logo.png
+twitter: "https://twitter.com/atopowe"
