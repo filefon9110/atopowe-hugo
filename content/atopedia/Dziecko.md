@@ -1,0 +1,29 @@
+---
+title: Dziecko
+permalink: /Dziecko/
+---
+
+**Dziecko** chore na AZS potrzebuje akceptacji i wsparcia ze strony rodziców!
+
+Dzieci z AZS mogą być niespokojne i kapryśne z powodu [zaburzeń snu](/Bezsenność "wikilink") wywołanych [świądem](/Świąd "wikilink"). Często unikają kontaktu fizycznego kojarząc go z nakładaniem leków na skórę. Może u nich występować zmniejszony apetyt. Starsze dzieci mogą mieć trudności w nauce.
+
+[Lekarze](/Lekarze "wikilink") mówią, że duży procent dzieci [wyrasta z AZS](/Wyrastanie_z_AZS "wikilink").
+
+### Pielęgnacja
+
+Bardzo ważne jest zrozumienie i cierpliwość ze strony rodziców, nauka systematycznej [pielęgnacji](/Pielęgnacja "wikilink") skóry ([natłuszczanie](/Natłuszczanie "wikilink") i nawilżanie) i dbałość o aktywność ruchową. W miarę dorastania, dziecko powinno przejmować od rodziców dobre nawyki pielęgnacyjne. [Leki](/Leki "wikilink") powinny być nakładane ze szczególną delikatnością i uwagą, tak, aby dziecko nie kojarzyło momentu nakładania leków i pielęgnacji skóry z czymś nieprzyjemnym czy bolesnym.
+
+### Wybór zawodu
+
+Dla chorych na AZS niezmiernie ważny jest moment wyboru zawodu. Wykluczone są tu m.in. zawody zabiegowe i fryzjestwo.
+
+### Wakacje
+
+Wypoczynek z pożytkiem dla skóry - leczenie klimatyczne w miejscowościach nadmorskich lub podgórskich.
+
+### Zobacz także
+
+-   [Pielęgnacja skóry dziecka](http://media.netpr.pl/notatka_26286.html)
+-   [Wprowadzanie nowych pokarmów](/Wprowadzanie_nowych_pokarmów "wikilink")
+
+[kategoria:atopowe zapalenie skóry u dzieci](/kategoria:atopowe_zapalenie_skóry_u_dzieci "wikilink")

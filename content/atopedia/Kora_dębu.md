@@ -1,0 +1,12 @@
+---
+title: Kora dębu
+permalink: /Kora_dębu/
+---
+
+Kora dębu ma pomagać na pęknięcia, odmrożenia, oparzenia [skóry](/skóra "wikilink"). Przyjemna w użyciu i może nawet pomaga ale... bardzo farbuje. Ze zdrowej skóry ten kolor się zmywa, ale skóra atopika przybiera ciemnobrązowy kolor. Jest on tym trwalszy im bardziej zniszczona jest skóra. Wygląda to strasznie, uwidaczniają się wszelkie krostki, pęknięcia, pęcherzyki itp.
+
+**Zobacz także**
+
+-   [Oryginalny post z forum](http://www.atopowe.pl/forum/viewtopic.php?p=2666#2666)
+
+[kategoria:wpadki](/kategoria:wpadki "wikilink")

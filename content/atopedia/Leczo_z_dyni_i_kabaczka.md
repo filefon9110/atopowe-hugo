@@ -1,0 +1,28 @@
+---
+title: Leczo z dyni i kabaczka
+permalink: /Leczo_z_dyni_i_kabaczka/
+---
+
+Leczo nadaje się dla małych dzieci.
+
+**Składniki:**
+
+-   mięso (kura, indyk, królik - w zależności od możliwości)
+-   dynia (może być słoiczek Gerbera)
+-   kabaczek lub cukinia
+-   oliwa z oliwek
+-   sól (ew. przyprawy, jeśli dozwolone)
+-   ew. cebula (niekoniecznie)
+
+**Przygotowanie:**
+
+-   Mięso pokroić w kawałki, podsmażyć na oliwie (można nie podsmażać tylko podgotować).
+-   Dodać pokrojonej cebuli, zeszklić ją, zalać wodą.
+-   Dodać pokrojonego w kostkę kabaczka lub cukinię i dynię, podgotować wszystko aż mięso będzie miękkie.
+
+**Uwagi:**
+
+-   Nie doprawiona zupa ma dość mdły, dyniowy smak - ale małym [dzieciom](/dziecko "wikilink") to smakuje.
+-   Proporcje składników nie są specjalnie ważne, gotujesz tyle ile potrzebujesz.
+
+[kategoria:przepisy](/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

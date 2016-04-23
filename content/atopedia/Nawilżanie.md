@@ -1,0 +1,34 @@
+---
+title: Nawilżanie
+permalink: /Nawilżanie/
+---
+
+### Uroda z wody
+
+[Woda](/Woda "wikilink") jest źródłem życia. Stanowi ponad 70% wagi ludzkiego ciała. Jedyną barierą hamującą jej utratę z organizmu jest [skóra](/skóra "wikilink"). Prawidłowo nawilżony naskórek jest miękki i gładki. Aby być jak najbliżej ideału, potrzebuje odpowiedniej ilości wody i lipidów, które stanowią spoiwo komórkowe i są barierą powstrzymującą ucieczkę wody.
+
+Znana powszechnie historyjka o więdnącym i marszczącym się jabłku bez wątpienia wpływa na wyobraźnię, a przy okazji obrazowo tłumaczy, dlaczego skórę należy nawilżać regularnie, nie zaś tylko wtedy, gdy jest ściągnięta i przesuszona. Skóra pozbawiona wilgoci jest matowa, szorstka, szarawa, a z czasem traci elastyczność i... szybciej pokrywa się siateczką zmarszczek.
+
+### Nawilżamy od zewnątrz
+
+Wpływ wody na skórę nie jest jednak wcale jednoznacznie pozytywny. Gdyby [skóra](/skóra "wikilink") mogła czerpać wodę z zewnątrz, poziom jej nawilżenia wzrastałby po każdym umyciu. Jednak skóra przy dłuższym kontakcie z wodą ulega wysuszeniu i traci naturalną [barierę lipidową](/płaszcz_lipidowy "wikilink"). Działanie kremu nawilżającego polega na dostarczeniu skórze substancji, które wiążą wodę w [naskórku](/naskórek "wikilink") i zapobiegają jej nadmiernemu odparowywaniu z tkanek poprzez uszczelnianie warstwy rogowej skóry. Owszem, kremy najnowszej generacji transportują wodę w głąb naskórka, jednak znajdująca się tam woda pochodzi w większości ze skóry właściwej, gdzie trafia za pośrednictwem naczyń krwionośnych.
+
+Nowoczesną substancją stosowaną w kremach, balsamach lub żelach, niezbędną dla prawidłowego nawilżenia skóry jest [mocznik](/mocznik "wikilink"). Występuje on naturalnie w skórze, a jego deficyt powoduje odwodnienie z objawami silnego przesuszenia i rogowacenia. Dodatkową zaletą mocznika jest brak właściwości drażniących i alergizujących, co zapewnia pełne bezpieczeństwo jego stosowania.
+
+### Nawilżamy od wewnątrz
+
+Do zachowania odpowiedniego poziomu nawilżania potrzebne jest więc nie tylko działanie od zewnątrz - uszczelnienie warstwy rogowej naskórka i dostarczenie mu wody z pomocą kosmetyków, ale także nawodnienie całego organizmu. Warto wypijać co najmniej 2 litry płynów w ciągu dnia, najlepiej w postaci wody mineralnej i soków owocowych. Bez tego efekty działania kremów nawilżających będą połowiczne.
+
+### Warto wiedzieć
+
+-   Skóra najczęściej wysusza się w ekstremalnych warunkach klimatycznych - na mrozie, wietrze, słońcu, podczas wizyty w [solarium](/solarium "wikilink").
+-   Zaburzenia równowagi lipidowej powodują, że [warstwa ochronna](/płaszcz_lipidowy "wikilink") przestaje być szczelna i skóra zbyt szybko traci wodę.
+-   Zbyt [sucha skóra](/sucha_skóra "wikilink") powoduje znaczny dyskomfort, łuszczy się, piecze, ponadto pojawiają się na niej zmarszczki powierzchniowe.
+-   Sama woda to dla przesuszonej skóry zbyt mało. By odzyskała równowagę hydrolipidową należy dostarczyć jej substancji wiążących i zatrzymujących wodę w [naskórku](/naskórek "wikilink") np. [mocznik](/mocznik "wikilink").
+
+**Zobacz też**
+
+-   [Natłuszczanie](/Natłuszczanie "wikilink")
+-   [Emolienty](/Emolienty "wikilink")
+
+[kategoria:pielęgnacja](/kategoria:pielęgnacja "wikilink")

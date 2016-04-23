@@ -1,0 +1,6 @@
+---
+title: Katar sienny
+permalink: /Katar_sienny/
+---
+
+1.  REDIRECT [Alergiczny nieżyt nosa](/Alergiczny_nieżyt_nosa "wikilink")

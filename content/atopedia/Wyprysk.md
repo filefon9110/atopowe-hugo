@@ -1,0 +1,14 @@
+---
+title: Wyprysk
+permalink: /Wyprysk/
+---
+
+**Wypryskiem** nazywa się różnego rodzaju zmiany skórne. Jest to alergiczna choroba skóry.
+
+Objawy wyprysku mogą być różne. Najczęściej jest to [zaczerwienienie](/zaczerwienienie_skóry "wikilink") i [łuszczenie](/łuszczenie "wikilink") się skóry. [Świąd](/Świąd "wikilink") jest obecny przy wyprysku zawsze. Najczęstszą formą wyprysku jest wyprysk kontaktowy na podłożu alergicznym. Objawia się powstawaniem drobnych pęcherzyków na skórze wypełnionych płynem. Są to zmiany sączące, którym zazwyczaj towarzyszy świąd i pieczenie, później przechodzące w łuszczenie się i nadmierne rogowacenie skóry. Zaniechanie leczenia wyprysku może doprowadzić do liszajowacenia zmian skórnych. Alergenami są najczęściej detergenty, żywice, kosmetyki, leki do stosowania zewnętrznego i metale - szczególnie często nikiel i chrom, choć zdarzają się także uczulenia na metale szlachetne. Leczenie, podobnie jak w innych schorzeniach powiązanych z atopią - polega w sferze ogólnej na podawaniu leków antyhistaminowych, zaś zewnętrznie stosuje się glikokortykosteroidy, antybiotyki i środki przeciwgrzybicze (tylko w przypadku wtórnego zakażenia zmian skórnych drobnoustrojami) oraz wspomagająco emolienty i inne, obojętne preparaty natłuszczające.
+
+[kategoria:objawy atopowego zapalenia skóry](/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")
+
+**Zobacz też**
+
+-   [Zdjęcia](/Zdjęcia "wikilink")

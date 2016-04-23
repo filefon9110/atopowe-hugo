@@ -1,0 +1,12 @@
+---
+title: Pokrzywka
+permalink: /Pokrzywka/
+---
+
+Objawy przewlekłej pokrzywki to blade lub różowe, dobrze „obrysowane” wykwity na skórze w postaci nieregularnych plam lub bąbli, często otoczone przez rumień. Wykwity i bąble pojawiają się stale lub znikają i nawracają, niekoniecznie w tym samym miejscu; mogą być swędzące lub piekące. [Obrzęk naczynioruchowy](/Obrzęk_naczynioruchowy "wikilink") dotyczy głębszych warstw tkanki podskórnej, zaś objawy są podobne, jak w pokrzywce, toteż niekiedy trudne do odróżnienia, zwłaszcza, jeśli współistnieją ze zmianami pokrzywkowymi.
+
+Pokrzywkę określamy jako przewlekłą, jeśli zmiany pojawiają się stale lub nawracają w okresie dłuższym niż 6 tygodni. Nawroty mogą występować codziennie lub okresowo, np. raz lub kilka razy w miesiącu. Toteż w przeciwieństwie do ostrej pokrzywki, która trwa od kilku godzin do 6 tygodni i nie pojawia się już więcej, pokrzywka przewlekła lub skłonność do jej wystąpienia może trwać przez wiele lat.
+
+Czasem dolegliwości nie są uciążliwe i sprowadzają się do lokalnego wysiewu wykwitów, czy bąbli, czasem jednak objawy są tak nasilone i dokuczliwe, że uniemożliwiają pracę zawodową i prowadzenie normalnego życia. Czasami przewlekłej pokrzywce towarzyszy skłonność do [wstrząsu anafilaktycznego](/wstrząs_anafilaktyczny "wikilink"). Niekiedy objawy przewlekłej pokrzywki i obrzęku są zwiastunem ciężkich chorób układowych.
+
+[kategoria:Objawy atopowego zapalenia skóry](/kategoria:Objawy_atopowego_zapalenia_skóry "wikilink")
