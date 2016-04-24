@@ -46,5 +46,12 @@ które mają już istniejącą infrastrukturę.
 
 &mdash;wahwah
 
+-------
+
+*   2016-04-24: Atopedia, forum i blog są już w postaci archiwum i plików
+    statycznych. Teraz można je przenieść na normalny hosting, pod warunkiem że
+    będzie tam Apache i możliwość używania plików .htaccess i mod_rewrite, bo
+    jest to potrzebne do archiwum forum.
+
 [reddit]: https://www.reddit.com/r/atopowezapalenieskory/
 [github]: https://github.com/automatthias/atopowe-hugo
