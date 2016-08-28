@@ -1,18 +1,33 @@
 {{ partial "header.html" }}
-			<div class="page-header row">
-        <div class="col-md-8">
-          <h1>Atopowe Zapalenie Skóry</h1>
-        </div>
-        <div class="col-md-4">
+      <div class="jumbotron">
+        <div class="container">
+          <h1>
           <img class="img-circle" src="/images/atopowe-logo.png" alt="Logo" width="140" height="140">
+            Atopowe Zapalenie Skóry</h1>
+          <p>AZS, alergia, atopii i astma</p>
+          <div class="row">
+            <div class="col-md-4">
+              <a class="btn btn-primary btn-lg" href="http://pl.reddit.com/r/atopowezapalenieskory/" role="button">Zadaj pytanie &raquo;</a>
+            </div>
+            <div class="col-md-4">
+              <a class="btn btn-default btn-lg" href="/atopedia" role="button">Atopedia &raquo;</a>
+            </div>
+            <div class="col-md-4">
+              <a class="btn btn-default btn-lg" href="/forum" role="button">Archiwum starego forum &raquo;</a>
+            </div>
+          </div>
+          </p>
         </div>
-			</div>
+      </div>
 
+      <div class="container">
+      <h2>Ostatnie wpisy</h2>
 {{ range where .Data.Pages ".Params.permalink" "eq" nil }}
 		<article itemscope itemtype="http://schema.org/Blog">
 			<h3 class="entry-title" itemprop="headline"><a href="{{ .RelPermalink }}">{{ .Title }}{{ if .Draft }} #Draft{{ end }}</a></h3>
 			<span class="entry-meta"><time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time></span>
 		</article>
 {{ end }}
+      </div>
 
 {{ partial "footer.html" }}
