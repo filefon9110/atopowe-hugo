@@ -1,8 +1,29 @@
----
-title: Dział z lekarzami
-permalink: /Dział_z_lekarzami/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2016-08-30T21:24:19+01:00"
+title = "Polecani lekarze"
+aliases = [
+  "/atopedia/Dział_z_lekarzami"
+]
++++
+
+# Według województw
+
+*  [Dolnośląskie](#dolnośląskie)
+*  [Kujawsko-pomorskie](#kujawsko-pomorskie)
+*  [Lubelskie](#lubelskie)
+*  [Lubuskie](#lubuskie)
+*  [Łódzkie](#łódzkie)
+*  [Małopolskie](#małopolskie)
+*  [Mazowieckie](#mazowieckie)
+*  [Opolskie](#opolskie)
+*  [Podkarpackie](#podkarpackie)
+*  [Podlaskie](#podlaskie)
+*  [Pomorskie](#pomorskie)
+*  [Śląskie](#śląskie)
+*  [Świętokrzyskie](#świętokrzyskie)
+*  [Warmińsko-mazurskie](#warmińsko-mazurskie)
+*  [Wielkopolskie](#wielkopolskie)
+*  [Zachodniopomorskie](#zachodniopomorskie)
 
 ## Dolnośląskie
 
@@ -11,24 +32,14 @@ date: "2015-01-01T00:00:00+01:00"
 prof.	Eugeniusz	Baran
 Dermatolog Wenerolog
 
-
 Wrocław
 ul. Canaletta 4
 (071) 3483229
-
-
 
 --------
 
 dr n. med.	Anna	Franczuk
 Dermatolog
-
-
-
-
-
-
-
 
 --------
 
@@ -40,8 +51,6 @@ Wrocław
 ul. Wandy Rutkiewicz 3
 71 373 02 79
 
-
-
 --------
 
 dr n. med.	Grzegorz	Gąszczyk
@@ -51,8 +60,6 @@ Centrum Pneumonologii Dziecięcej
 Karpacz
 Myśliwska 13
 0-75 76 19 452
-
-
 
 --------
 
@@ -64,13 +71,10 @@ Wrocław
 
 071 327 02 59
 
-
-
 --------
 
 dr	Maria	Jarlińska
 Alergolog Pediatra
-
 
 Wrocław
 ul. Komuny Paryskiej 8 
@@ -109,11 +113,9 @@ dr n. med.	Zdzisława	Madej - Kwapisz
 Dermatolog
 NZOZ Gabinet Dermatologiczny
 
-
 ul. Szpitalna 6/4, Chojnów, Legnica, ul. Jaworzyńska 33 -35, Lubin, ul. Skłodowskiej-Curie 3
 604 492 508, Chojnow: (076) 818 83 17
 T
-
 
 --------
 
@@ -125,7 +127,6 @@ Lubin
 ul.Księcia Ludwika
 
 T
-
 
 --------
 
@@ -156,7 +157,6 @@ http://www.citodent.pl/
 dr Marek Ziarkiewicz
 Wenerolog Dermatolog
 
-
 Wrocław
 ul. Armii Krajowej 14a lok. 6
 0-601 97 67 85
@@ -168,12 +168,9 @@ http://www.dermatolog-ziarkiewicz.pl/
 dr Anna Gralec Zawadzka
 Alergolog
 
-
 Chełmno
 
-
 N
-
 
 --------
 
@@ -196,7 +193,6 @@ SPZOZ Przych. \&quot;Akademicka\&quot;
 Bydgoszcz
 Kołłątaja 9
 052-322-60-66
-
 
 --------
 
@@ -244,8 +240,6 @@ Toruń
 Storczykowa 8/10
 (056) 659 48 00
 
-
-
 --------
 
  dr Elżbieta Skwarek
@@ -255,8 +249,6 @@ prywatny Szpital Specjalistyczny MATOPAT
 Toruń
 Storczykowa 8/10
 (056) 659 48 00
-
-
 
 --------
 
@@ -268,8 +260,6 @@ Toruń
 Dąbrowskiego 2
 (056) 652 11 44, 652 10 68 (środy po 15.00)
 
-
-
 --------
 
  dr n. med. Barbara Zegarska
@@ -280,7 +270,6 @@ Bydgoszcz
 ul. Kurpińskiego 5
  (0-52) 325-58-10
 T
-
 
 ## Lubelskie
 
@@ -302,7 +291,6 @@ Specjalista Dermatolog - Eris Instytut
 Lublin
 Wieniawska 10
 0048 81 5382500
-
 
 --------
 
@@ -328,18 +316,13 @@ ul. Srebrna Góra 1B
 683835801
 T
 
-
 ## Łódzkie
 
 dr Agnieszka Brzozowska
 Alergolog
 Luxmed
 
-
-
-
 T
-
 
 --------
 
@@ -364,18 +347,15 @@ Pl. Hallera
 
 T
 
-
 --------
 
 dr Małgorzata  Cieślak
 Alergolog Wenerolog
 
-
 Łódź
 ul. Kamińskiego
 
 T
-
 
 --------
 
@@ -398,9 +378,7 @@ Szpitaj im Barlickiego
 
 Łódź
 
-
 T
-
 
 --------
 
@@ -437,7 +415,6 @@ Sporna, Armii Krajowej
 
 T
 
-
 --------
 
 ## Małopolskie
@@ -457,24 +434,18 @@ http://www.su.krakow.pl/poradnia-alergologiczna/personel
 dr n. med. Marek Brzewski
 Dermatolog Wenerolog
 
-
 Kraków
 ul.Długa 74
 0 608 472 034
-
-
 
 --------
 
 dr n. med. Monika Kapińska-Mrowiecka
 Alergolog Dermatolog
 
-
 Kraków
 Plac Na Groblach 14/1
 501700903
-
-
 
 --------
 
@@ -493,7 +464,6 @@ http://www.atopia.pl/
 dr Anna Korkosz
 Dermatolog
 
-
 Krakow
 Rejtana 2
  12 633 01 75
@@ -509,8 +479,6 @@ Alergo-Med
 Tarnów
 Goldhammera 10
 0..14 627 26 25
-
-
 
 --------
 
@@ -548,7 +516,6 @@ os.Dywizjonu 303 nr 2
 647-01-22
 T
 
-
 --------
 
 dr n. med. Marcin  Stobiecki
@@ -571,8 +538,6 @@ Przychodnia Gromada Medica
 Warszawa
 Powstańców Warszawy 2
 22 582 94 42
-
-
 
 --------
 
@@ -609,8 +574,6 @@ Warszawa
 ul. Wałbrzyska 46
 022 566 22 22  
 
-
-
 --------
 
 dr Anna Dankiewicz
@@ -622,16 +585,10 @@ ul. Struga 57A
 (048) 364 67 26
 T
 
-
 --------
 
 lek. Grażyna Dziekan
 Dermatolog
-
-
-
-
-
 
 http://www.babyderm.pl/
 
@@ -645,7 +602,6 @@ Warszawa
 Koszykowa 73
 
 T
-
 
 --------
 
@@ -680,9 +636,6 @@ Zespół Przychodni Specjalistycznych \&quot;Prima\&quot;
 Warszawa
 Nowogrodzka 84
 
-
-
-
 --------
 
 lek. Ivana Stankovic
@@ -711,7 +664,6 @@ Dambonia, 171
 77 887 21 21
 T
 
-
 --------
 
 lek. Zbigniew Kurzyca
@@ -735,7 +687,6 @@ Rzeszów
 ul. Krakowska 16
 017 863 09 39 w. 317
 
-
 --------
 
 lek. Maria Szuber
@@ -758,7 +709,6 @@ ul Waszyngtona 17
 85 7450513
 T
 
-
 --------
 
 lek. Romualda Niewiarowska-Paszko
@@ -770,7 +720,6 @@ Wojskowa 4
 0-85 745-90-36, 742-97-77
 T
 
-
 --------
 
 dr n. med. Aleksander Wroński
@@ -780,7 +729,6 @@ NZOZ Specjalistyczny Osrodek Dermatologiczny
 Białystok
 ul. Nowy Świat 17
 85 74 45 115
-
 
 ## Pomorskie
 
@@ -792,7 +740,6 @@ Sopot
 Chrobrego 6/8 P.208
 
 T
-
 
 --------
 
@@ -817,7 +764,6 @@ Dębinki 7/22
 58 349 25 80
 T
 
-
 --------
 
 dr n. med. Violetta Jereczek
@@ -835,12 +781,9 @@ http://www.szpital-morski.pl/dermatologia.html
 prof. Roman Nowicki
 Alergolog Dermatolog
 
-
 Sopot
 ul. Sobieskiego 9/11
 058 551 21 99 (od 14.00)
-
-
 
 --------
 
@@ -851,7 +794,6 @@ Dermatolog Alergolog
 Gdynia
 ul. Władysława IV 38b/18
 (58) 620 46 62
-
 
 olszanski@dermalergtrop.com
 
@@ -865,7 +807,6 @@ Gdańsk
 Jaśkowa Dolina 105
 (58) 340-72-56
 T
-
 
 --------
 
@@ -913,7 +854,6 @@ evi med
 Gdynia
 Biskupa Dominika 8-14
 
-
 http://www.sokolowska-wojdylo.pl/
 
 --------
@@ -925,9 +865,6 @@ Dermis
 Gdańsk
 Fieldorfa 21
 
-
-
-
 --------
 
 lek. Andrzej Turski
@@ -937,8 +874,6 @@ Pediatra
 Gdańsk
 Kartuska 119b
 58 3031435
-
-
 
 --------
 
@@ -951,18 +886,14 @@ ul Abrahama 57
 058 621-91-22
 T
 
-
 ## Śląskie
 
 dr Jadwiga Bergler-Miedzińska
 Dermatolog Wenerolog
 
-
 41-300 Dąbrowa Górnicza
 ul. Konopnickiej 30
 607 345 388, (32) 2622331 
-
-
 
 --------
 
@@ -975,7 +906,6 @@ ul. Curie- Skłodowskiej
 
 T
 
-
 --------
 
 dr n. med. Andrzej Bożek
@@ -985,8 +915,6 @@ Gabinet
 Katowice
 Zawiszy Czarnego 6
 32 254 03 56
-
-
 
 --------
 
@@ -999,7 +927,6 @@ Korczaka 19
 604933418
 T
 
-
 --------
 
 dr Joanna Orlicz-Widawska
@@ -1010,7 +937,6 @@ Germen SP.Z.O.O ul.Ks.Kard.Wyszyńskiego 4
 Ks.Kard.Wyszyńskiego 4
 032 258 02 32
 T
-
 
 --------
 
@@ -1023,7 +949,6 @@ ul. Daszyńskiego 154
 0-32-231-90-93
 T
 
-
 --------
 
 dr Irena Rzepecka
@@ -1035,18 +960,15 @@ ul. Lompy 16
 032-256-55-68
 T
 
-
 --------
 
 dr Magdalena Sąda-Cieślar
 Alergolog Pediatra
 
-
 Chorzów
 Powstańców 27
 
 T
-
 
 --------
 
@@ -1067,12 +989,9 @@ mediderm@mediderm.pl
 dr n. med. Barbara Szpyrka
 Dermatolog
 
-
 41-500 Chorzów
 Drzymały 12/1
 32 249 33 66
-
-
 
 ## Świętokrzyskie
 
@@ -1122,12 +1041,10 @@ dermask2@ump.edu.pl
 dr Piotr Czyż
 Dermatolog
 
-
 62-510 Konin
 1 Maja 425
 0 601 206 040
 N
-
 
 --------
 
@@ -1140,7 +1057,6 @@ ul. Dojazd 34
 (061)84-64-724
 T
 
-
 --------
 
 lek. Maria  Jankowska
@@ -1152,18 +1068,13 @@ Szpitalna 7
 603 982 798
 T
 
-
 --------
 
 dr Aleksander Karpisiewicz
 Dermatolog
 
-
 Poznań
 Św. Marcin
-
-
-
 
 --------
 
@@ -1174,8 +1085,6 @@ Prywatny Gabinet Dermatologiczny
 64-920 Piła
 al. Wojska Polskiego 20
 601 996 070, (67) 212-22-35
-
-
 
 --------
 
@@ -1188,7 +1097,6 @@ os. Wichrowe Wzgórze
 (0-61) 820-21-31
 T
 
-
 --------
 
 dr hab. med. Mariola Pawlaczyk
@@ -1199,7 +1107,6 @@ Poznań
 os. Kosmonautów 15
 0-601747670
 T
-
 
 --------
 
@@ -1212,7 +1119,6 @@ ul, Juraszów
 
 T
 
-
 --------
 
 lek. Anita Stojecka-Kuczmańska
@@ -1223,7 +1129,6 @@ Gabinet Prywatny
 Gorzuchy 29 k./Radliczyc
 (062) 762 71 40
 N
-
 
 --------
 
@@ -1246,8 +1151,6 @@ Allergicus s.c.
 ul. Leśmiana 7
 (0-91) 46-40-504 
 
-
-
 --------
 
 dr n. med. Piotr Bojko
@@ -1257,8 +1160,6 @@ NSZOZ Hipokrates
 71-073 Szczecin
 ul. Ku Słońcu 2/1
 91 433 22 95, 91 834 40 50
-
-
 
 --------
 
@@ -1271,18 +1172,15 @@ Moniuszki 9/2
 605 33 22 64
 N
 
-
 --------
 
 lek. Ewa Janowska
 Dermatolog
 
-
 Szczecin
 Gorkiego 3/1
 0601 77 10 99
 T
-
 
 --------
 
@@ -1295,7 +1193,6 @@ ul. Jagiellońska 67a
 9148 80 012
 T
 
-
 --------
 
 dr n. med. Marzena Perzanowska-Stefańska
@@ -1305,8 +1202,6 @@ Praktyka prywatna
 71-202 Szczecin
 ul. Reduta Ordona 22
 0601-767-131, rejestracja 0695-182-792
-
-
 
 --------
 
@@ -1326,12 +1221,9 @@ piotrowski.lech@onet.eu
 dr Zbigniew Sankowski
 Alergolog
 
-
 75-721 Koszalin
 Modrzejewskiej 13
 (94) 3425091
-
-
 
 --------
 
