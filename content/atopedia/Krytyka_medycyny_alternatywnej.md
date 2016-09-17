@@ -4,10 +4,9 @@ permalink: /Krytyka_medycyny_alternatywnej/
 date: "2015-01-01T00:00:00+01:00"
 ---
 
-[Medycyna alternatywna](/atopedia/Medycyna_alternatywna) bywa w
-dyskusjach oraz opiniach stawiana na równi z medycyną. W rzeczywistości
-równości takiej nie ma. Ten artykuł tłumaczy różnice oraz pomaga zastanowić się
-nad tym, jakie znaczenia kryją się za słowami takimi jak leczenie i
+[Medycyna alternatywna](/atopedia/Medycyna_alternatywna) bywa w stawiana na
+równi z medycyną. W rzeczywistości równości takiej nie ma. Ten artykuł opisuje
+różnice oraz pomaga zastanowić się, czym jest leczenie i jak ocenić jego
 skuteczność.
 
 Często zadawane pytania
@@ -16,7 +15,7 @@ Często zadawane pytania
 ### Co to jest medycyna alternatywna?
 
 Jest to zbiór procedur i interwencji, których skuteczność nie została
-potwierdzona naukowo.
+potwierdzona.
 
 ### Czy występuje ona pod innymi nazwami?
 
@@ -27,42 +26,42 @@ potwierdzona naukowo.
     *dodatkowo*, a nie *zamiast*. Prawdopodobnie jest to wynikiem nacisków ze
     strony środowisk medycznych, szczególnie jeżeli praktyki alternatywne są
     promowane przez lekarzy.
--   Holistyczna - kładzie nacisk na *całościowe* podejście do pacjenta.
+-   Holistyczna - kładzie nacisk na całościowe podejście do pacjenta.
 
 ### Alternatywna względem czego?
 
 Względem medycyny.
 
-W krajach anglojęzycznych popularne jest określenie *evidence-based
-medicine*[1], które można przetłumaczyć jako *medycyna oparta na materiałach
-dowodowych*, albo *medycyna oparta na faktach*.
+W krajach anglojęzycznych popularne jest określenie *evidence-based medicine*,
+które można przetłumaczyć jako *medycyna poparta dowodami*, albo *medycyna
+oparta na faktach*.
 
-### Co to znaczy, niepotwierdzone naukowo?
+### Co to znaczy, „niepotwierdzona skuteczność”?
 
-To znaczy, że nie udało się przeprowadzić eksperymentu, w którym byłoby widać,
-że dana interwencja rzeczywiście pomaga. Być może przeprowadzono eksperyment
-który wyszedł pozytywnie, ale nie był prawidłowo przeprowadzony. Ewentualnie
-przeprowadzono rzetelny eksperyment który nie wykazał żadnej skuteczności.
+To znaczy, że nie udało się przeprowadzić dobrego eksperymentu, który
+pokazałby, że dana interwencja pomaga. Być może przeprowadzono jakiś
+eksperyment, i wyszedł on pozytywnie, ale nie był przeprowadzony prawidłowo.
+Ewentualnie, przeprowadzono rzetelny eksperyment który nie wykazał
+skuteczności.
 
-### Czy to znaczy, że praktyki te są potwierdzone inaczej niż naukowo?
+### Czy to znaczy, że praktyki alternatywne są potwierdzone inaczej niż eksperymentalnie?
 
 Nie.
 
 Entuzjaści metod alternatywnych mogą opowiadać o przypadkach ozdrowienia, które
-przypisują tej czy innej praktyce alternatywnej. Są to jednak tylko
-anegdoty.[2] Dla przykładu, każdy może znaleźć anegdotę potwierdzającą
-szkodliwość palenia, jak i potwierdzającą nieszkodliwość. Prawie każdy słyszał
-lub sam opowiadał anegdotę o kimś kto przez całe życie palił papierosy i dożył
+przypisują tej czy innej praktyce alternatywnej. Są to jednak tylko anegdoty.
+Dla przykładu, każdy może znaleźć anegdotę potwierdzającą szkodliwość palenia,
+jak i potwierdzającą jego nieszkodliwość. Prawie każdy słyszał lub sam
+opowiadał anegdotę o kimś kto przez całe życie palił papierosy i dożył
 sędziwego wieku, albo historię o kimś kto umarł na raka płuc lub choroby serca
 związane z paleniem. W związku z tym anegdoty ani niczemu nie zaprzeczają, ani
 niczego nie potwierdzają.
 
-Z praktycznego punktu widzenia, rozpatrując pojedynczy przypadek nie możemy
-stwierdzić, czym spowodowane było wyleczenie. Wiemy jaką zastosowano terapię,
-oraz fakt że ktoś powrócił do zdrowia. Nie widzimy jednak tego jak terapia
-spowodowała wyzdrowienie. Niezależnie od tego, czy rozpatrujemy praktykę
-medyczną czy alternatywną, nie możemy wyciągać wniosków o jej skuteczności na
-podstawie anegdot.
+W pojedynczym przypadku nie mamy jak stwierdzić, czym spowodowana była poprawa
+stanu pacjenta.  Wiemy jaką zastosowano terapię, oraz fakt że ktoś powrócił do
+zdrowia. Nie widzimy jednak tego, jak terapia spowodowała wyzdrowienie.
+Niezależnie od tego, czy rozpatrujemy praktykę medyczną czy alternatywną, nie
+możemy wyciągać wniosków o jej skuteczności na podstawie anegdot.
 
 Aby można było odpowiedzialnie stwierdzić, czy dana praktyka jest skuteczna,
 potrzebne są rzetelne badania kliniczne.
@@ -86,7 +85,7 @@ albo sugestia. Czynników takich może być wiele.
 
 ### Jakie czynniki zakłócają wyniki badań?
 
-Przypadek : Badanie na jednym pacjencie nie ma wielkiego sensu, ponieważ jeden
+**Przypadek** : Badanie na jednym pacjencie nie ma wielkiego sensu, ponieważ jeden
 pacjent może zachorować lub wyzdrowieć zupełnie przypadkiem. Badanie na
 dziesięciu pacjentach jest już lepsze, na stu pacjentach jeszcze lepsze… im
 większa jest próba, tym lepiej. W zależności od tego jak dużą pewność chce się
@@ -94,19 +93,19 @@ uzyskać, należy zrobić badania na odpowiednio dużej próbie. (Oczywiście, j
 chcemy sprawdzić czy badana substancja nie jest przypadkiem śmiertelną
 trucizną, badanie na jednym pacjencie ma jak najbardziej sens.)
 
-Brak punktu odniesienia : Jeżeli badamy czy badany lek leczy, nie wystarczy
+**Brak punktu odniesienia** : Jeżeli badamy czy badany lek leczy, nie wystarczy
 podać go jakiejś grupie osób i stwierdzić że z czasem poczuli się lepiej. Być
 może oni poczuliby się lepiej niezależnie od leczenia. Potrzebna jest grupa
 osób która badanego leku nie dostaje, i dopiero różnice pomiędzy jedną grupą a
 drugą mogą wskazywać na skuteczność leku.
 
-Zły punkt odniesienia : Grupa kontrolna i grupa badana muszą powstać w wyniku
+**Zły punkt odniesienia** : Grupa kontrolna i grupa badana muszą powstać w wyniku
 losowania. Niedoskonałości w randomizacji mogą zakończyć się tym, że jedna
 grupa osób będzie w systematyczny sposób zdrowsza niż druga. Wtedy wynik
 badania nie wykaże skuteczności leku, a tylko fakt że jedna grupa jest z
 grubsza zdrowsza.
 
-Sugestia : Pacjenci którzy *wiedzą* lub *myślą* że są leczeni, mają tendencję
+**Sugestia** : Pacjenci którzy *wiedzą* lub *myślą* że są leczeni, mają tendencję
 do oceniania swojego stanu jako lepszy niż pacjenci w podobnym stanie, którzy
 nie byli leczeni, lub nie wydaje im się żeby byli leczeni. Podobnie jest z
 lekarzami: Lekarz oceniający stan pacjenta będzie miał tendencję żeby oceniać
