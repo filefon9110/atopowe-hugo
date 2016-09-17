@@ -173,7 +173,7 @@ przesadnym promowaniu czegoś na polu opieki medycznej. Znachor to w potocznym
 rozumieniu osoba która twierdzi że potrafi leczyć ludzi, ale nie posiadająca
 odpowiednich kwalifikacji.
 
-*Zobacz też [artykuł o znachorstwie](/atopedia/znachorstwo).*
+*Zobacz też [artykuł o znachorstwie](/atopedia/Znachorstwo).*
 
 ### Czy każdy znachor to oszust?
 
@@ -248,7 +248,7 @@ Stoi za tym szereg mechanizmów społecznych i psychologicznych.
 
 *   Zastraszanie : Promowanie metod alternatywnych w dużej mierze opiera się na
     zniechęcaniu do medycyny konwencjonalnej. Do najpopularniejszych strategii
-    należy straszenie skutkami ubocznymi [sterydów](/atopedia/sterydy). Owszem,
+    należy straszenie skutkami ubocznymi [sterydów](/atopedia/Steryd). Owszem,
     sterydy używane nadmiernie i/lub przez długi okres czasu mają skutki
     uboczne. Jednak stwierdzenia takie jak „jednokrotne posmarowanie skóry
     maścią sterydową powoduje uszkodzenie jej aż do samego korzenia na wiele
@@ -321,7 +321,7 @@ zaleczoną skórę można dalej kontrolować niedużymi dawkami leków.
 ### „Medycyna konwencjonalna leczy wyłącznie objawowo”
 
 Owszem, w dużej mierze, ale nie wyłącznie. W AZS mamy często do czynienia z
-[błędnym kołem](/atopedia/błędne_koło), gdzie jeden problem powoduje powstanie
+[błędnym kołem](/atopedia/Błędne_koło), gdzie jeden problem powoduje powstanie
 innego problemu. Jeżeli mamy infekcję skóry spowodowaną uszkodzeniem skóry,
 które zostało spowodowane drapaniem, które to drapanie zostało spowodowane
 świądem, to podanie leku przeciwświądowego jest leczeniem objawowym, czy
@@ -360,7 +360,7 @@ naprawdę, jakie mają działanie na organizm człowieka. Badania kliniczne słu
 nie tylko potwierdzaniu skuteczności, ale także skutków ubocznych i
 potencjalnych problemów. Znane są przypadki leków alternatywnych które, wbrew
 zapewnieniom znachorów mają skutki uboczne; na przykład „cudowna” maść [Piyan
-Ping](/atopedia/Piyan_Ping) zawiera [steryd](/atopedia/steryd) dexametazon.
+Ping](/atopedia/Piyan_Ping) zawiera [steryd](/atopedia/Steryd) dexametazon.
 Inne są po prostu szkodliwe, na przykład niektóre leki ajurwedyczne zawierają
 ołów i inne metale ciężkie[7].
 
