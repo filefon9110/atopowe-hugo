@@ -398,3 +398,5 @@ Przypisy
 
 * [STANOWISKO Nr 24-02-IV NACZELNEJ RADY LEKARSKIEJ z dnia 8 listopada 2002 r.
   w sprawie tzw. medycyny alternatywnej](http://www.racjonalista.pl/kk.php/s,5969)
+* [Lekarze, naukowcy, szarlatani. Od przerażonego pacjenta do świadomego
+  konsumenta](http://septem.pl/ksiazki/lekarze-naukowcy-szarlatani-od-przerazonego-pacjenta-do-swiadomego-konsumenta-ben-goldacre,leknau.htm)
