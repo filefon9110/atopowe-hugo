@@ -21,7 +21,6 @@
       </div>
 
       <div class="container">
-      <h2>Ostatnie wpisy</h2>
 {{ range where .Data.Pages ".Params.permalink" "eq" nil }}
 		<article itemscope itemtype="http://schema.org/Blog">
 			<h3 class="entry-title" itemprop="headline"><a href="{{ .RelPermalink }}">{{ .Title }}{{ if .Draft }} #Draft{{ end }}</a></h3>
