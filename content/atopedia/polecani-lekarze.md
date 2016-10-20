@@ -618,6 +618,17 @@ http://www.dermedicus.pl/
 
 --------
 
+dr Katarzyna Rolf
+Dietetyk
+Szkoła Główna Gospodarstwa Wiejskiego
+Wydział Nauk o Żywieniu Człowieka i Konsumpcji
+
+Poradnia Dietetyczno-Psychologiczna ACAI
+608 309 259
+http://www.acai.waw.pl
+
+--------
+
 dr Lidia Ruszkowska
 Dermatolog
 Ordynator Oddziału Dermatologii Dziecięcej Międzyleskiego Szpitala Specjalistycznego
